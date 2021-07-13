@@ -1,0 +1,117 @@
+stage 1 line 1 has 0 matches.
+stage 1 line 2 has 0 matches.
+stage 1 line 3 has 0 matches.
+stage 1 line 4 has 0 matches.
+stage 1 line 5 has 0 matches.
+stage 1 line 6 has 0 matches.
+stage 1 line 7 has 4 matches.
+file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 0 id wavesurfer_jf88cied2c text 10000
+file 6F65C77098EE74A3B485A423B0D9ED1372C2FB7B363C19D89A4460863ED33B2F split 0 id wavesurfer_2ukjdq7pre text 1025
+file 8B5AC0199AB3AF6544191314E3386986599E0805B3DCE9B36705576073FE6943 split 1 id wavesurfer_jhqle1mq1q text 1254
+file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 0 id wavesurfer_mmoge5mil78 text 1025
+stage 1 line 8 has 0 matches.
+stage 1 line 9 has 0 matches.
+stage 1 line 10 has 0 matches.
+stage 1 line 11 has 0 matches.
+stage 1 line 12 has 0 matches.
+stage 1 line 13 has 2 matches.
+file 0552C7DADD1FE1D9239C58C02F2D0440F595A504EDB5AF08063B88F66A239FE4 split 1 id wavesurfer_lade4epk5k text 核实
+file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 2 id wavesurfer_h9ttprfmf48 text 核实
+stage 1 line 14 has 0 matches.
+stage 1 line 15 has 0 matches.
+stage 1 line 16 has 1 matches.
+file 11931290C1F62C14E202628AFC4EC2F2B23008FB24B033E1A9D8AFE2C4D52B0A split 1 id wavesurfer_rt2obia1h7 text 高度表1018
+stage 1 line 17 has 0 matches.
+stage 1 line 18 has 0 matches.
+stage 1 line 19 has 2 matches.
+file 11931290C1F62C14E202628AFC4EC2F2B23008FB24B033E1A9D8AFE2C4D52B0A split 1 id wavesurfer_th4fmus39kg text 1018
+file 74CE646EF173DC01C954FB32687E62AB0F98FDA44EC789A322EEB1EA21CD split 4 id wavesurfer_2n1tae3t908 text 3900
+stage 1 line 20 has 0 matches.
+stage 1 line 21 has 0 matches.
+stage 1 line 22 has 1 matches.
+file 11931290C1F62C14E202628AFC4EC2F2B23008FB24B033E1A9D8AFE2C4D52B0A split 1 id wavesurfer_1upopb38v78 text 进近检查单完成
+stage 1 line 23 has 0 matches.
+stage 1 line 24 has 0 matches.
+stage 2 line 1 has 1 matches.
+file A8F00EABF158BAFEA12C8C7082FD24D2E6B2EE519FF49BB951ACEAD9CB3C9B07 split 4 id wavesurfer_u58bltfivo text 襟翼30
+stage 2 line 2 has 3 matches.
+file AF019351825FE6F7DEBC17F4AB7EC5C335E41E46227050D8C874E837C12DD5EA split 3 id wavesurfer_gm1f3i2hv9 text 襟翼15
+file D9699FC08C583001A448E087ACAA749199303EC1F4F9FD2ACFF43CB9C57C85CE split 1 id wavesurfer_3ngd3g0mhqo text 襟翼5
+file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 2 id wavesurfer_qas3t6t6d78 text 襟翼25
+stage 2 line 3 has 1 matches.
+file 8C50ECD72CFDE5E72638987174B5B13C1AD9F6113E2CAD279E20814CC2367637 split 5 id wavesurfer_igi7kuro2ig text 襟翼5速度
+stage 2 line 4 has 3 matches.
+file AF019351825FE6F7DEBC17F4AB7EC5C335E41E46227050D8C874E837C12DD5EA split 3 id wavesurfer_v4coqfd90jo text 襟翼15到位
+file DF6C7949F07C97DFF06922FB46F5DA6B91736ED16C881B7547D22DE97DF22A2E split 2 id wavesurfer_32goe0n9no8 text 襟翼5到位
+file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 2 id wavesurfer_q8vn7mnu35g text 襟翼25到位
+stage 2 line 5 has 0 matches.
+stage 2 line 6 has 0 matches.
+stage 2 line 7 has 1 matches.
+file CFE60B6373709777DC35ADE915271F219B052CA0E119EEEF1AAF2F94435F9A1F split 3 id wavesurfer_ch3nn27m53o text APP预位
+stage 2 line 8 has 1 matches.
+file 5B38968C062C8144C91767654538A05C62A857DFFB5D3F54142CB7BE442942AE split 2 id wavesurfer_ibj94n4fcmo text 航道截获
+stage 2 line 9 has 0 matches.
+stage 2 line 10 has 1 matches.
+file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 2 id wavesurfer_dc5h5isi58o text 证实
+stage 2 line 11 has 0 matches.
+stage 2 line 12 has 0 matches.
+stage 2 line 13 has 0 matches.
+stage 2 line 14 has 1 matches.
+file 66BBA8F3F36452D2F4D9F7A2099B3AFFB8D6740F67BB35104BAE420E01FF split 6 id wavesurfer_4e7hrg6pdf8 text 襟翼15速度
+stage 2 line 15 has 0 matches.
+stage 2 line 16 has 0 matches.
+stage 2 line 17 has 0 matches.
+stage 2 line 18 has 0 matches.
+stage 2 line 19 has 0 matches.
+stage 2 line 20 has 4 matches.
+file 142D666798F5E98F35DB54B743AEE990B6525FCC284A7F21C737FA824FB5 split 4 id wavesurfer_utu1btrdv6g text 证实
+file 794E09149C37BF55EEB47665C8348DEC71B74723B6B9C878EEEFEADD85C2E75F split 5 id wavesurfer_bvc2uhq6b8g text 证实
+file 8B5AC0199AB3AF6544191314E3386986599E0805B3DCE9B36705576073FE6943 split 6 id wavesurfer_095nahqh3j text 证实
+file D9699FC08C583001A448E087ACAA749199303EC1F4F9FD2ACFF43CB9C57C85CE split 3 id wavesurfer_lvdvb52kqt text 证实
+stage 2 line 21 has 0 matches.
+stage 2 line 22 has 0 matches.
+stage 2 line 23 has 2 matches.
+file 8C50ECD72CFDE5E72638987174B5B13C1AD9F6113E2CAD279E20814CC2367637 split 6 id wavesurfer_fuei0t28gg8 text 连续
+file C3E29C441F3267CFCD5CFCA6F8B5C653E0B8AB559F6F4D74DE1DA8C345D9270E split 4 id wavesurfer_h7efo1nmcig text 连续
+stage 2 line 24 has 0 matches.
+stage 2 line 25 has 1 matches.
+file 88A9EEB134F273D74DF02266AED5EF0C9B007EB2C2661261546B052FF7F7 split 3 id wavesurfer_m84tk25qcc8 text 预位
+stage 2 line 26 has 0 matches.
+stage 2 line 27 has 0 matches.
+stage 2 line 28 has 0 matches.
+stage 2 line 29 has 0 matches.
+stage 2 line 30 has 0 matches.
+stage 2 line 31 has 1 matches.
+file 9869A7FEAE149D6314A5560DD489F81FECE5ECAD4D20A585D97C4D4386B0DC29 split 4 id wavesurfer_ppljb422ckg text 核实
+stage 2 line 32 has 1 matches.
+file C3E29C441F3267CFCD5CFCA6F8B5C653E0B8AB559F6F4D74DE1DA8C345D9270E split 4 id wavesurfer_6hp4e5pb2oo text 着陆检查单完成
+stage 3 line 1 has 0 matches.
+stage 3 line 2 has 0 matches.
+stage 3 line 3 has 1 matches.
+file A5F14B983EBD09676C80B2E6D9231CFC8CB6A009E7FBC260B6D262FAC74670D7 split 5 id wavesurfer_vg93h3eej2 text 1000稳定
+stage 3 line 4 has 0 matches.
+stage 3 line 5 has 2 matches.
+file A5F14B983EBD09676C80B2E6D9231CFC8CB6A009E7FBC260B6D262FAC74670D7 split 6 id wavesurfer_uivjclp0t18 text 500稳定
+file AF019351825FE6F7DEBC17F4AB7EC5C335E41E46227050D8C874E837C12DD5EA split 4 id wavesurfer_iffa6li2lm text 500稳定
+stage 3 line 6 has 0 matches.
+stage 3 line 7 has 0 matches.
+stage 3 line 8 has 1 matches.
+file 0552C7DADD1FE1D9239C58C02F2D0440F595A504EDB5AF08063B88F66A239FE4 split 6 id wavesurfer_vrteeing52o text 差100
+stage 3 line 9 has 2 matches.
+file 9869A7FEAE149D6314A5560DD489F81FECE5ECAD4D20A585D97C4D4386B0DC29 split 5 id wavesurfer_snbblijgfp8 text 继续
+file 9A1CAF20489E956B2A676AEB935CE2DC9A48A270B846193F2B08BC207B115FE3 split 4 id wavesurfer_fo6s06gvh2o text 继续
+stage 3 line 10 has 1 matches.
+file 0552C7DADD1FE1D9239C58C02F2D0440F595A504EDB5AF08063B88F66A239FE4 split 6 id wavesurfer_ftju6tp89i8 text 300稳定
+stage 3 line 11 has 0 matches.
+stage 3 line 12 has 0 matches.
+stage 3 line 13 has 0 matches.
+stage 3 line 14 has 0 matches.
+stage 4 line 1 has 1 matches.
+file B9E23ED4EF24AB7D6535520D587F26DDA2B89B585E89C38FF1D8B4CD4DACF444 split 3 id wavesurfer_ahj85a2kk2 text 减速板升起
+stage 4 line 2 has 0 matches.
+stage 4 line 3 has 3 matches.
+file 74CE646EF173DC01C954FB32687E62AB0F98FDA44EC789A322EEB1EA21CD split 8 id wavesurfer_m28uupn0sp8 text 反推正常
+file 87D598DA932E3362DC2DDF3C4D8253289B69893C7385185FFA5E849942A0 split 5 id wavesurfer_gjv7aia611 text 反推正常
+file B9E23ED4EF24AB7D6535520D587F26DDA2B89B585E89C38FF1D8B4CD4DACF444 split 4 id wavesurfer_n82olbsuqdg text 反推正常
+stage 4 line 4 has 0 matches.
+stage 4 line 5 has 0 matches.
