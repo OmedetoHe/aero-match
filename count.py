@@ -1,8 +1,10 @@
 import json
+import os
 from compare import reset_count_process
-from compare import compare_and_count
+from compare import compare_and_count_with_strategy
 from compare import init_lines
 from compare import output_result
+from compare import underline_compare
 # from compare import lines
 
 
@@ -42,6 +44,9 @@ if __name__ == "__main__":
     realFileCount = 0
 
     wholeSplitInf = {}
+
+    os.remove('./result/cer.txt')
+    # print(underline_compare('a_ab', 'a11bb'))
 
     print('==================================================')
     for num in range(6):
@@ -107,6 +112,7 @@ if __name__ == "__main__":
 
         # start to compare
         # print(PMIDList)
-        compare_and_count(realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList)
+        compare_and_count_with_strategy(realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList)
 
     output_result()
+    # print('_aa'.split('_'))
