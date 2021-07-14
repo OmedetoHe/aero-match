@@ -10,6 +10,7 @@ expect_next_line = ('PF', '下降检查单')
 files_short_of = {}
 # files_short_of 文件缺少的喊话
 lines_statistics = {}
+match_by_file = {}
 
 def init_lines():
     print('====================   lines initialization   ====================')
@@ -47,11 +48,14 @@ def init_lines():
 
     lines_statistic = {}
     file_short_of = {}
+    match_by_stage = {}
     for i in range(24):
         lines_statistic[i + 1] = []
         file_short_of[i + 1] = []
+        match_by_stage[i + 1] = 0
     lines_statistics[1] = lines_statistic
     files_short_of[1] = file_short_of
+    match_by_file[1] = match_by_stage
 
     # stage 2
     stage_lines = {}
@@ -97,11 +101,14 @@ def init_lines():
 
     lines_statistic = {}
     file_short_of = {}
+    match_by_stage = {}
     for i in range(32):
         lines_statistic[i + 1] = []
         file_short_of[i + 1] = []
+        match_by_stage[i + 1] = 0
     lines_statistics[2] = lines_statistic
     files_short_of[2] = file_short_of
+    match_by_file[2] = match_by_stage
 
     # stage 3
     stage_lines = {}
@@ -130,11 +137,14 @@ def init_lines():
 
     lines_statistic = {}
     file_short_of = {}
+    match_by_stage = {}
     for i in range(14):
         lines_statistic[i + 1] = []
         file_short_of[i + 1] = []
+        match_by_stage[i + 1] = 0
     lines_statistics[3] = lines_statistic
     files_short_of[3] = file_short_of
+    match_by_file[3] = match_by_stage
 
     # stage 4
     stage_lines = {}
@@ -152,11 +162,14 @@ def init_lines():
 
     lines_statistic = {}
     file_short_of = {}
+    match_by_stage = {}
     for i in range(5):
         lines_statistic[i + 1] = []
         file_short_of[i + 1] = []
+        match_by_stage[i + 1] = 0
     lines_statistics[4] = lines_statistic
     files_short_of[4] = file_short_of
+    match_by_file[4] = match_by_stage
     files_short_of[-1] = {}
     files_short_of[-1][-1] = []
 
@@ -641,6 +654,103 @@ def ahead_match(start_stage, start_line_number, identity, actual_string):
             ahead_stage += 1
             ahead_line_number = 1
     return False, -1, -1, -1
+
+
+def non_identity_compare(real_file_name, split_num_list, pm_records_list, pf_records_list, pm_id_list, pf_id_list):
+
+    print('====================   file {} comparison start   ===================='.format(real_file_name))
+    # 初始化统计列表
+    flag_by_file = {}
+    for stage_iter in range(len(lines)):
+        flag_by_stage = {}
+        for line_iter in range(len(lines[stage_iter + 1])):
+            flag_by_stage[line_iter + 1] = 0
+        flag_by_file[stage_iter + 1] = flag_by_stage
+    match_list = []
+    not_match_list = []
+
+    # 开始循环比较
+    for split_iter in range(len(split_num_list)):
+        print('====================   split {} comparison start   ===================='.format(split_num_list[split_iter]))
+        pm_records = pm_records_list[split_iter]
+        pf_records = pf_records_list[split_iter]
+        pm_id = pm_id_list[split_iter]
+        pf_id = pf_id_list[split_iter]
+
+        # pf 部分的比较
+        for pf_iter in range(len(pf_id)):
+            certain_record = pf_records[pf_id[pf_iter]]
+
+            #注意去除@
+            if '@' in certain_record[1]:
+                continue
+
+            match_stage, match_line = match_by_process(certain_record[1], flag_by_file)
+            if match_stage == -1:
+                not_match_list.append((split_num_list[split_iter], pf_id[pf_iter], 'PF', certain_record))
+            else:
+                match_list.append((split_num_list[split_iter], pf_id[pf_iter], 'PF', certain_record))
+                flag_by_file[match_stage][match_line] += 1
+                match_by_file[match_stage][match_line] += 1
+
+        # pm 部分的比较
+        for pm_iter in range(len(pm_id)):
+            certain_record = pm_records[pm_id[pm_iter]]
+
+            #注意去除@
+            if '@' in certain_record[1]:
+                continue
+
+            match_stage, match_line = match_by_process(certain_record[1], flag_by_file)
+            if match_stage == -1:
+                not_match_list.append((split_num_list[split_iter], pm_id[pm_iter], 'PM', certain_record))
+            else:
+                match_list.append((split_num_list[split_iter], pm_id[pm_iter], 'PM', certain_record))
+                flag_by_file[match_stage][match_line] += 1
+                match_by_file[match_stage][match_line] += 1
+
+    # 输出结果
+    match_file = open('./result/match.txt', 'a')
+    print('file {} has {} match.'.format(real_file_name, len(match_list)), file=match_file)
+    for match_iter in range(len(match_list)):
+        output_tuple = match_list[match_iter]
+        print('split {} id {} label {} text {}'.format(output_tuple[0], output_tuple[1], output_tuple[2], output_tuple[3][1]), file=match_file)
+
+    not_match_file = open('./result/not_match.txt', 'a')
+    print('file {} has {} not match.'.format(real_file_name, len(not_match_list)), file=not_match_file)
+    for not_match_iter in range(len(not_match_list)):
+        output_tuple = not_match_list[not_match_iter]
+        print('split {} id {} label {} text {}'.format(output_tuple[0], output_tuple[1], output_tuple[2], output_tuple[3][1]), file=not_match_file)
+
+    statistic_file = open('./result/statistics.txt', 'a')
+    print('file {}'.format(real_file_name), file=statistic_file)
+    for stage_iter in range(len(lines)):
+        flag_by_stage = flag_by_file[stage_iter + 1]
+        for line_iter in range(len(lines[stage_iter + 1])):
+            print('stage {} line {} has {} match, expect {}.'.format(stage_iter + 1, line_iter + 1, flag_by_stage[line_iter + 1],
+                                                                    lines[stage_iter + 1][line_iter + 1]), file=statistic_file)
+
+    return len(match_list), len(not_match_list)
+
+
+def match_by_process(actual_string, flag):
+
+    for stage_iter in range(len(lines)):
+        stage_line = lines[stage_iter + 1]
+        for line_iter in range(len(stage_line)):
+            if flag[stage_iter + 1][line_iter + 1] == 1:
+                continue
+            expect_line = stage_line[line_iter + 1]
+            if len(expect_line) == 2:
+                compare_result = compare_line(expect_line[1], actual_string)
+                if compare_result:
+                    return stage_iter + 1, line_iter + 1
+            else:
+                compare_result1 = compare_line(expect_line[1], actual_string)
+                compare_result2 = compare_line(expect_line[2], actual_string)
+                if compare_result1 or compare_result2:
+                    return stage_iter + 1, line_iter + 1
+    return -1, -1
 
 
 def compare_line(expect_string, actual_string):

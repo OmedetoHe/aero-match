@@ -1,297 +1,2313 @@
-stage 1 line 1 has 6 matches.
-file 32E197F4A971AA81EE99096A5A5B647C79AEDEFD9E8C2D792B2E764354608F2D split 0 id wavesurfer_m63320arm68 label PF text 进近检查单
-file 6EEAB896536D35C1B88841112752E9C7CAAE0D2BCEC99C3DB154E82A352E9CD9 split 0 id wavesurfer_ebpp7g5ojh label PF text 进近检查单
-file 9869A7FEAE149D6314A5560DD489F81FECE5ECAD4D20A585D97C4D4386B0DC29 split 0 id wavesurfer_8gja5rkevi label PF text 进近检查单
-file AA301508CE141E0B678E2B5B86E991F0FCC34029D1718469EC168E2881AAF9BE split 0 id wavesurfer_01kqqnd67v label PF text 进近检查单
-file B9E23ED4EF24AB7D6535520D587F26DDA2B89B585E89C38FF1D8B4CD4DACF444 split 0 id wavesurfer_o73ov40ogd8 label PF text 进近检查单
-file DF6C7949F07C97DFF06922FB46F5DA6B91736ED16C881B7547D22DE97DF22A2E split 0 id wavesurfer_ef2fiiddepg label PF text 近进检查单
-stage 1 line 2 has 0 matches.
-stage 1 line 3 has 0 matches.
-stage 1 line 4 has 0 matches.
-stage 1 line 5 has 0 matches.
-stage 1 line 6 has 0 matches.
-stage 1 line 7 has 15 matches.
-file 177C64409074E18985C069B1454580F9B93171BFA29E192FF040A04F2AD67873 split 0 id wavesurfer_l65r9ou1vr label PM text 3000#下3000
-file 26BA26E0E3D663C524CAAA96F485B735FA048383E0B84E769A3F3280C61B0E21 split 0 id wavesurfer_epsoi64rm48 label PM text 1万开灯#1万尺开灯
-file 28082B982180702A71082107B88A263204DD7E48EEEDACC13917DCB2BCA64D91 split 1 id wavesurfer_6sgttm7mun8 label PM text 148#14800，4500
-file 32E197F4A971AA81EE99096A5A5B647C79AEDEFD9E8C2D792B2E764354608F2D split 0 id wavesurfer_ad00huvff9g label PM text 10000
-file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 0 id wavesurfer_ksbdomg490o label PM text 3300
-file 5B38968C062C8144C91767654538A05C62A857DFFB5D3F54142CB7BE442942AE split 0 id wavesurfer_7cs41tr2jqg label PM text 49,15证实#4900,1500证实
-file 67E25AE21C7C587F65534DC829B8D8E498A2EA57960C696D89B9F058D780 split 0 id wavesurfer_m8183nvki2o label PM text 10000
-file 6F65C77098EE74A3B485A423B0D9ED1372C2FB7B363C19D89A4460863ED33B2F split 0 id wavesurfer_hfiddps6lhg label PM text 118#11800，3600核实
-file 85092BFC995FF1DE5B5738C96D89834FD741EF53378E95B08F4D3B3E8289DD9C split 0 id wavesurfer_7jafb1b55ro label PM text 21#2100
-file 88A9EEB134F273D74DF02266AED5EF0C9B007EB2C2661261546B052FF7F7 split 0 id wavesurfer_4n5iqgk6i4o label PM text 161
-file 8C50ECD72CFDE5E72638987174B5B13C1AD9F6113E2CAD279E20814CC2367637 split 0 id wavesurfer_77unipifos label PM text 120，025
-file 8D3426C1C38C3D7820C0BBB9552BA691F6784F100CC8FD8F6BFB7DC4C71F72B7 split 0 id wavesurfer_ar46bfrvho8 label PM text 15#下1500
-file C3E29C441F3267CFCD5CFCA6F8B5C653E0B8AB559F6F4D74DE1DA8C345D9270E split 0 id wavesurfer_3giuugb323g label PM text 148，4500证实#14800，4500证实
-file CFE60B6373709777DC35ADE915271F219B052CA0E119EEEF1AAF2F94435F9A1F split 0 id wavesurfer_h60csqansto label PM text 200
-file DB176BC62D772F896B12BFF14CCC9DD31EF5EF99BF29365A4422781F44641D9F split 0 id wavesurfer_6kr0itbmmgo label PM text 12800，3900核实
-stage 1 line 8 has 0 matches.
-stage 1 line 9 has 0 matches.
-stage 1 line 10 has 0 matches.
-stage 1 line 11 has 0 matches.
-stage 1 line 12 has 0 matches.
-stage 1 line 13 has 5 matches.
-file 28082B982180702A71082107B88A263204DD7E48EEEDACC13917DCB2BCA64D91 split 1 id wavesurfer_7sm3t3t77m8 label PM text 核实
-file 4325EF4A8025053707253A452800B8EFEF11212812061B33E50A780E487F119E split 2 id wavesurfer_1jgkkgddsl label PM text 证实
-file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 0 id wavesurfer_13qnjmofhr8 label PM text 证实
-file 85092BFC995FF1DE5B5738C96D89834FD741EF53378E95B08F4D3B3E8289DD9C split 0 id wavesurfer_76th1mfqohg label PM text 证实
-file CC55D7220FF19D5063B9A2472888BAEDAC14E0F486198451706C04B96633F5BA split 0 id wavesurfer_4u2mjaspfmo label PM text 证实
-stage 1 line 14 has 1 matches.
-file 35E5D4BDD960A834CE1D040C783D868F09D0323A832A0710153C407A88247E6E split 0 id wavesurfer_pb6h1rdv3ug label PM text 下降检查单
-stage 1 line 15 has 2 matches.
-file 6EEAB896536D35C1B88841112752E9C7CAAE0D2BCEC99C3DB154E82A352E9CD9 split 0 id wavesurfer_tr200v7gkug label PM text 过度高度层
-file DF6C7949F07C97DFF06922FB46F5DA6B91736ED16C881B7547D22DE97DF22A2E split 0 id wavesurfer_fjqgdqa1sa label PM text 过度高度层
-stage 1 line 16 has 1 matches.
-file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 0 id wavesurfer_ml3g6hud51o label PF text 高度表1025
-stage 1 line 17 has 7 matches.
-file 25BB673350FF980F776D66799406084997298E2647963319EC87C6C4FCD8B9D4 split 0 id wavesurfer_glo8i5es038 label PF text 进近检查单
-file 5D9F6C01B57116D95943EE5677B0B33814C230999E9E7D8B2602887B73F117A6 split 0 id wavesurfer_7qd70eh4m48 label PF text 进近检查单
-file 794E09149C37BF55EEB47665C8348DEC71B74723B6B9C878EEEFEADD85C2E75F split 0 id wavesurfer_kl54mca4r3o label PF text 进近检查单
-file 91E89C14F8C510EA8092B1DB2500F55B59554D8D620C0CB98425834133BF split 0 id wavesurfer_4ots94vt12 label PF text 进近检查单
-file 9A1CAF20489E956B2A676AEB935CE2DC9A48A270B846193F2B08BC207B115FE3 split 0 id wavesurfer_9aueju0efl label PF text 进近检查单
-file D9699FC08C583001A448E087ACAA749199303EC1F4F9FD2ACFF43CB9C57C85CE split 0 id wavesurfer_etvk7hm4rb label PF text 近进检查单
-file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 0 id wavesurfer_fjil5psok8o label PF text 近进检查单
-stage 1 line 18 has 0 matches.
-stage 1 line 19 has 11 matches.
-file 177C64409074E18985C069B1454580F9B93171BFA29E192FF040A04F2AD67873 split 0 id wavesurfer_mkgkskqhn8g label PM text 3000，98#9800
-file 26BA26E0E3D663C524CAAA96F485B735FA048383E0B84E769A3F3280C61B0E21 split 0 id wavesurfer_9afnunetnao label PM text 3300，108#10800，3300证实
-file 32E197F4A971AA81EE99096A5A5B647C79AEDEFD9E8C2D792B2E764354608F2D split 0 id wavesurfer_0kgm74if0r8 label PM text 1017，3个核实#高度表1017，3个，核实
-file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 0 id wavesurfer_jf88cied2c label PM text 10000
-file 5B38968C062C8144C91767654538A05C62A857DFFB5D3F54142CB7BE442942AE split 0 id wavesurfer_hj68ikj1qig label PM text 10000尺开灯
-file 67E25AE21C7C587F65534DC829B8D8E498A2EA57960C696D89B9F058D780 split 0 id wavesurfer_e3m3pglivi8 label PM text 1020
-file 6F65C77098EE74A3B485A423B0D9ED1372C2FB7B363C19D89A4460863ED33B2F split 0 id wavesurfer_2ukjdq7pre label PM text 1025
-file 88A9EEB134F273D74DF02266AED5EF0C9B007EB2C2661261546B052FF7F7 split 0 id wavesurfer_3v7h4e60d58 label PM text 161
-file 91E89C14F8C510EA8092B1DB2500F55B59554D8D620C0CB98425834133BF split 0 id wavesurfer_qtmtst97po label PM text 1021
-file C3E29C441F3267CFCD5CFCA6F8B5C653E0B8AB559F6F4D74DE1DA8C345D9270E split 0 id wavesurfer_nocu9hgmi4g label PM text 3000
-file DB176BC62D772F896B12BFF14CCC9DD31EF5EF99BF29365A4422781F44641D9F split 0 id wavesurfer_jk95dnd52t8 label PM text 3900
-stage 1 line 20 has 0 matches.
-stage 1 line 21 has 2 matches.
-file 4325EF4A8025053707253A452800B8EFEF11212812061B33E50A780E487F119E split 3 id wavesurfer_62n5qngb5vo label PM text 核实
-file C3E29C441F3267CFCD5CFCA6F8B5C653E0B8AB559F6F4D74DE1DA8C345D9270E split 1 id wavesurfer_07dei4pfltg label PM text 证实
-stage 1 line 22 has 10 matches.
-file 25BB673350FF980F776D66799406084997298E2647963319EC87C6C4FCD8B9D4 split 0 id wavesurfer_sl5rj7ucs2o label PM text 进近检查#进近检查单
-file 6F65C77098EE74A3B485A423B0D9ED1372C2FB7B363C19D89A4460863ED33B2F split 0 id wavesurfer_srgi8ag50ho label PM text 进近检查单
-file 794E09149C37BF55EEB47665C8348DEC71B74723B6B9C878EEEFEADD85C2E75F split 0 id wavesurfer_n45eg3c0tdo label PM text 进近#进近检查单
-file 9869A7FEAE149D6314A5560DD489F81FECE5ECAD4D20A585D97C4D4386B0DC29 split 0 id wavesurfer_9tl06q14bp8 label PM text 进近检查单
-file 9A1CAF20489E956B2A676AEB935CE2DC9A48A270B846193F2B08BC207B115FE3 split 0 id wavesurfer_cc9ha8jra4o label PM text 进近检查单
-file AA301508CE141E0B678E2B5B86E991F0FCC34029D1718469EC168E2881AAF9BE split 0 id wavesurfer_urm63rrq6go label PM text 进近检查单
-file B9E23ED4EF24AB7D6535520D587F26DDA2B89B585E89C38FF1D8B4CD4DACF444 split 0 id wavesurfer_b0cm3n1uvj8 label PM text 进近检查单
-file D9699FC08C583001A448E087ACAA749199303EC1F4F9FD2ACFF43CB9C57C85CE split 0 id wavesurfer_sdl52sqnqs8 label PM text 近进检查单完成
-file DF6C7949F07C97DFF06922FB46F5DA6B91736ED16C881B7547D22DE97DF22A2E split 0 id wavesurfer_skfc62gchs8 label PM text 完成#近进检查单完成
-file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 0 id wavesurfer_1g5qqt6sn0o label PM text 近进检查单完成
-stage 1 line 23 has 4 matches.
-file 2187D79144764C17B2EC355346F35C676E8109629B3E152978AE50C7300B18A4 split 0 id wavesurfer_pbgk42orji8 label PF text 开灯
-file 688DB99F3D0BD69D3BE59B789828525B9C21F4F2FCD49704FA22ED9FB95A840C split 0 id wavesurfer_1elj5n7rg0g label PF text 请开灯
-file A8F00EABF158BAFEA12C8C7082FD24D2E6B2EE519FF49BB951ACEAD9CB3C9B07 split 0 id wavesurfer_nkal9topad label PF text 开灯
-file F77EBA60326310F28D94C3B95E8AA0B5D19D29E64C4C108A7AE22032D3519809 split 0 id wavesurfer_b59viuluol8 label PF text 开灯
-stage 1 line 24 has 10 matches.
-file 0552C7DADD1FE1D9239C58C02F2D0440F595A504EDB5AF08063B88F66A239FE4 split 0 id wavesurfer_oaphatna0i label PM text 差1000
-file 142D666798F5E98F35DB54B743AEE990B6525FCC284A7F21C737FA824FB5 split 0 id wavesurfer_kv1p31tr23g label PM text 差1000
-file 2ADC2A4B3D399001EE20CA6828BFFCA5E14D17FDDDFD8758373AD8EDC686 split 0 id wavesurfer_bfcnhemel78 label PM text 差1000
-file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 1 id wavesurfer_sktvfklnue label PM text 差1000
-file 66BBA8F3F36452D2F4D9F7A2099B3AFFB8D6740F67BB35104BAE420E01FF split 0 id wavesurfer_ik5v3giu98 label PM text 差1000
-file 688DB99F3D0BD69D3BE59B789828525B9C21F4F2FCD49704FA22ED9FB95A840C split 0 id wavesurfer_b2ifr9brpj label PM text 10000尺
-file A8F00EABF158BAFEA12C8C7082FD24D2E6B2EE519FF49BB951ACEAD9CB3C9B07 split 0 id wavesurfer_n52l9hctvc8 label PM text 10000
-file C3E29C441F3267CFCD5CFCA6F8B5C653E0B8AB559F6F4D74DE1DA8C345D9270E split 1 id wavesurfer_8tc5179q55 label PM text 19#1900
-file CFE60B6373709777DC35ADE915271F219B052CA0E119EEEF1AAF2F94435F9A1F split 0 id wavesurfer_c5ruh0d10n8 label PM text 差1000
-file F77EBA60326310F28D94C3B95E8AA0B5D19D29E64C4C108A7AE22032D3519809 split 0 id wavesurfer_nuv4d5640og label PM text 差1000
-stage 2 line 1 has 14 matches.
-file 0CD02FDEEABD455C3784DBBDD68D1755A01C8A8D6CF2D5A2825420CBB0CD split 0 id wavesurfer_8kbbmp5sam label PF text 襟翼15
-file 27CBC00A3541CA44089357382CF1F156D6187C47DB2B094F4954E3EFD8F2F705 split 0 id wavesurfer_0kal9vgsbvg label PF text 襟翼1速度
-file 2A1E114C60350DB1A2327929622306B0E327EEE187DCF8A657AC38DF07E41855 split 0 id wavesurfer_0dsukab9b08 label PF text 襟翼5
-file 3B3E6956BA4425C96B0D089531ACFF9D7AAAE177C67435C83C7150DD7EFA split 0 id wavesurfer_d5kgk716pdo label PF text 襟翼5
-file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 2 id wavesurfer_lbngs49ror8 label PF text 襟翼5速度
-file 6EEAB896536D35C1B88841112752E9C7CAAE0D2BCEC99C3DB154E82A352E9CD9 split 0 id wavesurfer_n38uk93tafg label PF text 襟翼1
-file 91E89C14F8C510EA8092B1DB2500F55B59554D8D620C0CB98425834133BF split 1 id wavesurfer_b3eu6s8f8eg label PF text 襟翼5
-file A33A7F789E07E471B4C4DB3FC69FCB3B038469BB6A3262FCCA9143485DE3F3EF split 0 id wavesurfer_6fh3k92gbf8 label PF text 襟翼5
-file A5F14B983EBD09676C80B2E6D9231CFC8CB6A009E7FBC260B6D262FAC74670D7 split 1 id wavesurfer_tqofl21b30o label PF text 襟翼1速度
-file B9E23ED4EF24AB7D6535520D587F26DDA2B89B585E89C38FF1D8B4CD4DACF444 split 0 id wavesurfer_gbbqkcmbnmg label PF text 襟翼1速度
-file BF8F42D67A66F2E601415C4F80B8A496CA8CC6CC2269E0CF96C4FE9A08F05D7E split 1 id wavesurfer_klmed3d0ij8 label PF text 襟翼1
-file C871C8EE5FCFE33C361FCE4878CCDAB5CEB81409B61116040EF5259C9B943627 split 1 id wavesurfer_h92t7qgfaq8 label PF text 襟翼1
-file DF6C7949F07C97DFF06922FB46F5DA6B91736ED16C881B7547D22DE97DF22A2E split 2 id wavesurfer_m6cm2srism8 label PF text 襟翼1速度
-file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 0 id wavesurfer_rh7es3l5elg label PF text 襟翼1
-stage 2 line 2 has 12 matches.
-file 0CD02FDEEABD455C3784DBBDD68D1755A01C8A8D6CF2D5A2825420CBB0CD split 0 id wavesurfer_t05lsdbbmeo label PM text 襟翼5到位
-file 27CBC00A3541CA44089357382CF1F156D6187C47DB2B094F4954E3EFD8F2F705 split 0 id wavesurfer_iu0gqerqrdg label PM text 襟翼1到位
-file 2A1E114C60350DB1A2327929622306B0E327EEE187DCF8A657AC38DF07E4 split 1 id wavesurfer_rbbidpqj75 label PM text 襟翼15到位
-file 2A1E114C60350DB1A2327929622306B0E327EEE187DCF8A657AC38DF07E41855 split 0 id wavesurfer_lef4eutiv08 label PM text 襟翼5
-file 3B3E6956BA4425C96B0D089531ACFF9D7AAAE177C67435C83C7150DD7EFA split 0 id wavesurfer_d5iecjk3fqg label PM text 襟翼5
-file 4325EF4A8025053707253A452800B8EFEF11212812061B33E50A780E487F119E split 3 id wavesurfer_hqd556b2hl label PM text 襟翼1到位
-file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 2 id wavesurfer_b95160slo7 label PM text 襟翼1到位
-file 54FC3675611E5D309AF070EF01D219A0E28F961C73F21D5EFC83CE3EC485 split 0 id wavesurfer_blid22jscho label PM text 襟翼5
-file 6F2A65CFCFA6D02EDD1D381FA2809AE0A897C12A55872D73F3F7F4C2AA503153 split 1 id wavesurfer_jvech7nsumo label PM text 襟翼1速度核实
-file 85092BFC995FF1DE5B5738C96D89834FD741EF53378E95B08F4D3B3E8289DD9C split 0 id wavesurfer_8s3nrlvg8so label PM text 襟翼1到位
-file A33A7F789E07E471B4C4DB3FC69FCB3B038469BB6A3262FCCA9143485DE3F3EF split 0 id wavesurfer_c2bk5brsi6o label PM text 襟翼5
-file BF298EA647963C69247DE4C0D5B0868C13B6075BA25A841ED58A401B52F7BEC0 split 0 id wavesurfer_dmu5poltu78 label PM text 襟翼1到位
-stage 2 line 3 has 2 matches.
-file 2A1E114C60350DB1A2327929622306B0E327EEE187DCF8A657AC38DF07E41855 split 0 id wavesurfer_2kvdkv4n5s label PF text 襟翼5速度
-file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 0 id wavesurfer_nq7m25lase8 label PF text 襟翼1速度
-stage 2 line 4 has 3 matches.
-file 2A1E114C60350DB1A2327929622306B0E327EEE187DCF8A657AC38DF07E41855 split 0 id wavesurfer_cn7jdhescv8 label PM text 襟翼5到位
-file 54FC3675611E5D309AF070EF01D219A0E28F961C73F21D5EFC83CE3EC485 split 0 id wavesurfer_pa19h2bni7o label PM text 襟翼5到位
-file 6F2A65CFCFA6D02EDD1D381FA2809AE0A897C12A55872D73F3F7F4C2AA503153 split 1 id wavesurfer_6r0f26qtv48 label PM text 襟翼1到位
-stage 2 line 5 has 0 matches.
-stage 2 line 6 has 8 matches.
-file 25BB673350FF980F776D66799406084997298E2647963319EC87C6C4FCD8B9D4 split 0 id wavesurfer_olv0et8sjho label PM text 核实
-file 4325EF4A8025053707253A452800B8EFEF11212812061B33E50A780E487F119E split 3 id wavesurfer_o2utvfga1do label PM text 核实
-file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 2 id wavesurfer_h9ttprfmf48 label PM text 核实
-file 54FC3675611E5D309AF070EF01D219A0E28F961C73F21D5EFC83CE3EC485 split 1 id wavesurfer_rbs0tg2ank label PM text 核实
-file 5B38968C062C8144C91767654538A05C62A857DFFB5D3F54142CB7BE442942AE split 1 id wavesurfer_8euprajcao label PM text 证实
-file 85092BFC995FF1DE5B5738C96D89834FD741EF53378E95B08F4D3B3E8289DD9C split 0 id wavesurfer_8q02q850g8 label PM text 证实
-file C3E29C441F3267CFCD5CFCA6F8B5C653E0B8AB559F6F4D74DE1DA8C345D9270E split 1 id wavesurfer_kbgn0ai30j label PM text 证实
-file C871C8EE5FCFE33C361FCE4878CCDAB5CEB81409B61116040EF5259C9B943627 split 1 id wavesurfer_21d3dcpu8l label PM text 证实
-stage 2 line 7 has 0 matches.
-stage 2 line 8 has 9 matches.
-file 04C72887C05D64E5E3C76956E84C0E33584D3953B8563EADBF15224E35A7 split 0 id wavesurfer_g9p4tis9elo label PM text 高度截获
-file 0552C7DADD1FE1D9239C58C02F2D0440F595A504EDB5AF08063B88F66A239FE4 split 1 id wavesurfer_7rn0vftiglo label PM text 高度截获
-file 2ADC2A4B3D399001EE20CA6828BFFCA5E14D17FDDDFD8758373AD8EDC686 split 1 id wavesurfer_j5alge6q6kg label PM text 高度截获
-file 5D9F6C01B57116D95943EE5677B0B33814C230999E9E7D8B2602887B73F117A6 split 0 id wavesurfer_fdik3hlugb8 label PM text 高度截获
-file 66BBA8F3F36452D2F4D9F7A2099B3AFFB8D6740F67BB35104BAE420E01FF split 0 id wavesurfer_m1ejrlr4pt label PM text 高度截获
-file 74CE646EF173DC01C954FB32687E62AB0F98FDA44EC789A322EEB1EA21CD split 0 id wavesurfer_5ljjniqtulo label PM text 高度截获
-file 8B5AC0199AB3AF6544191314E3386986599E0805B3DCE9B36705576073FE6943 split 0 id wavesurfer_shn33nj39p8 label PM text 高度截获
-file 8D3426C1C38C3D7820C0BBB9552BA691F6784F100CC8FD8F6BFB7DC4C71F72B7 split 0 id wavesurfer_23svq6t4n3o label PM text 航道
-file A1B856077E4BA9C6CB6BA105048D19EAA04CE77E62E5BC41885902957A1FB842 split 0 id wavesurfer_h7c95r4c8f label PM text 高度截获
-stage 2 line 9 has 0 matches.
-stage 2 line 10 has 2 matches.
-file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 2 id wavesurfer_o9milefi9a8 label PM text 证实
-file C3E29C441F3267CFCD5CFCA6F8B5C653E0B8AB559F6F4D74DE1DA8C345D9270E split 1 id wavesurfer_6vsoc1rgteo label PM text 证实
-stage 2 line 11 has 0 matches.
-stage 2 line 12 has 8 matches.
-file 27CBC00A3541CA44089357382CF1F156D6187C47DB2B094F4954E3EFD8F2F705 split 0 id wavesurfer_kh37cibsdf label PF text 襟翼5
-file 66BBA8F3F36452D2F4D9F7A2099B3AFFB8D6740F67BB35104BAE420E01FF split 2 id wavesurfer_sh1bturrcv8 label PF text 襟翼5
-file 6EEAB896536D35C1B88841112752E9C7CAAE0D2BCEC99C3DB154E82A352E9CD9 split 0 id wavesurfer_pleqr7nd54 label PF text 襟翼5
-file 91E89C14F8C510EA8092B1DB2500F55B59554D8D620C0CB98425834133BF split 2 id wavesurfer_gsg7jd6d0a label PF text 襟翼15
-file A5F14B983EBD09676C80B2E6D9231CFC8CB6A009E7FBC260B6D262FAC74670D7 split 2 id wavesurfer_77p1b17cob label PF text 襟翼5
-file A8F00EABF158BAFEA12C8C7082FD24D2E6B2EE519FF49BB951ACEAD9CB3C9B07 split 1 id wavesurfer_g4qs175lt9o label PF text 襟翼5
-file BF8F42D67A66F2E601415C4F80B8A496CA8CC6CC2269E0CF96C4FE9A08F05D7E split 2 id wavesurfer_i5orp89ch5g label PF text 襟翼5
-file C871C8EE5FCFE33C361FCE4878CCDAB5CEB81409B61116040EF5259C9B943627 split 1 id wavesurfer_47qvtpftj78 label PF text 襟翼5
-stage 2 line 13 has 2 matches.
-file 5B38968C062C8144C91767654538A05C62A857DFFB5D3F54142CB7BE442942AE split 1 id wavesurfer_i3h3u63hp4 label PM text 襟翼1
-file 6F2A65CFCFA6D02EDD1D381FA2809AE0A897C12A55872D73F3F7F4C2AA503153 split 1 id wavesurfer_etkl89t5qfg label PM text 襟翼5
-stage 2 line 14 has 7 matches.
-file 25BB673350FF980F776D66799406084997298E2647963319EC87C6C4FCD8B9D4 split 1 id wavesurfer_t7n277fhd2 label PF text 襟翼1速度
-file 85092BFC995FF1DE5B5738C96D89834FD741EF53378E95B08F4D3B3E8289DD9C split 0 id wavesurfer_pt10ajpfs28 label PF text 调襟翼5速度
-file 9869A7FEAE149D6314A5560DD489F81FECE5ECAD4D20A585D97C4D4386B0DC29 split 2 id wavesurfer_dgcnuoqo99o label PF text 襟翼1速度
-file 9A1CAF20489E956B2A676AEB935CE2DC9A48A270B846193F2B08BC207B115FE3 split 0 id wavesurfer_pqu9mc18sf label PF text 设置襟翼1速度
-file C871C8EE5FCFE33C361FCE4878CCDAB5CEB81409B61116040EF5259C9B943627 split 1 id wavesurfer_5jvqubegpj label PF text 襟翼5速度
-file DF6C7949F07C97DFF06922FB46F5DA6B91736ED16C881B7547D22DE97DF22A2E split 2 id wavesurfer_5gjb8km08m8 label PF text 襟翼5速度
-file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 0 id wavesurfer_961ck0b6qjg label PF text 襟翼1到位
-stage 2 line 15 has 0 matches.
-stage 2 line 16 has 0 matches.
-stage 2 line 17 has 1 matches.
-file 2A1E114C60350DB1A2327929622306B0E327EEE187DCF8A657AC38DF07E4 split 1 id wavesurfer_075boptr47g label PM text 襟翼30
-stage 2 line 18 has 3 matches.
-file 5952309FB15D7080632378D8A3178D7466DABBB36E56842481FE5912E85B192B split 0 id wavesurfer_fo4pe2ivqsg label PF text 进近航向019
-file 85092BFC995FF1DE5B5738C96D89834FD741EF53378E95B08F4D3B3E8289DD9C split 0 id wavesurfer_369041gnu6g label PF text 速度180，下18#1800
-file 8BD641C9894F79C6697FC8A552FB1AE1AA054DB232468726E1E1D0E33F8D203D split 0 id wavesurfer_q388bt76ka label PF text 进近航向041证实
-stage 2 line 19 has 2 matches.
-file 0552C7DADD1FE1D9239C58C02F2D0440F595A504EDB5AF08063B88F66A239FE4 split 2 id wavesurfer_mo6fd6556a label PF text 下高度8200
-file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 3 id wavesurfer_7ehvlcvqi6o label PF text 复飞高度3300，108#复飞高度3300，10800
-stage 2 line 20 has 8 matches.
-file 27CBC00A3541CA44089357382CF1F156D6187C47DB2B094F4954E3EFD8F2F705 split 0 id wavesurfer_gnmle388mr label PM text 证实
-file 4325EF4A8025053707253A452800B8EFEF11212812061B33E50A780E487F119E split 4 id wavesurfer_lc5udnvh558 label PM text 核实
-file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 2 id wavesurfer_r6tc0c6ctog label PM text 证实
-file 5B38968C062C8144C91767654538A05C62A857DFFB5D3F54142CB7BE442942AE split 1 id wavesurfer_karemcbipt8 label PM text 证实
-file 6EEAB896536D35C1B88841112752E9C7CAAE0D2BCEC99C3DB154E82A352E9CD9 split 0 id wavesurfer_hnt0ds6vfko label PM text 核实
-file BF8F42D67A66F2E601415C4F80B8A496CA8CC6CC2269E0CF96C4FE9A08F05D7E split 2 id wavesurfer_jbp92o7ovh8 label PM text 证实
-file C871C8EE5FCFE33C361FCE4878CCDAB5CEB81409B61116040EF5259C9B943627 split 1 id wavesurfer_a11utf71ptg label PM text 证实
-file DF6C7949F07C97DFF06922FB46F5DA6B91736ED16C881B7547D22DE97DF22A2E split 2 id wavesurfer_0fv8jh2i2 label PM text 证实
-stage 2 line 21 has 2 matches.
-file 5952309FB15D7080632378D8A3178D7466DABBB36E56842481FE5912E85B192B split 1 id wavesurfer_plv3078k878 label PF text 着陆检查单
-file 6F65C77098EE74A3B485A423B0D9ED1372C2FB7B363C19D89A4460863ED33B2F split 0 id wavesurfer_bvkhah7ogeg label PF text 进近检查单
-stage 2 line 22 has 0 matches.
-stage 2 line 23 has 1 matches.
-file C3E29C441F3267CFCD5CFCA6F8B5C653E0B8AB559F6F4D74DE1DA8C345D9270E split 2 id wavesurfer_h3lad2n7rg8 label PM text 连续
-stage 2 line 24 has 0 matches.
-stage 2 line 25 has 0 matches.
-stage 2 line 26 has 0 matches.
-stage 2 line 27 has 2 matches.
-file 0CD02FDEEABD455C3784DBBDD68D1755A01C8A8D6CF2D5A2825420CBB0CD split 0 id wavesurfer_hk4cln5oce8 label PM text 放轮
-file A8F00EABF158BAFEA12C8C7082FD24D2E6B2EE519FF49BB951ACEAD9CB3C9B07 split 3 id wavesurfer_1632runqd58 label PM text 放轮
-stage 2 line 28 has 2 matches.
-file 25BB673350FF980F776D66799406084997298E2647963319EC87C6C4FCD8B9D4 split 1 id wavesurfer_opsfg557ba label PF text 襟翼5
-file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 1 id wavesurfer_3frcvu7idp8 label PF text 襟翼5
-stage 2 line 29 has 0 matches.
-stage 2 line 30 has 0 matches.
-stage 2 line 31 has 4 matches.
-file 0552C7DADD1FE1D9239C58C02F2D0440F595A504EDB5AF08063B88F66A239FE4 split 1 id wavesurfer_lade4epk5k label PM text 核实
-file 5B38968C062C8144C91767654538A05C62A857DFFB5D3F54142CB7BE442942AE split 2 id wavesurfer_eao02ga2g38 label PM text 证实
-file C3E29C441F3267CFCD5CFCA6F8B5C653E0B8AB559F6F4D74DE1DA8C345D9270E split 2 id wavesurfer_657f5hm1gu8 label PM text 证实
-file DF6C7949F07C97DFF06922FB46F5DA6B91736ED16C881B7547D22DE97DF22A2E split 2 id wavesurfer_kkrtr0ugoag label PM text 证实
-stage 2 line 32 has 8 matches.
-file 2A1E114C60350DB1A2327929622306B0E327EEE187DCF8A657AC38DF07E4 split 2 id wavesurfer_mofuahdtqu8 label PM text 着陆检查单
-file 32E197F4A971AA81EE99096A5A5B647C79AEDEFD9E8C2D792B2E764354608F2D split 0 id wavesurfer_r6nvr2v3feg label PM text 进近检查单完成
-file 6EEAB896536D35C1B88841112752E9C7CAAE0D2BCEC99C3DB154E82A352E9CD9 split 0 id wavesurfer_j8lhkv7pta label PM text 进近检查单完成
-file 6F65C77098EE74A3B485A423B0D9ED1372C2FB7B363C19D89A4460863ED33B2F split 0 id wavesurfer_qa4l5hpvb7o label PM text 进近检查单完成
-file 88A9EEB134F273D74DF02266AED5EF0C9B007EB2C2661261546B052FF7F7 split 0 id wavesurfer_puhbp78tvug label PM text 近进检查单完成
-file 91E89C14F8C510EA8092B1DB2500F55B59554D8D620C0CB98425834133BF split 0 id wavesurfer_mittqdb9mv8 label PM text 进近检查单完成
-file 9A1CAF20489E956B2A676AEB935CE2DC9A48A270B846193F2B08BC207B115FE3 split 0 id wavesurfer_9o9dd08crtg label PM text 进近检查单完成
-file B9E23ED4EF24AB7D6535520D587F26DDA2B89B585E89C38FF1D8B4CD4DACF444 split 0 id wavesurfer_to93uku9ue label PM text 进近检查单完成
-stage 3 line 1 has 0 matches.
-stage 3 line 2 has 1 matches.
-file 87D598DA932E3362DC2DDF3C4D8253289B69893C7385185FFA5E849942A0 split 0 id wavesurfer_h98nnk07m78 label PF text 检查
-stage 3 line 3 has 13 matches.
-file 2187D79144764C17B2EC355346F35C676E8109629B3E152978AE50C7300B18A4 split 0 id wavesurfer_05q8a8l1d0o label PM text 10000尺
-file 25BB673350FF980F776D66799406084997298E2647963319EC87C6C4FCD8B9D4 split 1 id wavesurfer_qlrc0ut0g6g label PM text 差1000
-file 2A1E114C60350DB1A2327929622306B0E327EEE187DCF8A657AC38DF07E41855 split 0 id wavesurfer_ls0aq09gh8o label PM text 差1000
-file 3B3E6956BA4425C96B0D089531ACFF9D7AAAE177C67435C83C7150DD7EFA split 1 id wavesurfer_fa60mm4incg label PM text 12#1200
-file 67E25AE21C7C587F65534DC829B8D8E498A2EA57960C696D89B9F058D780 split 0 id wavesurfer_26opm9b9kgo label PM text 1020三个
-file 794E09149C37BF55EEB47665C8348DEC71B74723B6B9C878EEEFEADD85C2E75F split 1 id wavesurfer_gk6uu4k9lho label PM text 差1000
-file 85092BFC995FF1DE5B5738C96D89834FD741EF53378E95B08F4D3B3E8289DD9C split 2 id wavesurfer_9v2ghm8cas label PM text 15#1500
-file 9869A7FEAE149D6314A5560DD489F81FECE5ECAD4D20A585D97C4D4386B0DC29 split 1 id wavesurfer_6mk53bg3vg label PM text 差1000
-file A1B856077E4BA9C6CB6BA105048D19EAA04CE77E62E5BC41885902957A1FB842 split 1 id wavesurfer_qt387nut3c8 label PM text 差1000
-file A33A7F789E07E471B4C4DB3FC69FCB3B038469BB6A3262FCCA9143485DE3F3EF split 2 id wavesurfer_75n4rd8slto label PM text 差1000
-file A5F14B983EBD09676C80B2E6D9231CFC8CB6A009E7FBC260B6D262FAC74670D7 split 2 id wavesurfer_ah9oul7plcg label PM text 差1000
-file F77EBA60326310F28D94C3B95E8AA0B5D19D29E64C4C108A7AE22032D3519809 split 1 id wavesurfer_eiifbsh4gl label PM text 差1000
-file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B split 1 id wavesurfer_iiabomgsc7g label PM text 差900#差1000
-stage 3 line 4 has 2 matches.
-file 27CBC00A3541CA44089357382CF1F156D6187C47DB2B094F4954E3EFD8F2F705 split 0 id wavesurfer_jggsd71jm0g label PF text 开灯
-file D9699FC08C583001A448E087ACAA749199303EC1F4F9FD2ACFF43CB9C57C85CE split 0 id wavesurfer_r6g9m0d2ujo label PF text 开灯
-stage 3 line 5 has 0 matches.
-stage 3 line 6 has 0 matches.
-stage 3 line 7 has 2 matches.
-file 54FC3675611E5D309AF070EF01D219A0E28F961C73F21D5EFC83CE3EC485 split 2 id wavesurfer_lj95q3ch0do label PM text 航道预位
-file 8D3426C1C38C3D7820C0BBB9552BA691F6784F100CC8FD8F6BFB7DC4C71F72B7 split 2 id wavesurfer_8k0crf1dbso label PM text 航道预位
-stage 3 line 8 has 14 matches.
-file 11931290C1F62C14E202628AFC4EC2F2B23008FB24B033E1A9D8AFE2C4D52B0A split 1 id wavesurfer_pm3uhqvdd4o label PM text 下42#4200
-file 142D666798F5E98F35DB54B743AEE990B6525FCC284A7F21C737FA824FB5 split 0 id wavesurfer_cmv0s3vgceo label PM text 190
-file 28082B982180702A71082107B88A263204DD7E48EEEDACC13917DCB2BCA64D91 split 2 id wavesurfer_omsps3ibg6 label PM text 下42#4200
-file 3B3E6956BA4425C96B0D089531ACFF9D7AAAE177C67435C83C7150DD7EFA split 3 id wavesurfer_55d85hk2188 label PM text 600
-file 66BBA8F3F36452D2F4D9F7A2099B3AFFB8D6740F67BB35104BAE420E01FF split 1 id wavesurfer_4983l16gf68 label PM text 3600，118#11800
-file 688DB99F3D0BD69D3BE59B789828525B9C21F4F2FCD49704FA22ED9FB95A840C split 3 id wavesurfer_hqi2btug73 label PM text 4500
-file 74CE646EF173DC01C954FB32687E62AB0F98FDA44EC789A322EEB1EA21CD split 4 id wavesurfer_2n1tae3t908 label PM text 3900
-file 8B5AC0199AB3AF6544191314E3386986599E0805B3DCE9B36705576073FE6943 split 2 id wavesurfer_63dij6bo13g label PM text 下18#下1800
-file 8C50ECD72CFDE5E72638987174B5B13C1AD9F6113E2CAD279E20814CC2367637 split 1 id wavesurfer_b0gcnj713ao label PM text 下21#下2100
-file 91D161AC59D9E89B8BA8E4D813E756B0CD233FA8615D1B7AF481C5F6BC27 split 1 id wavesurfer_aj6hft85k3 label PM text 下21#2100
-file 9869A7FEAE149D6314A5560DD489F81FECE5ECAD4D20A585D97C4D4386B0DC29 split 1 id wavesurfer_4e809vre018 label PM text 3900
-file AF019351825FE6F7DEBC17F4AB7EC5C335E41E46227050D8C874E837C12DD5EA split 0 id wavesurfer_c9jijo7ihqg label PM text 下15#下1500
-file CFE60B6373709777DC35ADE915271F219B052CA0E119EEEF1AAF2F94435F9A1F split 2 id wavesurfer_9446nuhod2g label PM text 39#3900
-file F77EBA60326310F28D94C3B95E8AA0B5D19D29E64C4C108A7AE22032D3519809 split 3 id wavesurfer_oga5nlmh4b label PM text 下15#下1500
-stage 3 line 9 has 9 matches.
-file 0CD02FDEEABD455C3784DBBDD68D1755A01C8A8D6CF2D5A2825420CBB0CD split 2 id wavesurfer_9k9ki164bm8 label PF text 继续
-file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 split 3 id wavesurfer_2rm2ifggq5g label PF text 连续
-file 5D9F6C01B57116D95943EE5677B0B33814C230999E9E7D8B2602887B73F117A6 split 2 id wavesurfer_b7e368eui label PF text 继续
-file 6EEAB896536D35C1B88841112752E9C7CAAE0D2BCEC99C3DB154E82A352E9CD9 split 2 id wavesurfer_b6pnf02bop label PF text 连续
-file 8BD641C9894F79C6697FC8A552FB1AE1AA054DB232468726E1E1D0E33F8D203D split 1 id wavesurfer_295nvbuc96 label PF text 连续
-file 91E89C14F8C510EA8092B1DB2500F55B59554D8D620C0CB98425834133BF split 3 id wavesurfer_isq1ermdnmo label PF text 连续
-file A8F00EABF158BAFEA12C8C7082FD24D2E6B2EE519FF49BB951ACEAD9CB3C9B07 split 4 id wavesurfer_e941e3se66 label PF text 连续
-file BF8F42D67A66F2E601415C4F80B8A496CA8CC6CC2269E0CF96C4FE9A08F05D7E split 5 id wavesurfer_sbqi70e14hg label PF text 连续
-file C871C8EE5FCFE33C361FCE4878CCDAB5CEB81409B61116040EF5259C9B943627 split 3 id wavesurfer_okasigeptc label PF text 连续
-stage 3 line 10 has 0 matches.
-stage 3 line 11 has 1 matches.
-file 8B5AC0199AB3AF6544191314E3386986599E0805B3DCE9B36705576073FE6943 split 3 id wavesurfer_oe4peillfoo label PF text 检查
-stage 3 line 12 has 0 matches.
-stage 3 line 13 has 0 matches.
-stage 3 line 14 has 0 matches.
-stage 4 line 1 has 3 matches.
-file 2A1E114C60350DB1A2327929622306B0E327EEE187DCF8A657AC38DF07E4 split 2 id wavesurfer_lp7ej9f1rno label PM text 减速板预位
-file 4325EF4A8025053707253A452800B8EFEF11212812061B33E50A780E487F119E split 4 id wavesurfer_agd42cegg18 label PM text 减速板预位
-file 5952309FB15D7080632378D8A3178D7466DABBB36E56842481FE5912E85B192B split 1 id wavesurfer_slui9npq94o label PM text 减速板预位
-stage 4 line 2 has 1 matches.
-file 35E5D4BDD960A834CE1D040C783D868F09D0323A832A0710153C407A88247E6E split 0 id wavesurfer_8h7859v0lkg label PM text 自动刹车
-stage 4 line 3 has 0 matches.
-stage 4 line 4 has 1 matches.
-file C871C8EE5FCFE33C361FCE4878CCDAB5CEB81409B61116040EF5259C9B943627 split 2 id wavesurfer_hue82fo3chg label PM text 30
-stage 4 line 5 has 1 matches.
-file BF8F42D67A66F2E601415C4F80B8A496CA8CC6CC2269E0CF96C4FE9A08F05D7E split 6 id wavesurfer_j5nk17ut7o8 label PM text 刹车解除
+file 04C72887C05D64E5E3C76956E84C0E33584D3953B8563EADBF15224E35A7 has 26 match.
+split 1 id wavesurfer_g9p4tis9elo label PM text 高度截获
+split 4 id wavesurfer_605vhvbhiv label PF text 4500
+split 4 id wavesurfer_65tugv9mr2g label PM text 4500
+split 8 id wavesurfer_fbcfs5s6bi8 label PM text 差1000
+split 8 id wavesurfer_mveh8df1sa label PM text 证实襟翼1
+split 8 id wavesurfer_a29asa3diro label PM text 襟翼5
+split 8 id wavesurfer_flj445ojnm label PM text 襟翼5到位
+split 11 id wavesurfer_4f31atql1s8 label PF text 108#10800
+split 11 id wavesurfer_mhpridtir4g label PM text 3300
+split 12 id wavesurfer_hag6f7mdb7o label PM text 证实
+split 12 id wavesurfer_mt1k0eud3q label PM text 3000
+split 13 id wavesurfer_8i8i51ob338 label PF text 好#证实
+split 13 id wavesurfer_euk9snhn3r label PM text 航道截获
+split 14 id wavesurfer_ar99urb9708 label PF text 襟翼15
+split 14 id wavesurfer_6ce2pee462g label PF text 襟翼30
+split 14 id wavesurfer_5om5582qsb label PM text 下滑道移动
+split 14 id wavesurfer_fs9skfke518 label PM text 15到位#襟翼15到位
+split 14 id wavesurfer_j00ah096i58 label PM text 襟翼30
+split 15 id wavesurfer_gos093rmrqg label PF text 开灯，检查#检查，开灯
+split 15 id wavesurfer_v5cgt7ituro label PM text 1000稳定
+split 16 id wavesurfer_qq8l8h38338 label PF text 继续
+split 16 id wavesurfer_loqmoe3j2f label PM text 减速板升起
+split 16 id wavesurfer_ph56qqesqb8 label PM text 60
+split 16 id wavesurfer_3bso4d34uk label PM text 自动刹车工作
+split 16 id wavesurfer_6ul3csvce68 label PM text 反推正常
+split 16 id wavesurfer_d9slt3ilv38 label PM text 自动刹车接解除
+file 0552C7DADD1FE1D9239C58C02F2D0440F595A504EDB5AF08063B88F66A239FE4 has 35 match.
+split 1 id wavesurfer_bph5s326jco label PF text 核实
+split 1 id wavesurfer_oaphatna0i label PM text 差1000
+split 2 id wavesurfer_7rn0vftiglo label PM text 高度截获
+split 2 id wavesurfer_lade4epk5k label PM text 核实
+split 2 id wavesurfer_so9a9k3km2o label PM text 襟翼1到位
+split 2 id wavesurfer_u3e90h3kacg label PM text 襟翼5
+split 2 id wavesurfer_usbivgti408 label PM text 核实
+split 2 id wavesurfer_rhocbac3lkg label PM text 5到位
+split 3 id wavesurfer_t03mtdsbgag label PF text 差1000
+split 3 id wavesurfer_mo6fd6556a label PF text 下高度8200
+split 3 id wavesurfer_m6vqgauks7g label PM text 8200尺核实
+split 4 id wavesurfer_2jep4af6gmg label PF text 放轮
+split 4 id wavesurfer_p08qcd646so label PF text 襟翼15
+split 4 id wavesurfer_7po0sggtsu8 label PF text 15速度
+split 4 id wavesurfer_0687077kp1o label PF text 核实
+split 4 id wavesurfer_b7i3v2bl56o label PM text 襟翼15
+split 4 id wavesurfer_168v9onm2rg label PM text 核实
+split 4 id wavesurfer_gq7qj36c9d8 label PM text OK#核实
+split 5 id wavesurfer_g8m5jt94c68 label PF text 襟翼30
+split 5 id wavesurfer_n8h9t5bavfg label PF text 着陆检查单
+split 5 id wavesurfer_l34f014s4so label PF text 连续
+split 5 id wavesurfer_dmjbiml1fpo label PF text 预位
+split 5 id wavesurfer_6vpmeffj39g label PM text 航道截获
+split 5 id wavesurfer_t3f5adk0b7 label PM text 襟翼30
+split 5 id wavesurfer_cf1dalssap label PM text 发动机启动电门连续
+split 5 id wavesurfer_08135k3t8pg label PM text 减速板预位
+split 5 id wavesurfer_avh0t4bsmn label PM text 30绿灯
+split 6 id wavesurfer_fclmaud6ld8 label PF text 继续#检查开灯
+split 6 id wavesurfer_1dq2uggbhi label PM text 1000稳定
+split 7 id wavesurfer_e8gia79dvo8 label PF text 继续
+split 7 id wavesurfer_096k6ftrcvo label PM text 500稳定
+split 7 id wavesurfer_vrteeing52o label PM text 差100
+split 7 id wavesurfer_6d3ucd8935 label PM text 自动刹车工作
+split 7 id wavesurfer_t3lpeav6r3g label PM text 反推正常
+split 7 id wavesurfer_sbiv4skjrk label PM text 60
+file 0CD02FDEEABD455C3784DBBDD68D1755A01C8A8D6CF2D5A2825420CBB0CD has 25 match.
+split 3 id wavesurfer_1dft93hlljo label PF text 放轮
+split 3 id wavesurfer_8kbbmp5sam label PF text 襟翼15
+split 3 id wavesurfer_t05lsdbbmeo label PM text 襟翼5到位
+split 3 id wavesurfer_28bfaa43a3g label PM text 襟翼15
+split 3 id wavesurfer_rha2h1kkm7o label PM text 襟翼30
+split 4 id wavesurfer_dtfbsnpo5a label PM text 着陆检查单
+split 4 id wavesurfer_oscdd4597cg label PM text 发动机启动电门连续
+split 4 id wavesurfer_dlb5j2h0pag label PM text 着陆检查单完成
+split 4 id wavesurfer_9v96e1vcako label PM text 过FAF高度9800
+split 4 id wavesurfer_ovuust14o48 label PM text 连续
+split 4 id wavesurfer_qiliu9v23f8 label PM text 减速板预位
+split 4 id wavesurfer_mnkujgua0v label PM text 预位
+split 4 id wavesurfer_5sevv2al2ho label PM text 襟翼30绿灯
+split 4 id wavesurfer_as0fblduu7o label PM text 30绿灯
+split 4 id wavesurfer_0rmr312tre label PM text APU引气按需设置
+split 4 id wavesurfer_dokiftge5pg label PM text 核实
+split 5 id wavesurfer_9k9ki164bm8 label PF text 继续
+split 5 id wavesurfer_uepp1ajfa6o label PM text 复飞高度128
+split 5 id wavesurfer_u1g17g2q9k8 label PM text 128，3900#12800，3900
+split 5 id wavesurfer_3i2fe12khk label PM text 1000尺稳定
+split 5 id wavesurfer_nibgjivjul label PM text 差100
+split 5 id wavesurfer_q95ormbtkgg label PM text 500稳定
+split 6 id wavesurfer_m6b9d0hno2o label PM text 刹车工作
+split 6 id wavesurfer_s3b0eh9njvg label PM text 反推正常
+split 6 id wavesurfer_m6k03gehe4o label PM text 60
+file 11931290C1F62C14E202628AFC4EC2F2B23008FB24B033E1A9D8AFE2C4D52B0A has 37 match.
+split 1 id wavesurfer_tqc2m675j5o label PF text 核实
+split 2 id wavesurfer_6pj409305pg label PF text 42#4200
+split 2 id wavesurfer_t20349m3pog label PF text 42#4200，138#13800
+split 2 id wavesurfer_mkkqobl0uag label PF text 进近
+split 2 id wavesurfer_rt2obia1h7 label PF text 高度表1018
+split 2 id wavesurfer_pm3uhqvdd4o label PM text 下42#4200
+split 2 id wavesurfer_0dpemtdrbt label PM text 过渡高度层
+split 2 id wavesurfer_a9i4ftrgs6 label PM text 进近检查单
+split 2 id wavesurfer_hr6f1ko2q4 label PM text 进近检查单
+split 2 id wavesurfer_1upopb38v78 label PM text 进近检查单完成
+split 3 id wavesurfer_2cdn1jsca2g label PF text 核实
+split 4 id wavesurfer_sv24kagje4o label PF text 襟翼5
+split 4 id wavesurfer_o4tlh2hc8fg label PM text 核实
+split 4 id wavesurfer_gncg0pvd23g label PM text 襟翼1到位
+split 4 id wavesurfer_bli5ovni9o label PM text 襟翼5
+split 5 id wavesurfer_ug8bgkqlaso label PF text 核实
+split 5 id wavesurfer_tfsclqci7f8 label PF text 核实
+split 5 id wavesurfer_cfsk4fl564g label PF text 放轮
+split 5 id wavesurfer_m61id2os358 label PF text 襟翼15
+split 5 id wavesurfer_qfv3mol25b label PF text 襟翼15机动速度
+split 5 id wavesurfer_7avtcee31d label PF text 襟翼30
+split 5 id wavesurfer_88vftjego0o label PM text 差1000
+split 5 id wavesurfer_p2sfdthh1tg label PM text 核实
+split 5 id wavesurfer_it9isbs1dj label PM text 差1000
+split 5 id wavesurfer_gpqdh4mm4m label PM text 襟翼30
+split 6 id wavesurfer_qb0sqv989e label PF text 着陆检查单
+split 6 id wavesurfer_tfsd1l80u48 label PF text 连续
+split 6 id wavesurfer_1njgp3g6lno label PF text 预位
+split 6 id wavesurfer_umaftp0d9go label PF text 30绿灯
+split 6 id wavesurfer_v30p0osms4g label PF text 着陆检查单完成
+split 6 id wavesurfer_cis0ldr6n4g label PM text 着陆检查单
+split 6 id wavesurfer_6qotu0cggv8 label PM text 发动机启动电门连续
+split 8 id wavesurfer_l9n83kgv29g label PF text 继续
+split 8 id wavesurfer_ij7dg8688c8 label PM text 300稳定
+split 8 id wavesurfer_6r6do46p6ko label PM text 减速板升起
+split 8 id wavesurfer_h5m3oassbtg label PM text 自动刹车工作
+split 8 id wavesurfer_4shbuc8407o label PM text 反推正常
+file 142D666798F5E98F35DB54B743AEE990B6525FCC284A7F21C737FA824FB5 has 36 match.
+split 1 id wavesurfer_hu7lo6hv188 label PF text 核实
+split 1 id wavesurfer_enjremqakd8 label PF text 21，69
+split 1 id wavesurfer_kv1p31tr23g label PM text 差1000
+split 1 id wavesurfer_cmv0s3vgceo label PM text 190
+split 2 id wavesurfer_v5cgdpnjg78 label PM text 差1000
+split 2 id wavesurfer_4dnnddju0mo label PM text 证实
+split 3 id wavesurfer_c7plc3kof68 label PF text 襟翼1速度
+split 3 id wavesurfer_6nus6neur58 label PF text 核实
+split 3 id wavesurfer_k0293kv49vo label PM text 下12#1200
+split 4 id wavesurfer_k03tijkoh0o label PF text 核实
+split 4 id wavesurfer_o8khpuk6c08 label PM text 襟翼1到位
+split 4 id wavesurfer_uvrdv2ahcm label PM text 襟翼5到位
+split 5 id wavesurfer_86va80tdhv label PF text VLOC预位
+split 5 id wavesurfer_7artb0030go label PF text 放轮
+split 5 id wavesurfer_96i5bngj988 label PF text 襟翼15
+split 5 id wavesurfer_kcpu4vck6ng label PF text 襟翼15速度
+split 5 id wavesurfer_i202fjddkd label PF text 好#证实
+split 5 id wavesurfer_9lq4mlo2puo label PM text 证实
+split 5 id wavesurfer_qheu76gpo7g label PM text 襟翼15
+split 5 id wavesurfer_cv5m48aam2o label PM text 15到位#襟翼15到位
+split 5 id wavesurfer_5pkm4e2ji8o label PM text 下滑道截获
+split 6 id wavesurfer_htpjql0f56 label PF text 减速板预位
+split 6 id wavesurfer_ta8h9kr0nf label PF text 襟翼30绿灯
+split 6 id wavesurfer_35ritspbhdo label PF text APU引气关
+split 6 id wavesurfer_7ca4nals56g label PF text 开灯，检查#检查开灯
+split 6 id wavesurfer_27v6jq6bfl8 label PM text 连续
+split 6 id wavesurfer_oup0gh6bfio label PM text 襟翼30绿灯
+split 6 id wavesurfer_67ag8efc3g label PM text 绿灯
+split 6 id wavesurfer_f8jgrn3u3k8 label PM text 着陆检查单完成
+split 6 id wavesurfer_qmea3s35gr label PM text 1000稳定
+split 7 id wavesurfer_ces0boehvkg label PF text 检查
+split 7 id wavesurfer_0uq6ofur99o label PF text 继续
+split 7 id wavesurfer_eho5elamf8o label PM text 500稳定
+split 7 id wavesurfer_tk8htgbsve8 label PM text 刹车工作#自动刹车工作
+split 7 id wavesurfer_a04o340h9to label PM text 反推正常
+split 7 id wavesurfer_h2bv8s993q8 label PM text 60
+file 177C64409074E18985C069B1454580F9B93171BFA29E192FF040A04F2AD67873 has 32 match.
+split 1 id wavesurfer_6k16jrckflo label PF text 3000#下3000
+split 1 id wavesurfer_6na0qqveqn8 label PF text 98#9800，3000证实
+split 1 id wavesurfer_l65r9ou1vr label PM text 3000#下3000
+split 1 id wavesurfer_mkgkskqhn8g label PM text 3000，98#9800
+split 4 id wavesurfer_0l6o8nbsr28 label PF text 襟翼5
+split 4 id wavesurfer_jposousgvo8 label PF text 襟翼5到位
+split 4 id wavesurfer_qv4u3ndb27 label PF text 移动#下滑道移动
+split 4 id wavesurfer_1amqoln6p78 label PF text 15#襟翼15
+split 4 id wavesurfer_lhjq05s76bg label PF text 15到位#襟翼15到位
+split 4 id wavesurfer_vdpkman5nvg label PM text 襟翼5速度
+split 4 id wavesurfer_tu114bjp75 label PM text 核实
+split 4 id wavesurfer_eiafja56mc label PM text 核实
+split 4 id wavesurfer_446vuaqg4bg label PM text 下滑道移动
+split 4 id wavesurfer_308ol6oh9mo label PM text 放轮
+split 4 id wavesurfer_h8okq5hn8o label PM text 核实
+split 5 id wavesurfer_62se7mq0rao label PF text 30#襟翼30
+split 5 id wavesurfer_h5a8nrp3168 label PF text 30到位#襟翼30到位
+split 5 id wavesurfer_kl1seal3o7 label PF text 着陆检查单
+split 5 id wavesurfer_24tbdcbms4 label PF text 发动机启动电门连续
+split 5 id wavesurfer_i59bfler1c8 label PF text 减速板预位
+split 5 id wavesurfer_2h9d7u6nk6o label PF text 襟翼30到位
+split 5 id wavesurfer_5e9es8tlc4 label PF text 检查单完成#着陆检查单完成
+split 5 id wavesurfer_n53b80al07 label PM text 着陆检查单
+split 5 id wavesurfer_da2ribnql4 label PM text 连续
+split 5 id wavesurfer_07afjt072m label PM text 预位
+split 6 id wavesurfer_t7ajqt252lg label PF text 1000尺#1000稳定
+split 6 id wavesurfer_3q92ruop5h label PF text 500尺#500稳定
+split 6 id wavesurfer_dn3cq7n9v4o label PM text 检查，开灯
+split 6 id wavesurfer_010864eiavo label PM text 检查
+split 6 id wavesurfer_horsspgks3g label PM text 核实
+split 7 id wavesurfer_h59dofeak5g label PM text 反推松锁#反推正常
+split 7 id wavesurfer_ohb1ob0ol98 label PM text 60
+file 2187D79144764C17B2EC355346F35C676E8109629B3E152978AE50C7300B18A4 has 27 match.
+split 1 id wavesurfer_pbgk42orji8 label PF text 开灯
+split 1 id wavesurfer_4dk9v48uop label PF text 425证实
+split 1 id wavesurfer_pn9jat266f label PF text 15#1500，49#4900
+split 1 id wavesurfer_05q8a8l1d0o label PM text 10000尺
+split 1 id wavesurfer_aic8hrlb3ro label PM text 下高度15#1500
+split 4 id wavesurfer_cg2qc3nh8ro label PF text 襟翼1速度
+split 4 id wavesurfer_aou3bbnhbno label PF text 襟翼5
+split 4 id wavesurfer_53cm1c3c36 label PM text 差1000
+split 4 id wavesurfer_d5im0gddm98 label PM text 下700
+split 4 id wavesurfer_69c667k559g label PM text 核实
+split 4 id wavesurfer_637ml7emgd label PM text 襟翼1到位
+split 5 id wavesurfer_3m23ochsj0g label PF text 下滑道航道杆都有了#下滑到航道截获
+split 5 id wavesurfer_glo9hmm3dsg label PF text 速度好襟翼15
+split 5 id wavesurfer_82tgebjs3mg label PF text 15速度#襟翼15速度
+split 5 id wavesurfer_jhcc3rt0of label PF text 核实
+split 5 id wavesurfer_ojtqd7qd11 label PF text 着陆检查单
+split 5 id wavesurfer_i7pqdktaomg label PM text 核实
+split 5 id wavesurfer_abqvlthue58 label PM text 襟翼15
+split 5 id wavesurfer_p0d5jd59bao label PM text 核实
+split 6 id wavesurfer_o6p513ksgo label PF text 开灯
+split 6 id wavesurfer_er2artp6pc8 label PF text 继续
+split 6 id wavesurfer_fn3uafnpgr label PM text 500尺稳定
+split 6 id wavesurfer_o4lgaamdvn label PM text 继续
+split 7 id wavesurfer_8vvjh6ioeb label PM text 减速板升起
+split 7 id wavesurfer_ph0gjmerk5o label PM text 自动刹车工作
+split 7 id wavesurfer_bcelf8a68o8 label PM text 反喷正常
+split 7 id wavesurfer_rjo3p5qoaag label PM text 60
+file 25BB673350FF980F776D66799406084997298E2647963319EC87C6C4FCD8B9D4 has 43 match.
+split 1 id wavesurfer_glo8i5es038 label PF text 进近检查单
+split 1 id wavesurfer_7hdpeq5n1ng label PF text 1028，3个
+split 1 id wavesurfer_phocphn282o label PF text 161
+split 1 id wavesurfer_sl5rj7ucs2o label PM text 进近检查#进近检查单
+split 1 id wavesurfer_dl5uo6n1r5g label PM text 高度表1028，3个
+split 1 id wavesurfer_olv0et8sjho label PM text 核实
+split 2 id wavesurfer_jfssrud5vi label PF text 证实
+split 2 id wavesurfer_t7n277fhd2 label PF text 襟翼1速度
+split 2 id wavesurfer_opsfg557ba label PF text 襟翼5
+split 2 id wavesurfer_9uc05lcmrjo label PF text 襟翼5速度
+split 2 id wavesurfer_8ovv0cp5h3o label PF text 证实
+split 2 id wavesurfer_77td8f53qng label PF text 高度144
+split 2 id wavesurfer_qlrc0ut0g6g label PM text 差1000
+split 2 id wavesurfer_1mur7urs678 label PM text 襟翼1到位
+split 2 id wavesurfer_sclocbrkmag label PM text 襟翼5
+split 2 id wavesurfer_h2kvk7rmg7g label PM text 襟翼5到位
+split 2 id wavesurfer_st9pec9d36g label PM text 证实
+split 4 id wavesurfer_i695ditih7 label PF text 证实
+split 4 id wavesurfer_jtp7k6jrl48 label PM text 航选#证实
+split 4 id wavesurfer_obvbuqvnaj8 label PM text 差1000
+split 5 id wavesurfer_557b6gi2uu label PF text 放轮
+split 5 id wavesurfer_cpc99lknev label PF text 襟翼15
+split 5 id wavesurfer_d6dikfqemv label PF text VLOC预位
+split 5 id wavesurfer_nend4f020j8 label PF text 航道截获
+split 5 id wavesurfer_khqbar6c9no label PF text 进近航向161
+split 5 id wavesurfer_8cf7i5o1jg8 label PM text 差1000
+split 6 id wavesurfer_lgtarn157uo label PF text 襟翼30
+split 6 id wavesurfer_rcbkgqmf16g label PF text 着陆检查单
+split 6 id wavesurfer_eju6qa0k9v label PF text 连续
+split 6 id wavesurfer_da8bmli9v0o label PF text 预位
+split 6 id wavesurfer_cddsk495h2o label PF text 下滑道截获
+split 6 id wavesurfer_5jnq2cu87j8 label PM text 襟翼30
+split 6 id wavesurfer_d2425og0v7o label PM text 着陆检查单
+split 6 id wavesurfer_h1v1gtu2ap8 label PM text 发动机启动电门连续
+split 6 id wavesurfer_ml44l4skgcg label PM text 减速板预位
+split 6 id wavesurfer_2rdie5dc5dg label PM text APU引气核实关
+split 6 id wavesurfer_9i2gluh4138 label PM text 着陆检查单完成
+split 6 id wavesurfer_11c7nib6rm8 label PM text 下滑道截获
+split 7 id wavesurfer_s32dtbeb8eg label PF text 继续
+split 8 id wavesurfer_vdmnmigkolo label PM text 反推开锁
+split 8 id wavesurfer_1o0gm3ucvoo label PM text 刹车生效#自动刹车生效
+split 8 id wavesurfer_rh4ae0motjo label PM text 60
+split 8 id wavesurfer_gkgnf7pc3m label PM text 刹车解除#自动刹车解除
+file 26BA26E0E3D663C524CAAA96F485B735FA048383E0B84E769A3F3280C61B0E21 has 27 match.
+split 1 id wavesurfer_u76qvs8ssh label PF text 1万开灯#1万尺开灯
+split 1 id wavesurfer_ml6m1ps6928 label PF text 3300，108#3300，10800
+split 3 id wavesurfer_8ub3mmasbc label PF text 差1000
+split 3 id wavesurfer_juqhlh72ot label PM text 核实
+split 4 id wavesurfer_3kss476n2uo label PF text 高度截获
+split 5 id wavesurfer_je0hn18l2eo label PF text 襟翼1速度
+split 5 id wavesurfer_huf33s0j91o label PF text 襟翼放5#放襟翼5
+split 5 id wavesurfer_4bnma7o0tog label PF text 襟翼5速度#调襟翼5速度
+split 5 id wavesurfer_t5e22ee0qug label PF text APP预位
+split 5 id wavesurfer_vos72g6jlv label PM text 襟翼1到位
+split 5 id wavesurfer_tna2hgufpg8 label PM text 襟翼5速度
+split 5 id wavesurfer_nrqlongampg label PM text 襟翼5
+split 6 id wavesurfer_321af7bt7t8 label PF text 好#证实
+split 6 id wavesurfer_tr1p5r8lfd label PF text 襟翼放30#放襟翼30
+split 6 id wavesurfer_pac24k1h8fo label PF text 着陆检查单
+split 6 id wavesurfer_2ufm07462u label PF text 连续
+split 6 id wavesurfer_ju9hpckgfdo label PM text 着陆检查单
+split 6 id wavesurfer_gp7nn9k8rv label PM text 发动机启动电门
+split 7 id wavesurfer_uisk6ddcum8 label PF text 差1000
+split 8 id wavesurfer_gkij8aje73o label PF text 500稳定
+split 8 id wavesurfer_ou5nuju4548 label PF text 继续
+split 8 id wavesurfer_jjm0qj0gh38 label PF text 60
+split 8 id wavesurfer_e0edjdpa91o label PM text 300
+split 8 id wavesurfer_sjcn7gdqqfg label PM text 减速板升起
+split 8 id wavesurfer_t5e0utserug label PM text 刹车工作#自动刹车工作
+split 8 id wavesurfer_m4t6o89ong label PM text 自动刹车解除
+split 8 id wavesurfer_78sc8butcs8 label PM text 证实
+file 27CBC00A3541CA44089357382CF1F156D6187C47DB2B094F4954E3EFD8F2F705 has 40 match.
+split 1 id wavesurfer_0kal9vgsbvg label PF text 襟翼1速度
+split 1 id wavesurfer_kh37cibsdf label PF text 襟翼5
+split 1 id wavesurfer_rh9gqa740fg label PF text 证实
+split 1 id wavesurfer_ejh1r07mgr label PF text 襟翼5速度
+split 1 id wavesurfer_jggsd71jm0g label PF text 开灯
+split 1 id wavesurfer_dtlf6cmpg4g label PF text 下高度7200尺
+split 1 id wavesurfer_iu0gqerqrdg label PM text 襟翼1到位
+split 1 id wavesurfer_gnmle388mr label PM text 证实
+split 1 id wavesurfer_ogvjvip83jg label PM text 襟翼5
+split 1 id wavesurfer_dmi4c6tqfsg label PM text 襟翼5到位
+split 1 id wavesurfer_vpdvtbelei label PM text 证实
+split 1 id wavesurfer_f6f794oqbng label PM text 10000
+split 1 id wavesurfer_3euj5ep1db label PM text 7200尺
+split 3 id wavesurfer_4m90kb2ektg label PF text 证实
+split 3 id wavesurfer_rpl18thsc98 label PF text 航道预位
+split 3 id wavesurfer_bflcbrmn83g label PF text 航道截获#证实
+split 3 id wavesurfer_43a12043d8 label PF text 放轮
+split 3 id wavesurfer_jtnv0ecb1b8 label PF text 襟翼15
+split 3 id wavesurfer_v589bam1cbo label PM text 航道移动
+split 3 id wavesurfer_d8fna7jptng label PM text 证实
+split 3 id wavesurfer_jpue1fer6qo label PM text 航道截获
+split 4 id wavesurfer_suoc34tclso label PF text 襟翼30速度
+split 4 id wavesurfer_enhh1ifa03 label PF text 30绿灯
+split 4 id wavesurfer_n7h99ec69pg label PM text 参考速度134证实
+split 4 id wavesurfer_qmfata7bljo label PM text 30到位#襟翼30到位
+split 4 id wavesurfer_5sub7isr2mo label PM text 差1000
+split 4 id wavesurfer_srv8an6q33 label PM text 着陆检查单
+split 4 id wavesurfer_ud1lbrvlli8 label PM text 发动机启动电门连续
+split 4 id wavesurfer_h7l1f4gk label PM text 连续
+split 4 id wavesurfer_5c1bar1up9g label PM text 减速板预位
+split 4 id wavesurfer_adhu2nq1alo label PM text 预位
+split 4 id wavesurfer_6vpeuhc1mfo label PM text APU引气，氧气设置关
+split 4 id wavesurfer_uc8v8i3472 label PM text 着陆检查单完成
+split 6 id wavesurfer_fe1h8g5udno label PF text 继续
+split 6 id wavesurfer_38s816iveto label PM text 500稳定
+split 6 id wavesurfer_bee5c0rmsug label PM text 差100
+split 6 id wavesurfer_0221j90i1v label PM text 自动刹车工作
+split 6 id wavesurfer_a615eatt5k label PM text 反推正常
+split 7 id wavesurfer_0vnjm6sof4 label PM text 60
+split 7 id wavesurfer_g807a2gqpdg label PM text 刹车解除#自动刹车解除
+file 28082B982180702A71082107B88A263204DD7E48EEEDACC13917DCB2BCA64D91 has 23 match.
+split 4 id wavesurfer_nlpn9gts258 label PF text 4500，148#14800
+split 4 id wavesurfer_6sgttm7mun8 label PM text 148#14800，4500
+split 4 id wavesurfer_7sm3t3t77m8 label PM text 核实
+split 6 id wavesurfer_s70d6br62a label PF text 证实
+split 6 id wavesurfer_omsps3ibg6 label PM text 下42#4200
+split 7 id wavesurfer_dl0ar2s3b6g label PF text 证实
+split 7 id wavesurfer_tbe1krlpu98 label PF text 证实
+split 7 id wavesurfer_f6io9d4erig label PM text 差1000
+split 9 id wavesurfer_323rrihavr label PF text 襟翼30
+split 9 id wavesurfer_mgd99nj9mg label PF text 证实
+split 9 id wavesurfer_ikketkna8tg label PM text 30#襟翼30
+split 9 id wavesurfer_0tsiknljvmg label PM text 着陆检查单
+split 9 id wavesurfer_dqqnm442mlo label PM text 着陆检查单完成
+split 9 id wavesurfer_5ls1i36907 label PM text 正确#核实
+split 10 id wavesurfer_6tb3459uqh8 label PF text 检查开灯
+split 10 id wavesurfer_78fot2up4uo label PF text 继续
+split 10 id wavesurfer_pnpdndt2kd8 label PF text 继续
+split 10 id wavesurfer_b0878i7mef label PM text 1000稳定
+split 11 id wavesurfer_m3gi2dbkjj label PF text 人工刹车
+split 11 id wavesurfer_rv3d4dkb9d8 label PM text 减速板升起
+split 11 id wavesurfer_34fd707fe78 label PM text 自动刹车1生效
+split 11 id wavesurfer_sauko2ao7kg label PM text 60
+split 11 id wavesurfer_sdnruoj7uqo label PM text 自动刹车解除
+file 2A1E114C60350DB1A2327929622306B0E327EEE187DCF8A657AC38DF07E4 has 32 match.
+split 1 id wavesurfer_ts1p6qj48n8 label PF text 核实
+split 1 id wavesurfer_41loi2rmqf8 label PF text 3000
+split 1 id wavesurfer_ivan1cbq3b8 label PF text 3000，9800
+split 1 id wavesurfer_dlq1kfcrn7 label PF text 襟翼1速度
+split 3 id wavesurfer_i5f0ujr3egg label PF text 襟翼15速度
+split 3 id wavesurfer_t3016hbhamo label PF text 襟翼30
+split 3 id wavesurfer_rbbidpqj75 label PM text 襟翼15到位
+split 3 id wavesurfer_075boptr47g label PM text 襟翼30
+split 5 id wavesurfer_8apgheu4nf label PF text 好，下滑道截获
+split 5 id wavesurfer_jrot5b3a4jo label PF text 复飞高度3300
+split 5 id wavesurfer_qtq1o7d9sag label PF text 着陆检查单
+split 5 id wavesurfer_f7v2i69ir7 label PF text 核实
+split 5 id wavesurfer_h15i9m9dnco label PF text 连续
+split 5 id wavesurfer_t54h8rbbsjo label PF text 预位
+split 5 id wavesurfer_po09k2q4tq label PF text 30绿灯
+split 5 id wavesurfer_8t8l657fil8 label PM text 下滑道截获
+split 5 id wavesurfer_mofuahdtqu8 label PM text 着陆检查单
+split 5 id wavesurfer_en55iei7ljo label PM text 发动机启动电门连续
+split 5 id wavesurfer_1k65iudbcfg label PM text 连续
+split 5 id wavesurfer_lp7ej9f1rno label PM text 减速板预位
+split 5 id wavesurfer_ho3iqet5ro label PM text 预位
+split 5 id wavesurfer_qsfg3u054kg label PM text APU引气按需
+split 6 id wavesurfer_67835121kk label PF text 检查开灯
+split 6 id wavesurfer_gspmrjrljb8 label PM text 1000稳定
+split 7 id wavesurfer_mjqe7c2ori8 label PF text 核实
+split 7 id wavesurfer_inn2ree8rm label PF text 核实
+split 7 id wavesurfer_p3i1fgitbq label PF text 人工刹车
+split 7 id wavesurfer_tqm13kia8bg label PF text 核实
+split 7 id wavesurfer_4m8pctc5l8g label PM text 300稳定
+split 7 id wavesurfer_as1n27ifaao label PM text 自动刹车工作
+split 7 id wavesurfer_ngi83uvt95g label PM text 反推正常
+split 7 id wavesurfer_hbhk0n5ekj label PM text 差100
+file 2A1E114C60350DB1A2327929622306B0E327EEE187DCF8A657AC38DF07E41855 has 11 match.
+split 2 id wavesurfer_0dsukab9b08 label PF text 襟翼5
+split 2 id wavesurfer_2kvdkv4n5s label PF text 襟翼5速度
+split 2 id wavesurfer_02ptm6b8rm label PF text 核实
+split 2 id wavesurfer_lrau35qifng label PF text 航道预位
+split 2 id wavesurfer_c3bb5vsee7g label PF text 核实
+split 2 id wavesurfer_62l3v8e9bsg label PF text 核实
+split 2 id wavesurfer_9vpjfdme2qg label PF text 下高度9000
+split 2 id wavesurfer_lef4eutiv08 label PM text 襟翼5
+split 2 id wavesurfer_cn7jdhescv8 label PM text 襟翼5到位
+split 2 id wavesurfer_9t74qf5psr8 label PM text VOR，LOC预位
+split 2 id wavesurfer_ls0aq09gh8o label PM text 差1000
+file 2ADC2A4B3D399001EE20CA6828BFFCA5E14D17FDDDFD8758373AD8EDC686 has 36 match.
+split 1 id wavesurfer_v8c3pmhhsp label PF text 核实
+split 1 id wavesurfer_bfcnhemel78 label PM text 差1000
+split 2 id wavesurfer_r4lqu1or1h8 label PF text 证实
+split 2 id wavesurfer_5eig27c1kkg label PF text 核实
+split 2 id wavesurfer_j5alge6q6kg label PM text 高度截获
+split 7 id wavesurfer_hkj4kkt82sg label PF text 证实
+split 7 id wavesurfer_jvrhrndrm5o label PM text 12655#126.55
+split 7 id wavesurfer_6q5cnrr5uqo label PM text 12655#126.55
+split 9 id wavesurfer_imrdsa0ujgo label PF text 证实
+split 9 id wavesurfer_nrkr56ehv58 label PF text 证实
+split 9 id wavesurfer_rfncf2djslo label PF text 放轮
+split 9 id wavesurfer_grr17gehlro label PM text 差900#差1000
+split 9 id wavesurfer_0if6d4mebto label PM text 下滑道移动
+split 10 id wavesurfer_caen4nev3u8 label PF text 着陆检查单
+split 10 id wavesurfer_h6up96s421g label PF text 连续
+split 10 id wavesurfer_bh7a09nh2m label PF text 预位
+split 10 id wavesurfer_mh1c9jk4i1g label PF text 30绿灯
+split 10 id wavesurfer_2c01pia072o label PM text 襟翼15
+split 10 id wavesurfer_8a6e4ndp29 label PM text 下滑道截获
+split 10 id wavesurfer_krh8ppi6v8o label PM text 发动机启动电门连续
+split 10 id wavesurfer_1jr38hqietg label PM text 减速板预位
+split 10 id wavesurfer_vi9bisaddao label PM text 襟翼30绿灯
+split 10 id wavesurfer_23445c1g6q8 label PM text APU引气核实，关
+split 10 id wavesurfer_jgk4cinu6 label PM text 关，着陆检查单完成
+split 10 id wavesurfer_jveomoamb6 label PM text 着陆检查单
+split 10 id wavesurfer_cr3ou5cugeg label PM text 连续
+split 10 id wavesurfer_m2mi4njnvlo label PM text 预位
+split 11 id wavesurfer_6dsfc683b08 label PF text 检查
+split 11 id wavesurfer_i8tbm6p2plg label PM text 1000稳定
+split 11 id wavesurfer_i7n1tdi98og label PM text 500，稳定
+split 12 id wavesurfer_fk8sr41v888 label PF text 人工刹车
+split 12 id wavesurfer_78q7astgr6 label PM text 自动刹车解除
+split 12 id wavesurfer_fqihd4ulo7 label PM text 自动刹车生效
+split 12 id wavesurfer_i9bg1ko70d8 label PM text 60
+split 12 id wavesurfer_m3o2i8n4228 label PM text 差100
+split 12 id wavesurfer_co43vi6nqhg label PM text 反推正常
+file 32E197F4A971AA81EE99096A5A5B647C79AEDEFD9E8C2D792B2E764354608F2D has 18 match.
+split 1 id wavesurfer_m63320arm68 label PF text 进近检查单
+split 1 id wavesurfer_ad00huvff9g label PM text 10000
+split 1 id wavesurfer_aftca1l8fa label PM text 开灯
+split 1 id wavesurfer_0kgm74if0r8 label PM text 1017，3个核实#高度表1017，3个，核实
+split 1 id wavesurfer_98gd6tnpoq label PM text 航道，导航频率
+split 1 id wavesurfer_r6nvr2v3feg label PM text 进近检查单完成
+split 4 id wavesurfer_isgdb10fot label PM text 着陆检查单
+split 4 id wavesurfer_o82prejukco label PM text 发动机启动电门连续
+split 4 id wavesurfer_avlc81cv9ko label PM text 连续
+split 4 id wavesurfer_984qnfude7 label PM text 减速板预位
+split 4 id wavesurfer_3do5o396fag label PM text 预位
+split 4 id wavesurfer_oaksk6038jo label PM text 放下
+split 4 id wavesurfer_s19q7ri4cbg label PM text 襟翼30绿灯
+split 4 id wavesurfer_lltb67o1it8 label PM text 30绿灯
+split 4 id wavesurfer_1b68ocl07v8 label PM text 着陆检查单完成
+split 7 id wavesurfer_fkr05hjo3p label PM text 自动刹车工作
+split 7 id wavesurfer_tcs53df0o1o label PM text 反推正常
+split 7 id wavesurfer_2c9lgrs38eo label PM text 自动刹车解除
+file 35E5D4BDD960A834CE1D040C783D868F09D0323A832A0710153C407A88247E6E has 45 match.
+split 1 id wavesurfer_5r6le1v4ddg label PF text 1650
+split 1 id wavesurfer_2cde37l9088 label PF text 30，125
+split 1 id wavesurfer_me0oumlu79 label PF text 完成
+split 1 id wavesurfer_oisbjjb36l label PF text 证实
+split 1 id wavesurfer_05mhlcljjqo label PF text 下21#2100
+split 1 id wavesurfer_pb6h1rdv3ug label PM text 下降检查单
+split 1 id wavesurfer_cvp29mpqkm8 label PM text 增压着陆高度1650调好
+split 1 id wavesurfer_8h7859v0lkg label PM text 自动刹车
+split 1 id wavesurfer_vnhq9i2oca8 label PM text MINIMUM1880
+split 1 id wavesurfer_007abhjqi2 label PM text 进近简令完成
+split 1 id wavesurfer_n4jt6qha40o label PM text 最大着陆重量
+split 1 id wavesurfer_iv3bdt7pobo label PM text 进近检查单
+split 1 id wavesurfer_j9jht4pb2jg label PM text 高度表1个2个3个
+split 1 id wavesurfer_falfkjsl2k8 label PM text 核实
+split 1 id wavesurfer_8n8rk6vu758 label PM text 进近检查单完成
+split 2 id wavesurfer_mlqstp66lco label PF text 证实
+split 2 id wavesurfer_b4lrd6pn1g8 label PM text 核实
+split 4 id wavesurfer_67oh3k7t92 label PF text 航道预位
+split 4 id wavesurfer_44j79de1bpo label PF text 襟翼1速度
+split 4 id wavesurfer_4g1km95cq8 label PF text 襟翼5
+split 4 id wavesurfer_87na9ba9ni8 label PF text 襟翼5到位
+split 4 id wavesurfer_gj2fv50vs5 label PF text 襟翼5速度
+split 4 id wavesurfer_h4ji91erguo label PF text 证实
+split 4 id wavesurfer_hmv7u3bmvag label PM text 襟翼1
+split 4 id wavesurfer_itpgr74jbg8 label PM text 核实
+split 4 id wavesurfer_4o6v6anrr1 label PM text 襟翼5
+split 4 id wavesurfer_ocebncr6an8 label PM text 航道截获
+split 5 id wavesurfer_6m05q8pksuo label PF text APP预位
+split 5 id wavesurfer_s376hup2dk8 label PF text 放轮
+split 5 id wavesurfer_eua61abmv6g label PF text 襟翼15速度
+split 5 id wavesurfer_no1liho4kug label PF text 襟翼30
+split 5 id wavesurfer_sundh3mgna label PF text 着陆检查单
+split 5 id wavesurfer_rhjg0qdtopo label PF text 连续
+split 5 id wavesurfer_mjr6tpv2o8g label PF text 预位
+split 5 id wavesurfer_f396tub0jgo label PF text 30绿灯
+split 5 id wavesurfer_9658ki8qhh8 label PM text 下滑道移动
+split 5 id wavesurfer_3r2oph4p5j8 label PM text 襟翼30
+split 5 id wavesurfer_qgj726onn1o label PM text 着陆检查单
+split 5 id wavesurfer_ob04oh3hmjo label PM text 连续
+split 5 id wavesurfer_imjicvhcpig label PM text 着陆检查单完成
+split 6 id wavesurfer_mdns8vk0r98 label PF text 检查开灯
+split 6 id wavesurfer_cin76smf0lg label PM text 1000英尺稳定
+split 6 id wavesurfer_1ng1f56fiuo label PM text 300
+split 7 id wavesurfer_ps7911uata label PF text 自动刹车解除
+split 7 id wavesurfer_42vrc8ukrh label PF text 自动刹车工作
+file 3B3E6956BA4425C96B0D089531ACFF9D7AAAE177C67435C83C7150DD7EFA has 21 match.
+split 2 id wavesurfer_d5kgk716pdo label PF text 襟翼5
+split 2 id wavesurfer_d5iecjk3fqg label PM text 襟翼5
+split 3 id wavesurfer_lkat20782so label PF text 12，39#1200，3900
+split 3 id wavesurfer_fa60mm4incg label PM text 12#1200
+split 4 id wavesurfer_mt73kll81m8 label PF text 210
+split 5 id wavesurfer_55d85hk2188 label PM text 600
+split 6 id wavesurfer_btvagn4tg8 label PF text 放轮
+split 6 id wavesurfer_8ec814npve8 label PF text 襟翼15
+split 6 id wavesurfer_l1tlva984ug label PM text 襟翼15
+split 7 id wavesurfer_3ap3cnrd8a label PF text 着落检查单
+split 7 id wavesurfer_vji3g6d90lg label PF text 连续
+split 7 id wavesurfer_7733455rd0g label PF text 预位
+split 7 id wavesurfer_kt7q9vg43u label PF text 证实
+split 7 id wavesurfer_ln01lg5ho3o label PF text 检查
+split 7 id wavesurfer_217t3vurthg label PM text 发动机启动连续
+split 7 id wavesurfer_lplenoh533g label PM text 减速板预位
+split 7 id wavesurfer_sbr8dcegdig label PM text 襟翼30绿灯
+split 7 id wavesurfer_a645840q2eo label PM text 着落检查单完成
+split 7 id wavesurfer_vlf1ft5a8jg label PM text 1000稳定
+split 8 id wavesurfer_tol7cu90fj8 label PF text 继续
+split 8 id wavesurfer_tkr7c2fonr8 label PM text 500稳定
+file 4325EF4A8025053707253A452800B8EFEF11212812061B33E50A780E487F119E has 29 match.
+split 1 id wavesurfer_mlq8hk9fqog label PF text 好核实
+split 2 id wavesurfer_oj0i4ociqa label PM text 下高度3000
+split 3 id wavesurfer_5poig0dh6t8 label PF text 航道预位
+split 3 id wavesurfer_1jgkkgddsl label PM text 证实
+split 4 id wavesurfer_fs6ldjfg2h8 label PF text 核实
+split 4 id wavesurfer_38o4pj2u21g label PF text 核实
+split 4 id wavesurfer_u6i62dmvmcg label PF text 证实
+split 4 id wavesurfer_toeb9ksi2go label PF text 襟翼5，襟翼5速度
+split 4 id wavesurfer_722bdkcnd6 label PF text 证实
+split 4 id wavesurfer_hqd556b2hl label PM text 襟翼1到位
+split 5 id wavesurfer_312s8tlsn5o label PF text 下滑道移动
+split 5 id wavesurfer_qmuj5d5i1p8 label PF text 速度好襟翼15
+split 5 id wavesurfer_pb5j15r38k8 label PF text 复飞高度3600，118#11800
+split 5 id wavesurfer_jbgqkkk1md8 label PF text 着陆检查单
+split 5 id wavesurfer_5uvnusgb9f label PF text 连续
+split 5 id wavesurfer_onsguv5o37o label PF text 预位
+split 5 id wavesurfer_qr80rksn5e8 label PF text 放下
+split 5 id wavesurfer_s0f1qra4e4o label PF text 30绿灯
+split 5 id wavesurfer_agd42cegg18 label PM text 减速板预位
+split 5 id wavesurfer_8kp8gik19jo label PM text 30绿灯，APU引气按需设置关
+split 5 id wavesurfer_f8geegar8go label PM text 着陆检查单完成
+split 6 id wavesurfer_nig0c25gh28 label PM text 1000尺稳定
+split 7 id wavesurfer_ds7fk0aag28 label PF text 检查继续
+split 7 id wavesurfer_r6eobq4fj2o label PM text 500尺稳定
+split 7 id wavesurfer_68lli2bgvdg label PM text 300尺稳定继续
+split 7 id wavesurfer_m14leq30ck label PM text 差100
+split 7 id wavesurfer_nkt6cti2j78 label PM text 好继续
+split 7 id wavesurfer_72tj9e3fdt label PM text 反推开锁
+split 7 id wavesurfer_pse5ncvotto label PM text 刹车工作#自动刹车工作
+file 4A27655C812E9D2D7E96D82648C3AF6204D80BDECDD468C14FAD116FDDEEFCBA has 19 match.
+split 4 id wavesurfer_6jf7fu218c8 label PF text 3300，108#3300，10800调定
+split 4 id wavesurfer_k14fps4lnp label PM text 3300
+split 5 id wavesurfer_gqj11lll55o label PM text 3000
+split 6 id wavesurfer_1hc8sstl8tg label PF text 着陆检查单
+split 6 id wavesurfer_qbi4gs5gqbo label PF text 连续
+split 6 id wavesurfer_ir40elpiv label PF text 预位
+split 6 id wavesurfer_d2g4hbdgga8 label PF text 放下 
+split 6 id wavesurfer_paj22neaqi8 label PF text 30绿灯
+split 6 id wavesurfer_4rev621ag7 label PF text 连续
+split 6 id wavesurfer_hi4qacq5358 label PM text 下滑道截获
+split 6 id wavesurfer_f80n58cgch label PM text 发动机启动电门连续
+split 6 id wavesurfer_tuqirdrb9f8 label PM text 减速板预位
+split 6 id wavesurfer_1jhj36f624 label PM text 襟翼30，绿灯
+split 6 id wavesurfer_ovvseopd61 label PM text 着陆#着陆检查单
+split 6 id wavesurfer_mcr71o6tr9g label PM text 着陆检查单完成
+split 7 id wavesurfer_797gbt8eqno label PF text 检查开灯
+split 7 id wavesurfer_sfdodk7e10o label PM text 1000尺#1000，稳定
+split 7 id wavesurfer_tqd6lsl3m3g label PM text 500尺，顺风2米，右侧风2米#500，稳定
+split 8 id wavesurfer_plg4v4a4po8 label PM text 差100到决断#差100
+file 4D688E24DF8FC8A3DE665AFEEE3ADDD4A8B07AFF1CA5830DFA9744D83B3A9473 has 40 match.
+split 1 id wavesurfer_4362d31hs4 label PF text 3300，108#3300，10800
+split 1 id wavesurfer_9oui3ehh5so label PF text 10000开灯
+split 1 id wavesurfer_ksbdomg490o label PM text 3300
+split 1 id wavesurfer_13qnjmofhr8 label PM text 证实
+split 1 id wavesurfer_jf88cied2c label PM text 10000
+split 2 id wavesurfer_lj0jt2pn2kg label PF text 核实
+split 2 id wavesurfer_sktvfklnue label PM text 差1000
+split 3 id wavesurfer_lbngs49ror8 label PF text 襟翼5速度
+split 3 id wavesurfer_2hdbvvjo1bg label PF text 证实
+split 3 id wavesurfer_b95160slo7 label PM text 襟翼1到位
+split 3 id wavesurfer_h9ttprfmf48 label PM text 核实
+split 3 id wavesurfer_o9milefi9a8 label PM text 证实
+split 3 id wavesurfer_ncc9al8p58o label PM text 襟翼5 
+split 3 id wavesurfer_nduj55ksjio label PM text 襟翼5到位
+split 3 id wavesurfer_r6tc0c6ctog label PM text 证实
+split 3 id wavesurfer_o7m75mva9t8 label PM text 高度截获
+split 4 id wavesurfer_19kmtadfpqo label PF text 放轮襟翼15
+split 4 id wavesurfer_7ehvlcvqi6o label PF text 复飞高度3300，108#复飞高度3300，10800
+split 4 id wavesurfer_7tka1gi5q0o label PF text 襟翼30
+split 4 id wavesurfer_2rm2ifggq5g label PF text 连续
+split 4 id wavesurfer_u95dbuuiu3 label PF text 预位
+split 4 id wavesurfer_0k78svaov9 label PF text 放下
+split 4 id wavesurfer_9s7jjkb8mq label PF text 30绿灯
+split 4 id wavesurfer_53q2qrbis38 label PF text 着陆检查单
+split 4 id wavesurfer_b42r6h9mp2o label PM text 放轮襟翼15
+split 4 id wavesurfer_4fajva3a4h label PM text 下滑道截获
+split 4 id wavesurfer_2ekhtietkso label PM text 襟翼30
+split 4 id wavesurfer_v2k3sfcnfpg label PM text 着陆检查单
+split 4 id wavesurfer_e563mmercj label PM text 发动机起动电门连续
+split 4 id wavesurfer_1fop5m53cr8 label PM text 连续
+split 4 id wavesurfer_6ui6o2548b8 label PM text 减速板预位
+split 4 id wavesurfer_i88ddbvs3cg label PM text 预位
+split 4 id wavesurfer_v6fdvmtv47o label PM text APU引气按需设置核实
+split 4 id wavesurfer_26p542smv0g label PM text 着陆检查单完成
+split 6 id wavesurfer_1u2s1as85ig label PF text 500稳定
+split 6 id wavesurfer_vsr8ecv0ji label PM text 1000稳定
+split 6 id wavesurfer_oe27k1vd1b label PM text 开灯
+split 7 id wavesurfer_4vsmleimcr8 label PM text 反推正常
+split 7 id wavesurfer_7sgllng6j5o label PM text 自动刹车工作
+split 7 id wavesurfer_1ujuf15nhv8 label PM text 60
+file 537BB1282FF94C825D497009451D7240218201487DC472AE00734E7F0BFF2E1A has 46 match.
+split 2 id wavesurfer_p9hrgtk26o label PF text 近进检查单
+split 2 id wavesurfer_n2ndf58gog8 label PF text 27，89#2700，8900
+split 2 id wavesurfer_h3nuf5vtm4o label PM text 过度高度层
+split 2 id wavesurfer_g1cuk20eqk8 label PM text 高度表1018
+split 2 id wavesurfer_v4iqmphvn1 label PM text 3个
+split 2 id wavesurfer_pd2bmat5ekg label PM text 近进检查单完成
+split 3 id wavesurfer_ks1pbhl06do label PF text 差1000
+split 3 id wavesurfer_me8h4sqn6hg label PF text 证实
+split 3 id wavesurfer_5k5u5fg4h3o label PF text 证实
+split 3 id wavesurfer_i4ou6a0djm8 label PF text 调襟翼1速度
+split 3 id wavesurfer_0m23gdj2ah8 label PF text 证实
+split 3 id wavesurfer_3dvqsp35goo label PM text 证实
+split 3 id wavesurfer_16pm28kabr label PM text 高度截获
+split 3 id wavesurfer_9gibfpuu81 label PM text 证实
+split 3 id wavesurfer_kt0np9rgll label PM text 襟翼1到位
+split 4 id wavesurfer_nk3oonv566o label PF text 调襟翼5速度
+split 4 id wavesurfer_glkat3l60go label PF text 证实
+split 4 id wavesurfer_2vtpfgo8jhg label PF text 检查
+split 4 id wavesurfer_eh6tbsl80uo label PM text 襟翼5到位
+split 4 id wavesurfer_280kdphef7g label PM text 差1000
+split 6 id wavesurfer_es5dlk9cjh label PF text 放轮
+split 6 id wavesurfer_3fcd9ta9ri label PF text 襟翼15
+split 6 id wavesurfer_lqv06ple7i8 label PF text 调襟翼15速度#襟翼15速度调定
+split 6 id wavesurfer_2k6gnhre86g label PF text VORLOC预位
+split 6 id wavesurfer_64pnrsmpjmg label PF text 着陆检查单
+split 6 id wavesurfer_6i1gvhgp4io label PF text 连续
+split 6 id wavesurfer_2dak076pla label PF text 预位
+split 6 id wavesurfer_qld283urqpg label PF text 30绿灯
+split 6 id wavesurfer_9tfdfgktg0g label PM text 襟翼15
+split 6 id wavesurfer_3gt0npp3b9 label PM text 襟翼30到位
+split 6 id wavesurfer_squ8n5rbqo8 label PM text 发动机启动电门连续
+split 6 id wavesurfer_a704kqotkko label PM text 连续
+split 6 id wavesurfer_km75h6fj98g label PM text 减速板预位
+split 6 id wavesurfer_vlcsc7i5nt8 label PM text 预位
+split 6 id wavesurfer_m4i89o22tfg label PM text 襟翼30绿灯
+split 6 id wavesurfer_jqgup3u66cg label PM text APU引气按需设置核实关
+split 6 id wavesurfer_n7ctri957vo label PM text 着陆检查单完成
+split 7 id wavesurfer_2kcetvpksr8 label PF text 复飞高度24#2400,79#7900
+split 7 id wavesurfer_nj3j5f028m label PM text 下滑道截获
+split 8 id wavesurfer_4hnlu4t4d9 label PF text 检查开灯
+split 8 id wavesurfer_b5t5fqrlg8 label PF text 500稳定
+split 8 id wavesurfer_i1qob1qo6go label PM text 1000稳定
+split 8 id wavesurfer_b5gps0t8aco label PM text 差100
+split 8 id wavesurfer_fr053vjl2i label PM text 自动刹车工作
+split 8 id wavesurfer_usauom9l5u8 label PM text 反推正常
+split 8 id wavesurfer_7nicaq32f0o label PM text 60节
+file 54FC3675611E5D309AF070EF01D219A0E28F961C73F21D5EFC83CE3EC485 has 34 match.
+split 1 id wavesurfer_qjcd941fgig label PF text 10000尺开灯
+split 1 id wavesurfer_1c3kinnpet label PM text 开灯
+split 1 id wavesurfer_blid22jscho label PM text 襟翼5
+split 1 id wavesurfer_pa19h2bni7o label PM text 襟翼5到位
+split 2 id wavesurfer_9dttvejbsig label PF text 差1000
+split 2 id wavesurfer_rbs0tg2ank label PM text 核实
+split 3 id wavesurfer_i8spr5pj0s label PF text 108.5
+split 3 id wavesurfer_3tcak3kgp6 label PF text 航道预位
+split 3 id wavesurfer_1b8rfp71bm label PF text 航道截获
+split 3 id wavesurfer_lj95q3ch0do label PM text 航道预位
+split 4 id wavesurfer_hqd682db91 label PF text 证实
+split 4 id wavesurfer_6h89tgdobm label PF text 30
+split 4 id wavesurfer_kbr9uuaqtfg label PF text 着陆检查单
+split 4 id wavesurfer_mtj1n5co52 label PF text 连续
+split 4 id wavesurfer_ufblhgilpq8 label PF text 预位
+split 4 id wavesurfer_ug07hppkgbg label PF text 30，绿灯
+split 4 id wavesurfer_dagr4lk50c label PM text 襟翼15
+split 4 id wavesurfer_rc367d1dvmg label PM text 襟翼25
+split 4 id wavesurfer_3egvrqfetpo label PM text 襟翼30
+split 4 id wavesurfer_ctc5vtsjjto label PM text 着陆检查单
+split 4 id wavesurfer_4r7l4dmsrc label PM text 发动机启动电门连续
+split 4 id wavesurfer_4mduqq35r1g label PM text 减速板预位
+split 4 id wavesurfer_ol66gms2n6 label PM text 襟翼30，绿灯
+split 4 id wavesurfer_gqtgvffbe7o label PM text 检查单完成
+split 5 id wavesurfer_2c9ct8857o8 label PF text 核实
+split 5 id wavesurfer_lo8ei8p4an label PF text 1000
+split 5 id wavesurfer_pb1qbjhnl8g label PF text 开灯，检查#检查开灯
+split 5 id wavesurfer_t0mbupnplbg label PM text 下滑道截获
+split 5 id wavesurfer_gf48udb1m5g label PM text 1000稳定
+split 5 id wavesurfer_9v845mddi9 label PM text 27#2700
+split 6 id wavesurfer_eagvblhv0ao label PF text 核实
+split 6 id wavesurfer_69rs64qi6og label PF text 继续
+split 6 id wavesurfer_6fmc6fus2e8 label PM text 反推正常
+split 6 id wavesurfer_rbrvdf3uq1o label PM text 自动刹车工作
+file 5952309FB15D7080632378D8A3178D7466DABBB36E56842481FE5912E85B192B has 16 match.
+split 1 id wavesurfer_fo4pe2ivqsg label PF text 进近航向019
+split 1 id wavesurfer_g5aocdoio2o label PM text 航道截获
+split 2 id wavesurfer_rqifpimol0g label PF text 核实
+split 2 id wavesurfer_plv3078k878 label PF text 着陆检查单
+split 2 id wavesurfer_ccj7dk25mpo label PF text 预位
+split 2 id wavesurfer_s89eegsgt78 label PF text 30绿灯
+split 2 id wavesurfer_satttvhuiso label PM text 118.2
+split 2 id wavesurfer_slui9npq94o label PM text 减速板预位
+split 2 id wavesurfer_94vjmhjhqco label PM text 襟翼到30绿灯
+split 2 id wavesurfer_p9l5ojcq3m label PM text APU引气关
+split 3 id wavesurfer_qoimcaitoq label PF text 稳定检查开灯
+split 3 id wavesurfer_9900gj2sdf8 label PM text 1000尺
+split 4 id wavesurfer_snlj69tpmpo label PF text 继续
+split 4 id wavesurfer_dm5diot9o4o label PM text 500尺
+split 4 id wavesurfer_7ku6ff3icng label PM text 反推开锁
+split 4 id wavesurfer_dnv0m0cqf8o label PM text 60
+file 5B38968C062C8144C91767654538A05C62A857DFFB5D3F54142CB7BE442942AE has 40 match.
+split 1 id wavesurfer_iffhbiscka8 label PF text 15,49#1500,4900
+split 1 id wavesurfer_e8h99iv3rio label PF text 证实
+split 1 id wavesurfer_jkb8mmnbj3 label PF text 10000尺开灯
+split 1 id wavesurfer_is42ueu2vi8 label PF text 12#1200
+split 1 id wavesurfer_d0l2vigd2vg label PF text 核实
+split 1 id wavesurfer_7v28ebi71j8 label PM text 复飞高度49，15#复飞高度4900，1500
+split 2 id wavesurfer_lbmqtbf946 label PF text 目标速度180
+split 2 id wavesurfer_8euprajcao label PM text 证实
+split 2 id wavesurfer_i3h3u63hp4 label PM text 襟翼1
+split 2 id wavesurfer_karemcbipt8 label PM text 证实
+split 3 id wavesurfer_uqetfcg5vc8 label PF text 核实
+split 3 id wavesurfer_hq9afs09sb8 label PF text 核实
+split 3 id wavesurfer_n78dk63c1r label PF text 航道预位
+split 3 id wavesurfer_3n9m1rvj658 label PF text 襟翼5
+split 3 id wavesurfer_7kicjeemml label PM text 襟翼1到位
+split 3 id wavesurfer_4quoui1id2o label PM text 继续
+split 3 id wavesurfer_90oefhlfmn label PM text 航道移动
+split 3 id wavesurfer_ibj94n4fcmo label PM text 航道截获
+split 4 id wavesurfer_6c127g4rl2 label PM text 襟翼5
+split 4 id wavesurfer_kd6cqnipra label PM text 襟翼5到位
+split 5 id wavesurfer_22goa6vhek8 label PF text 复飞高度900，3000
+split 5 id wavesurfer_9uock5mjbb8 label PF text 放轮
+split 5 id wavesurfer_qb2bndbrup label PF text 襟翼15
+split 5 id wavesurfer_94m8end0ei8 label PF text 襟翼15速度
+split 5 id wavesurfer_2ktebl0ekmg label PF text 着陆检查单
+split 5 id wavesurfer_8bjg24r02lg label PF text 连续
+split 5 id wavesurfer_bhmug7d4fl8 label PF text 预位
+split 5 id wavesurfer_k63cl04f9i label PF text 着陆检查单完成
+split 5 id wavesurfer_aevbk8tqkco label PM text 襟翼30
+split 5 id wavesurfer_7bjbim86edg label PM text 30到位#襟翼30到位
+split 5 id wavesurfer_nvjaa83lri label PM text 着陆检查单
+split 5 id wavesurfer_5fg3gqmlnhg label PM text 减速板预位
+split 5 id wavesurfer_8v4aiv62qb8 label PM text APU引气按需设置
+split 7 id wavesurfer_009vpv5djv8 label PF text 继续开灯
+split 7 id wavesurfer_7cqb7j5r3 label PM text 1000尺稳定
+split 7 id wavesurfer_9ejreoqc8to label PM text 500尺稳定
+split 7 id wavesurfer_oope4f3bvlo label PM text 300稳定
+split 8 id wavesurfer_lq24hvvcteo label PF text 人工刹车
+split 8 id wavesurfer_9qos2glihgo label PM text 反推正常
+split 8 id wavesurfer_80nfmbo4l3g label PM text 自动刹车工作
+file 5D9F6C01B57116D95943EE5677B0B33814C230999E9E7D8B2602887B73F117A6 has 35 match.
+split 1 id wavesurfer_t8lg3om4sgo label PF text 3600，118#11800
+split 1 id wavesurfer_cd38bp5l3p label PF text 1020
+split 1 id wavesurfer_7qd70eh4m48 label PF text 进近检查单
+split 1 id wavesurfer_3t7g8iau1rg label PF text 1020三个
+split 1 id wavesurfer_fdik3hlugb8 label PM text 高度截获
+split 1 id wavesurfer_c0m3v11cio8 label PM text 3600
+split 1 id wavesurfer_u9k5elr4tqo label PM text 过度高度层
+split 1 id wavesurfer_0lt6ttit7b8 label PM text 进近高度表1020三个#进近检查单高度表1020三个
+split 3 id wavesurfer_b7e368eui label PF text 继续
+split 3 id wavesurfer_f2kok5dha2 label PM text 襟翼1到位
+split 4 id wavesurfer_g2hqd3rtp label PF text 襟翼5
+split 4 id wavesurfer_a6r141nfhpo label PM text 好，10000
+split 4 id wavesurfer_9dsslen2l1g label PM text 襟翼5
+split 4 id wavesurfer_qhcb4fo5evg label PM text 襟翼5到位
+split 5 id wavesurfer_3lvfp22fj7g label PF text 放轮襟翼15
+split 5 id wavesurfer_fi2pbs8g6ao label PM text 核实
+split 6 id wavesurfer_sqrd94pe1tg label PF text 襟翼30
+split 6 id wavesurfer_8k3flc169uo label PF text 着陆检查单
+split 6 id wavesurfer_rsav95oc33 label PF text 连续
+split 6 id wavesurfer_klm0ssnp07 label PF text 预位
+split 6 id wavesurfer_oa6acaq5ia8 label PM text 襟翼30
+split 6 id wavesurfer_i0in6jn03vg label PM text 发动机起动电门连续
+split 6 id wavesurfer_0irc3sg3pl label PM text 着陆#着陆检查单
+split 6 id wavesurfer_87eip1gada label PM text 减速板预位
+split 6 id wavesurfer_mkv2b54hspo label PM text 预位
+split 6 id wavesurfer_f5qm3h9pnug label PM text 放下
+split 6 id wavesurfer_3cql4qqh568 label PM text 30绿灯
+split 6 id wavesurfer_iaf5173pigg label PM text APU引气按需设置关
+split 6 id wavesurfer_utrvmh7s9vo label PM text 着陆检查单完成
+split 7 id wavesurfer_bln18t661lg label PF text 开灯
+split 7 id wavesurfer_553kfe23eng label PM text 1000尺稳定
+split 7 id wavesurfer_mmmlokrrqag label PM text 500尺稳定
+split 8 id wavesurfer_qbdmci7bc7 label PM text 反推开锁#反推正常
+split 8 id wavesurfer_cs4m74v9ngo label PM text 60
+split 8 id wavesurfer_mt2bkhs94q label PM text 刹车生效#自动刹车工作
+file 66BBA8F3F36452D2F4D9F7A2099B3AFFB8D6740F67BB35104BAE420E01FF has 31 match.
+split 1 id wavesurfer_jom50oo6di label PF text 证实
+split 1 id wavesurfer_ik5v3giu98 label PM text 差1000
+split 1 id wavesurfer_m1ejrlr4pt label PM text 高度截获
+split 2 id wavesurfer_ag98m1i2di8 label PF text 3600，118#11800
+split 2 id wavesurfer_45hu4f2sq5o label PM text 210#210调定
+split 2 id wavesurfer_4983l16gf68 label PM text 3600，118#11800
+split 3 id wavesurfer_sh1bturrcv8 label PF text 襟翼5
+split 3 id wavesurfer_fkcdinv1tu label PF text 差1000
+split 3 id wavesurfer_6qlfi68tvfo label PM text 襟翼5
+split 3 id wavesurfer_2pff9eups9o label PM text 核实
+split 3 id wavesurfer_59qp10j726 label PM text 襟翼5速度
+split 4 id wavesurfer_27aojmcqao label PF text 证实
+split 4 id wavesurfer_7knu9i7eprg label PF text 哦#证实
+split 5 id wavesurfer_559cq91lu7g label PF text 证实
+split 6 id wavesurfer_108imcfvh6 label PF text 证实
+split 6 id wavesurfer_0m65207h7o8 label PF text 放轮
+split 6 id wavesurfer_ihm51hf2bc label PF text 襟翼15
+split 6 id wavesurfer_9lhqciuftdg label PM text APP预位
+split 6 id wavesurfer_i4vqm2qd9q8 label PM text 航道移动
+split 6 id wavesurfer_66iu09s16c label PM text 下滑道截获
+split 6 id wavesurfer_hkkauqgvhu8 label PM text 襟翼15
+split 7 id wavesurfer_4e7hrg6pdf8 label PF text 襟翼15速度
+split 7 id wavesurfer_6sluke70vm label PF text 发动机启动电门
+split 7 id wavesurfer_5tn46fcfuf8 label PM text 复飞高度3600，118#11800
+split 7 id wavesurfer_puill3fgtc label PM text 着陆检查单
+split 8 id wavesurfer_bjuq8ndheq8 label PF text 1000#1000稳定
+split 8 id wavesurfer_7sho4g11jqg label PF text 刹车生效#自动刹车工作
+split 8 id wavesurfer_71ib6fc8hag label PF text 开灯检查#检查开灯
+split 8 id wavesurfer_b8cuu60k5vg label PM text 500尺稳定#500稳定
+split 8 id wavesurfer_hujltgenjl8 label PM text 核实，减速板升起，刹车生效#自动刹车工作
+split 9 id wavesurfer_k3m1elt1oug label PM text 自动刹车解除
+file 67E25AE21C7C587F65534DC829B8D8E498A2EA57960C696D89B9F058D780 has 32 match.
+split 1 id wavesurfer_m8183nvki2o label PM text 10000
+split 1 id wavesurfer_rnq94ok2lb label PM text 近进检查单
+split 1 id wavesurfer_uagsu0ishkg label PM text 高度表
+split 1 id wavesurfer_e3m3pglivi8 label PM text 1020
+split 1 id wavesurfer_26opm9b9kgo label PM text 1020三个
+split 1 id wavesurfer_ofqfmthqpfo label PM text 近进检查单完成
+split 1 id wavesurfer_98hcjphd4a label PM text 差1000
+split 2 id wavesurfer_p6cbk7ke8s8 label PM text 差1000
+split 3 id wavesurfer_ld07mm3peno label PM text 襟翼1到位
+split 3 id wavesurfer_8i2pniqfuso label PM text 核实
+split 5 id wavesurfer_7ug03pakqgo label PF text 航道截获
+split 5 id wavesurfer_ssgc5o512lo label PF text 放轮
+split 5 id wavesurfer_0ctg16cnpsg label PF text 速度好襟翼15
+split 5 id wavesurfer_pbrgojp57m8 label PF text 着陆检查单
+split 5 id wavesurfer_l3804buetm label PM text 核实
+split 5 id wavesurfer_0iurie2ubbo label PM text 核实
+split 5 id wavesurfer_pgljgsitaco label PM text 襟翼30到位
+split 5 id wavesurfer_s58njjoqjl8 label PM text 发动机启动电门连续
+split 5 id wavesurfer_rd5cboep9c8 label PM text 连续
+split 5 id wavesurfer_r99lorho3jg label PM text 减速板预位
+split 5 id wavesurfer_8l06sf0okug label PM text 预位
+split 5 id wavesurfer_n8a8vcfpc2g label PM text 襟翼30绿灯
+split 5 id wavesurfer_3uudg344ko8 label PM text 30绿灯
+split 5 id wavesurfer_tolad5o58vo label PM text APU引气按需设置
+split 5 id wavesurfer_52rh9pnnppg label PM text 核实
+split 5 id wavesurfer_p3ielarbi3 label PM text 着陆检查单完成
+split 7 id wavesurfer_f6g1gs75csg label PM text 1000稳定
+split 8 id wavesurfer_4r47a512pno label PM text 500稳定
+split 8 id wavesurfer_hcc1ddnr67g label PM text 自动刹车工作
+split 8 id wavesurfer_avv524q53a label PM text 反推正常
+split 8 id wavesurfer_jnssd0hvrq label PM text 速度60
+split 8 id wavesurfer_8nq8a7v6tt8 label PM text 自动刹车解除
+file 688DB99F3D0BD69D3BE59B789828525B9C21F4F2FCD49704FA22ED9FB95A840C has 35 match.
+split 1 id wavesurfer_1elj5n7rg0g label PF text 请开灯
+split 1 id wavesurfer_b2ifr9brpj label PM text 10000尺
+split 1 id wavesurfer_l6pdjtbqfo8 label PM text 开灯
+split 3 id wavesurfer_67pdkrfsrvg label PF text 4800，157#15700
+split 4 id wavesurfer_uatae4foag8 label PF text 4500，148#14800
+split 4 id wavesurfer_hqi2btug73 label PM text 4500
+split 5 id wavesurfer_amap4lkkos label PF text 核实
+split 9 id wavesurfer_ve5a4o3erlg label PF text 航道预位
+split 9 id wavesurfer_9d1kevirc4 label PF text 核实
+split 9 id wavesurfer_t8b6sn3186g label PM text 航道移动
+split 9 id wavesurfer_sn71skdnaug label PM text 航道截获
+split 9 id wavesurfer_s46n1r50n6g label PM text 证实
+split 9 id wavesurfer_f700a9vg53o label PM text 襟翼5
+split 10 id wavesurfer_mafhff50hk8 label PF text 核实
+split 10 id wavesurfer_2eg9v35ath label PF text 核实
+split 10 id wavesurfer_meii544s2oo label PF text 襟翼15
+split 10 id wavesurfer_4mjfkikg4jo label PF text 襟翼15速度
+split 10 id wavesurfer_tnegvpp24uo label PF text 核实
+split 10 id wavesurfer_8hmepclcpto label PF text 复飞高度3600，118#11800
+split 10 id wavesurfer_flq49m4ijl label PM text 襟翼5到位
+split 10 id wavesurfer_9qlu65o3tr label PM text 放轮
+split 10 id wavesurfer_7fleimgf4kg label PM text 襟翼15到位
+split 11 id wavesurfer_ltf605q0crg label PF text 襟翼30
+split 11 id wavesurfer_j9ddabq92m8 label PF text 连续
+split 11 id wavesurfer_oeqijtmik8o label PM text 发动机启动电门连续
+split 11 id wavesurfer_tmas38797r label PM text 减速板预位
+split 11 id wavesurfer_1e2bs5273b8 label PM text 预位
+split 11 id wavesurfer_arc8t7gecl8 label PM text 襟翼30绿灯
+split 11 id wavesurfer_1fv4k7mejlg label PM text APU引气按需关
+split 11 id wavesurfer_vr4l7og3698 label PM text 着陆检查单完毕
+split 11 id wavesurfer_a58c43lklsg label PM text 1000稳定
+split 12 id wavesurfer_oa64aolauu8 label PM text 500稳定
+split 12 id wavesurfer_n2di04q2328 label PM text 300稳定
+split 12 id wavesurfer_d5gibifhu4o label PM text 自动刹车工作
+split 12 id wavesurfer_tfgtker5vgg label PM text 反推正常
+file 6EEAB896536D35C1B88841112752E9C7CAAE0D2BCEC99C3DB154E82A352E9CD9 has 41 match.
+split 1 id wavesurfer_ebpp7g5ojh label PF text 进近检查单
+split 1 id wavesurfer_n38uk93tafg label PF text 襟翼1
+split 1 id wavesurfer_pleqr7nd54 label PF text 襟翼5
+split 1 id wavesurfer_tr200v7gkug label PM text 过度高度层
+split 1 id wavesurfer_6gi3ktboehg label PM text 进近#进近检查单
+split 1 id wavesurfer_e41jmi51pn label PM text 高度表1023
+split 1 id wavesurfer_hnt0ds6vfko label PM text 核实
+split 1 id wavesurfer_j8lhkv7pta label PM text 进近检查单完成
+split 1 id wavesurfer_vu14g8he7bo label PM text 襟翼1到位
+split 1 id wavesurfer_76npmehdn2g label PM text 襟翼5
+split 2 id wavesurfer_peio3tcpghg label PF text 放轮
+split 2 id wavesurfer_au5iv2h3to8 label PF text 襟翼15
+split 2 id wavesurfer_rodt11a9bvo label PM text 10000尺
+split 2 id wavesurfer_8e9dt1ki8hg label PM text 7100
+split 2 id wavesurfer_ugpqrnbeef label PM text 襟翼15
+split 3 id wavesurfer_6915bqr1tdg label PF text 着陆检查单
+split 3 id wavesurfer_b6pnf02bop label PF text 连续
+split 3 id wavesurfer_5kjucme4flg label PF text 预位
+split 3 id wavesurfer_l3mp4utg318 label PF text 30绿灯
+split 3 id wavesurfer_6qp23lmefho label PF text 核实关
+split 3 id wavesurfer_2c66erjd8sg label PF text 核实
+split 3 id wavesurfer_2ddhp018d98 label PM text 襟翼30
+split 3 id wavesurfer_9li56i8vcq8 label PM text 着陆检查单
+split 3 id wavesurfer_4uso4ijgmkg label PM text 发动机起动电门连续
+split 3 id wavesurfer_asd7i9fof88 label PM text 连续
+split 3 id wavesurfer_b1rav7kicn8 label PM text 减速板预位
+split 3 id wavesurfer_38odlnm3ado label PM text 预位
+split 3 id wavesurfer_834olq8lv88 label PM text 襟翼30绿灯
+split 3 id wavesurfer_u6rts24usvg label PM text APU引气按需设置核实关
+split 3 id wavesurfer_ia4be45gd5 label PM text 进近检查单完成
+split 4 id wavesurfer_qdafmgr552o label PF text 复飞高度3600米，118#11800
+split 4 id wavesurfer_a935hnkt6eg label PF text 证实
+split 4 id wavesurfer_4qpjvsop41g label PM text 核实
+split 5 id wavesurfer_mmdiq7ukba8 label PF text 开灯
+split 5 id wavesurfer_n7465vmj428 label PM text 1000稳定
+split 5 id wavesurfer_r0236mg2aqo label PM text 差100
+split 5 id wavesurfer_tp580cpf578 label PM text 500稳定
+split 5 id wavesurfer_7nhd7edb6vo label PM text 300稳定
+split 5 id wavesurfer_91i3f0cre8o label PM text 自动刹车生效
+split 5 id wavesurfer_94uvqu1tqk8 label PM text 反推正常
+split 5 id wavesurfer_rn2vfe9offo label PM text 60
+file 6F2A65CFCFA6D02EDD1D381FA2809AE0A897C12A55872D73F3F7F4C2AA503153 has 32 match.
+split 2 id wavesurfer_d7lhe03a9bo label PF text 证实
+split 2 id wavesurfer_jvech7nsumo label PM text 襟翼1速度核实
+split 2 id wavesurfer_6r0f26qtv48 label PM text 襟翼1到位
+split 2 id wavesurfer_etkl89t5qfg label PM text 襟翼5
+split 4 id wavesurfer_44a9intsns label PF text 放轮
+split 4 id wavesurfer_317pkgsa47 label PF text 襟翼15
+split 4 id wavesurfer_e1rsb4pgang label PM text 125.00
+split 4 id wavesurfer_minj52rr02g label PM text 下滑道截获
+split 4 id wavesurfer_ndk0st6bssg label PM text 差1000
+split 4 id wavesurfer_5qrr2ns07sg label PM text 襟翼15
+split 4 id wavesurfer_555qreb5dfg label PM text 襟翼15到位
+split 5 id wavesurfer_f3jibkup3r label PF text 着陆检查单
+split 5 id wavesurfer_fgid5k45r08 label PF text 连续
+split 5 id wavesurfer_g17uduvi9eg label PF text 预位
+split 5 id wavesurfer_7opf5edqnk8 label PF text 30绿灯
+split 5 id wavesurfer_p09qn120o7 label PM text 下滑道截获
+split 5 id wavesurfer_canad5crgmo label PM text 复飞高度4800M，15700FT4800M证实
+split 5 id wavesurfer_ueik97u9ifg label PM text 30到位#襟翼30到位
+split 5 id wavesurfer_g6onk5f6nn label PM text 着陆检查单
+split 5 id wavesurfer_inbktm82rcg label PM text 发动机启动电门连续
+split 5 id wavesurfer_d8gqi2ish48 label PM text 连续
+split 5 id wavesurfer_iubh9n9r2do label PM text 减速板预位
+split 5 id wavesurfer_q4utavgp5qg label PM text 预位
+split 5 id wavesurfer_lvtfj3o69no label PM text 襟翼30绿灯
+split 5 id wavesurfer_o0alop8j5uo label PM text 30绿灯
+split 5 id wavesurfer_qe9b4nfo17 label PM text APU引气按需设置
+split 5 id wavesurfer_mcptr1vsum label PM text 着陆检查单完成
+split 7 id wavesurfer_gmp7i6cg61g label PM text 1000稳定
+split 7 id wavesurfer_hn9odfu7vi8 label PM text 开灯
+split 7 id wavesurfer_r5m9nsf7jg8 label PM text 差100
+split 7 id wavesurfer_k0m7asdb0pg label PM text 反推正常
+split 7 id wavesurfer_b2g8ap3fa2g label PM text 60
+file 6F65C77098EE74A3B485A423B0D9ED1372C2FB7B363C19D89A4460863ED33B2F has 44 match.
+split 1 id wavesurfer_dib0urtp7g label PF text 下3600，118#11800
+split 1 id wavesurfer_vdigrf2445g label PF text 1025
+split 1 id wavesurfer_lg5clc5dpeo label PF text 1000
+split 1 id wavesurfer_bvkhah7ogeg label PF text 进近检查单
+split 1 id wavesurfer_srgi8ag50ho label PM text 进近检查单
+split 1 id wavesurfer_h0n7soic4tg label PM text 高度表1025
+split 1 id wavesurfer_5lrmgrbrejo label PM text 航道导航频率不适用
+split 1 id wavesurfer_qa4l5hpvb7o label PM text 进近检查单完成
+split 3 id wavesurfer_slhbj34dhcg label PF text 差1000
+split 3 id wavesurfer_capsroenpm label PF text 核实
+split 3 id wavesurfer_e519inapar8 label PF text 襟翼1速度
+split 3 id wavesurfer_554ec5hqde label PF text 放襟翼5
+split 3 id wavesurfer_estdn6tucco label PM text 差1000
+split 3 id wavesurfer_7g8cb4dudv8 label PM text 下高度10000
+split 3 id wavesurfer_7f3hkns7pbg label PM text 襟翼1到位
+split 4 id wavesurfer_7bcbr8lf6sg label PF text 核实
+split 4 id wavesurfer_5fv4c3qj238 label PF text 核实
+split 4 id wavesurfer_r5mkuuo9qdg label PM text 襟翼5到位
+split 5 id wavesurfer_hrr00f8q088 label PF text 放轮
+split 5 id wavesurfer_get8jj3m90g label PF text 襟翼15
+split 5 id wavesurfer_frg8ma88sfo label PF text 核实
+split 5 id wavesurfer_vhkovsvsd58 label PM text 核实
+split 6 id wavesurfer_5ddi479ts1 label PF text 复飞高度一下300FT
+split 6 id wavesurfer_n4tm8qq87ao label PF text 着陆检查单
+split 6 id wavesurfer_6vccagi2eoo label PF text 连续
+split 6 id wavesurfer_49qvcgkdu7g label PF text 预位
+split 6 id wavesurfer_qbojkp4o7h label PF text 40绿灯
+split 6 id wavesurfer_g95lg52vcmo label PF text 核实
+split 6 id wavesurfer_hs8f8b1m2po label PF text 开灯
+split 6 id wavesurfer_0bp16q54gjg label PF text 继续
+split 6 id wavesurfer_q5jkeqlilgo label PM text 着陆检查单
+split 6 id wavesurfer_8uff4ns5pa label PM text 发动机起动电门连续
+split 6 id wavesurfer_dn75c15edb label PM text 减速板预位
+split 6 id wavesurfer_8ia905iu5s label PM text 预位
+split 6 id wavesurfer_pspdp5huhdo label PM text APU引气按需设置核实
+split 6 id wavesurfer_mhrfjsgumv8 label PM text 着陆检查单完成
+split 6 id wavesurfer_nlhnndbcnq8 label PM text 1000稳定
+split 7 id wavesurfer_caevvo44la8 label PF text 检查继续
+split 7 id wavesurfer_tbu80jtmrao label PF text 人工刹车
+split 7 id wavesurfer_ermv6l4hm5o label PM text 500稳定
+
+split 7 id wavesurfer_6gbl7if6kng label PM text 反推开锁#反推正常
+split 7 id wavesurfer_albukkeij18 label PM text 自动刹车生效#自动刹车工作
+split 7 id wavesurfer_j1o63sj1q6o label PM text 60
+split 7 id wavesurfer_ukkjq3qbpe8 label PM text 刹车解除
+file 74CE646EF173DC01C954FB32687E62AB0F98FDA44EC789A322EEB1EA21CD has 36 match.
+split 1 id wavesurfer_1sq6stmj758 label PF text 证实
+split 1 id wavesurfer_5ljjniqtulo label PM text 高度截获
+split 2 id wavesurfer_bfm2j3f6lvo label PF text 证实
+split 2 id wavesurfer_srnaht24eko label PF text 119证实
+split 2 id wavesurfer_j4kdgldtf5g label PM text 119
+split 3 id wavesurfer_6ffsmnaueag label PF text 证实
+split 5 id wavesurfer_s6pqt1obee8 label PF text 证实
+split 5 id wavesurfer_fe4cbopm71g label PF text 证实
+split 5 id wavesurfer_a36er5cjuco label PF text 3900，128#12800
+split 5 id wavesurfer_hu1ude2tdqg label PF text 证实
+split 5 id wavesurfer_2n1tae3t908 label PM text 3900
+split 5 id wavesurfer_jju385ujik8 label PM text 差1000
+split 6 id wavesurfer_tqmv2qtmjn label PF text 航道截获
+split 6 id wavesurfer_aujbf5eddpo label PM text VORLOC预位
+split 6 id wavesurfer_9q2b3kqp5gg label PM text 航道移动
+split 7 id wavesurfer_o95862fuui8 label PF text 放轮
+split 7 id wavesurfer_ful91fdvqcg label PF text 襟翼15
+split 8 id wavesurfer_fdo47qfo8sg label PF text 襟翼15到位
+split 8 id wavesurfer_m93v5i5or1 label PF text 着陆检查单
+split 8 id wavesurfer_nrb2nju43f8 label PF text 连续
+split 8 id wavesurfer_riuqsiegme8 label PF text 预位
+split 8 id wavesurfer_nfobpodcrg8 label PM text 襟翼30到位
+split 8 id wavesurfer_8hjmarteaj label PM text 着陆检查单
+split 8 id wavesurfer_3l9mvln70rg label PM text 发动机启动电门连续
+split 8 id wavesurfer_5d8a64dbdn label PM text 连续
+split 8 id wavesurfer_qc2ih387qko label PM text 减速板预位
+split 8 id wavesurfer_4cjgom9v3bg label PM text 预位
+split 8 id wavesurfer_f2lnb17jtc8 label PM text 襟翼30绿灯
+split 8 id wavesurfer_38c46ageco label PM text 30绿灯
+split 9 id wavesurfer_ug68oto2ctg label PM text 1000尺稳定#1000稳定
+split 9 id wavesurfer_1uk97i0kvoo label PM text 开灯
+split 9 id wavesurfer_db9637peaqo label PM text 500尺#500稳定
+split 9 id wavesurfer_m28uupn0sp8 label PM text 反推正常
+split 10 id wavesurfer_2erl6hl24mg label PF text 人工刹车
+split 10 id wavesurfer_m1itmu910q label PM text 刹车解除
+split 10 id wavesurfer_ft5kre9j52 label PM text 速度60
+file 794E09149C37BF55EEB47665C8348DEC71B74723B6B9C878EEEFEADD85C2E75F has 29 match.
+split 1 id wavesurfer_kl54mca4r3o label PF text 进近检查单
+split 1 id wavesurfer_alkslon7c8 label PF text 1027
+split 1 id wavesurfer_pja2netkl4 label PM text 过度高度层
+split 1 id wavesurfer_jk883jn0odo label PM text 高度表1027
+split 1 id wavesurfer_n45eg3c0tdo label PM text 进近#进近检查单
+split 1 id wavesurfer_oej8eeljub8 label PM text 核实航道导航频率
+split 2 id wavesurfer_pa89nlmdelg label PF text 核实
+split 2 id wavesurfer_gk6uu4k9lho label PM text 差1000
+split 3 id wavesurfer_qk2bm7bo46 label PF text 放襟翼5
+split 3 id wavesurfer_njok5ouagm8 label PM text 襟翼1
+split 3 id wavesurfer_l1mr9h1t0o8 label PM text 襟翼1到位
+split 3 id wavesurfer_m6t2jod54do label PM text 襟翼5
+split 5 id wavesurfer_d3kkeqa30mg label PF text 襟翼15
+split 5 id wavesurfer_0au0d817rfg label PF text 襟翼25
+split 5 id wavesurfer_jk3l9l1n14 label PM text 放轮
+split 5 id wavesurfer_jd3rlebmni label PM text 25
+split 6 id wavesurfer_3dsiu06oso8 label PF text 着陆检查单
+split 6 id wavesurfer_50k71nhrvso label PF text 连续
+split 6 id wavesurfer_o7ksld8nhig label PF text 预位
+split 6 id wavesurfer_efrucim3qq label PF text 40绿灯
+split 6 id wavesurfer_6q6ajehuhlg label PM text 着陆检查单
+split 6 id wavesurfer_lgjbufjt43g label PM text 1000稳定
+split 6 id wavesurfer_3i697m2nb8 label PM text 检查开灯
+split 6 id wavesurfer_913rfkn0eqo label PM text 发动机启动电门连续
+split 6 id wavesurfer_md5339ibhkg label PM text 减速板预位
+split 7 id wavesurfer_jl73qiih8t label PF text 核实
+split 7 id wavesurfer_5g2ged2dqg8 label PM text 证实
+split 7 id wavesurfer_bvc2uhq6b8g label PM text 证实
+split 7 id wavesurfer_6qj5bpit2b label PM text 差100
+file 85092BFC995FF1DE5B5738C96D89834FD741EF53378E95B08F4D3B3E8289DD9C has 35 match.
+split 1 id wavesurfer_soofo2lk1b8 label PF text 21#2100
+split 1 id wavesurfer_vgn1gjckv48 label PF text 69#6900
+split 1 id wavesurfer_euog0bqdae8 label PF text 证实
+split 1 id wavesurfer_pt10ajpfs28 label PF text 调襟翼5速度
+split 1 id wavesurfer_369041gnu6g label PF text 速度180，下18#1800
+split 1 id wavesurfer_7jafb1b55ro label PM text 21#2100
+split 1 id wavesurfer_76th1mfqohg label PM text 证实
+split 1 id wavesurfer_8s3nrlvg8so label PM text 襟翼1到位
+split 1 id wavesurfer_8q02q850g8 label PM text 证实
+split 2 id wavesurfer_pammc8p5f88 label PF text 证实
+split 2 id wavesurfer_nn0rumqb6co label PF text 证实
+split 2 id wavesurfer_1emd9hpnlk label PF text 证实
+split 2 id wavesurfer_dfsnud2ivo8 label PM text 襟翼5到位
+split 2 id wavesurfer_rfvmahunj1g label PM text 高度截获
+split 3 id wavesurfer_gmasrf3m3o label PF text 速度好襟翼15
+split 3 id wavesurfer_84bqattulno label PF text 襟翼15速度
+split 3 id wavesurfer_9v2ghm8cas label PM text 15#1500
+split 3 id wavesurfer_su1j6cjenig label PM text 襟翼15到位
+split 4 id wavesurfer_e6mvcetei98 label PF text APP预位
+split 4 id wavesurfer_mqlmcgl1to label PF text 进近航向308
+split 4 id wavesurfer_1e5ns6ek4po label PM text 襟翼30到位
+split 4 id wavesurfer_rvc32p0m81o label PM text GS预位
+split 5 id wavesurfer_701pmst2ea label PF text 复飞高度12#1200
+split 5 id wavesurfer_cqd1irrugko label PF text 着陆检查单
+split 5 id wavesurfer_4eic1cemk8 label PF text 连续
+split 5 id wavesurfer_f7c6h5ec5sg label PF text 预位
+split 5 id wavesurfer_be5lkhqlf0g label PF text 放下
+split 5 id wavesurfer_vdpuimg8vro label PF text 30绿灯
+split 5 id wavesurfer_bholk8is2h8 label PM text 着陆检查单
+split 5 id wavesurfer_u3uijipose label PM text 关，着陆检查单完成
+split 6 id wavesurfer_4i442m69t0o label PM text 开灯
+split 7 id wavesurfer_g4v77c8gqo label PM text 减速板升起
+split 7 id wavesurfer_nbul6jcbvf label PM text 自动刹车生效
+split 7 id wavesurfer_1tdb0i1uuug label PM text 反推正常
+split 7 id wavesurfer_m7oj8nh6hhg label PM text 60
+file 87D598DA932E3362DC2DDF3C4D8253289B69893C7385185FFA5E849942A0 has 40 match.
+split 1 id wavesurfer_thpujp0p4i8 label PF text 1025检查
+split 1 id wavesurfer_h98nnk07m78 label PF text 检查
+split 1 id wavesurfer_fd32f45ab88 label PF text 完成
+split 1 id wavesurfer_8j4sd3j53hg label PM text 过度高度层
+split 1 id wavesurfer_v06136oq92o label PM text 进近检查单
+split 1 id wavesurfer_j9f87asl8og label PM text 高度表1025
+split 1 id wavesurfer_k2hf6oaq0po label PM text 1，2，3，1025高度表不差
+split 1 id wavesurfer_2eoq0sk4fcg label PM text 进近检查单完成
+split 2 id wavesurfer_8bha9bt44b label PF text 10000
+split 2 id wavesurfer_gh35ri7lbvg label PF text 襟翼5
+split 2 id wavesurfer_db08n4jpvl8 label PF text 证实
+split 2 id wavesurfer_fae2014cam8 label PF text 襟翼5速度，160
+split 2 id wavesurfer_6qk22v62ru label PM text 差1000
+split 2 id wavesurfer_gb25h7l66go label PM text 襟翼5到位
+split 3 id wavesurfer_jak0ebi487o label PF text 放轮
+split 3 id wavesurfer_0vsqm4nj2d8 label PF text 襟翼15
+split 3 id wavesurfer_981qmglelpo label PF text 证实
+split 3 id wavesurfer_plckf90afro label PM text 襟翼15
+split 3 id wavesurfer_4ahrlj6vi8 label PM text 襟翼15到位
+split 3 id wavesurfer_e9qqe942on8 label PM text 差1000
+split 4 id wavesurfer_b0gat2q0seg label PF text 襟翼40
+split 4 id wavesurfer_0knunl8dp7o label PF text 构型建立，检查单#着陆检查单
+split 4 id wavesurfer_4bhcr66cgp label PF text 预位
+split 4 id wavesurfer_idtmneoqg7 label PF text 40绿灯
+split 4 id wavesurfer_33sa1eco498 label PF text 核实关
+split 4 id wavesurfer_4hk02d962pg label PM text 襟翼40
+split 4 id wavesurfer_telh44uoag label PM text 减速板预位
+split 4 id wavesurfer_vgv44qnfua8 label PM text 预位
+split 4 id wavesurfer_7dnvnbkv3hg label PM text APU引气核实，关
+split 4 id wavesurfer_j8snesqsfd8 label PM text 着陆检查单完成
+split 5 id wavesurfer_ph4s2fq6pig label PM text 证实
+split 6 id wavesurfer_760t54jigt label PF text 继续
+split 6 id wavesurfer_5sndcs61f98 label PF text 继续
+split 6 id wavesurfer_bh13a4vu4p8 label PF text 证实
+split 6 id wavesurfer_hnqqiei679g label PF text 人工刹车
+split 6 id wavesurfer_4kd4t9dtfao label PM text 1000尺稳定
+split 6 id wavesurfer_ns99s85ksc8 label PM text 500尺稳定
+split 6 id wavesurfer_gjv7aia611 label PM text 反推正常
+split 6 id wavesurfer_a51jjfhcvqg label PM text 刹车工作
+split 6 id wavesurfer_u33par806u label PM text 60
+file 88A9EEB134F273D74DF02266AED5EF0C9B007EB2C2661261546B052FF7F7 has 32 match.
+split 1 id wavesurfer_brgnb8785hg label PF text 核实
+split 1 id wavesurfer_4n5iqgk6i4o label PM text 161
+split 1 id wavesurfer_3v7h4e60d58 label PM text 161
+split 1 id wavesurfer_puhbp78tvug label PM text 近进检查单完成
+split 1 id wavesurfer_6vo2oemue4g label PM text 襟翼1到位
+split 2 id wavesurfer_stfjg2vifj8 label PM text 差1000
+split 2 id wavesurfer_e7rlnnruupg label PM text 航道预位
+split 2 id wavesurfer_qub5ucjma4 label PM text 航道截获
+split 2 id wavesurfer_eevrbattoi label PM text 差1000
+split 3 id wavesurfer_sb068g8mvmg label PF text 放轮
+split 3 id wavesurfer_hi75soecm5 label PF text 着陆检查单
+split 3 id wavesurfer_t1et0gcnjf8 label PM text 速度好襟翼15
+split 3 id wavesurfer_k1maalf251 label PM text 襟翼15到位
+split 3 id wavesurfer_ufdhatukh2g label PM text 差1000
+split 3 id wavesurfer_1i8iteu2q5o label PM text 襟翼30到位
+split 4 id wavesurfer_b42lpkoslv8 label PM text 发动机启动电门连续
+split 4 id wavesurfer_4urr9fb083g label PM text 连续
+split 4 id wavesurfer_1jnai8u6ilo label PM text 减速板预位
+split 4 id wavesurfer_m84tk25qcc8 label PM text 预位
+split 4 id wavesurfer_oj46eha99ro label PM text 襟翼30绿灯
+split 4 id wavesurfer_8obh5fe9fqo label PM text 30绿灯
+split 4 id wavesurfer_pht6agoibio label PM text APU引气按需设置
+split 4 id wavesurfer_ac96erjhit8 label PM text 核实
+split 4 id wavesurfer_8ababdbnuso label PM text 着陆检查单完成
+split 4 id wavesurfer_2m7rn94p8gg label PM text 下滑道截获
+split 5 id wavesurfer_6q2iu0cnbn label PF text 开灯
+split 5 id wavesurfer_q714i5m8qg label PM text 1000稳定
+split 5 id wavesurfer_282aeogggp label PM text 500稳定
+split 6 id wavesurfer_dgpqd5cg4bg label PM text 自动刹车工作
+split 6 id wavesurfer_npvfnuifkvo label PM text 反推正常
+split 6 id wavesurfer_odcn08h8h2 label PM text 自动刹车解除
+split 6 id wavesurfer_edid4746pr label PM text 速度60
+file 8B5AC0199AB3AF6544191314E3386986599E0805B3DCE9B36705576073FE6943 has 39 match.
+split 1 id wavesurfer_0qiubdfrgb8 label PF text 证实
+split 1 id wavesurfer_t5gmo6vj1uo label PF text 证实
+split 1 id wavesurfer_shn33nj39p8 label PM text 高度截获
+split 2 id wavesurfer_jhqle1mq1q label PM text 1254
+split 3 id wavesurfer_eaendahtle label PF text 18#1800，59#5900
+split 3 id wavesurfer_63dij6bo13g label PM text 下18#下1800
+split 3 id wavesurfer_07r8t4bum0g label PM text 证实
+split 4 id wavesurfer_oe4peillfoo label PF text 检查
+split 4 id wavesurfer_vdgf3ntn2vg label PF text 证实
+split 4 id wavesurfer_jfis2jt4hng label PF text 证实
+split 5 id wavesurfer_k03tpnq4h6o label PM text 证实
+split 7 id wavesurfer_desgn2g2rvg label PF text 600
+split 7 id wavesurfer_uo6ljcqc01o label PM text 襟翼1到位
+split 8 id wavesurfer_rfmlitt9ja8 label PM text 襟翼5到位
+split 8 id wavesurfer_0ssg9bd1rgo label PM text 航道截获
+split 9 id wavesurfer_78hmctoppio label PF text 放轮
+split 9 id wavesurfer_3oomhi8igdo label PF text 襟翼15
+split 9 id wavesurfer_ldkv29ftveo label PF text 调襟翼15速度
+split 9 id wavesurfer_4uj7hsgoj9 label PM text 襟翼15
+split 9 id wavesurfer_h05540c6rv8 label PM text 襟翼15到位
+split 10 id wavesurfer_pl0roomlqbg label PF text 着陆检查单
+split 10 id wavesurfer_so564n0nttg label PF text 连续
+split 10 id wavesurfer_kbse3gfe3q8 label PF text 预位
+split 10 id wavesurfer_bftrrf4g7rg label PF text 30绿灯
+split 10 id wavesurfer_ji55t8fli4 label PF text 检查
+split 10 id wavesurfer_j5m046r0ujg label PF text 开灯
+split 10 id wavesurfer_8faiq3ea4io label PM text 着陆检查单
+split 10 id wavesurfer_j1pgtgmga3g label PM text 发动机起动电门连续
+split 10 id wavesurfer_aa151o3ue2 label PM text 连续
+split 10 id wavesurfer_m85gei0b9m label PM text 减速板预位
+split 10 id wavesurfer_mfaiqhidgso label PM text 预位
+split 10 id wavesurfer_t06ibcpv1f label PM text 襟翼30绿灯
+split 10 id wavesurfer_bu4j3psnbe label PM text APU引气按需设置
+split 10 id wavesurfer_gqmdqcp5nh8 label PM text 着陆检查单完成
+split 10 id wavesurfer_ugileuq2t2o label PM text 1000FT稳定
+split 10 id wavesurfer_6jnr60p61so label PM text 检查开灯
+split 11 id wavesurfer_gb3h8kppj2o label PM text 500FT稳定
+split 11 id wavesurfer_921fijojbmg label PM text 自动刹车工作
+split 11 id wavesurfer_8que4uphj4 label PM text 反推正常
+file 8BD641C9894F79C6697FC8A552FB1AE1AA054DB232468726E1E1D0E33F8D203D has 24 match.
+split 3 id wavesurfer_nntivgf567g label PF text 核实
+split 3 id wavesurfer_q388bt76ka label PF text 进近航向041证实
+split 3 id wavesurfer_j325dbr5o38 label PF text 放轮
+split 3 id wavesurfer_7s390d7ht9o label PM text 703高度满足的，下个点高度八千五，八千五证实
+split 3 id wavesurfer_o4v8cm087d label PM text 证实
+split 4 id wavesurfer_i4785mpq3b label PF text 核实
+split 4 id wavesurfer_rjku86s859 label PF text 着陆检查单
+split 4 id wavesurfer_295nvbuc96 label PF text 连续
+split 4 id wavesurfer_a056f019rog label PF text 预位
+split 4 id wavesurfer_t5u59mbcnp8 label PF text 核实
+split 4 id wavesurfer_0eoen61f2v8 label PM text APU引气按需设置，核实关
+split 4 id wavesurfer_ehu6fsp29mo label PM text 着陆检查单完成
+split 4 id wavesurfer_frtf2n5spp label PM text 证实
+split 5 id wavesurfer_o4emp57kaf label PF text 复飞高度3600证实
+split 5 id wavesurfer_ilqmfo6ldrg label PF text 继续
+split 5 id wavesurfer_4p0s7s9gi1 label PF text 检查
+split 5 id wavesurfer_9jro1li95so label PF text 检查
+split 5 id wavesurfer_2v2d5ld3uug label PM text 3600
+split 6 id wavesurfer_54mtiejt8a8 label PF text 人工刹车
+split 6 id wavesurfer_kcl9u903v98 label PM text 减速板升起
+split 6 id wavesurfer_vsq9j936bp8 label PM text 反推正常松锁
+split 6 id wavesurfer_g14pn6n3dh8 label PM text 证实
+split 6 id wavesurfer_c922luej4s8 label PM text 自动刹车解除
+split 6 id wavesurfer_d92ti174mjg label PM text 自动刹车3生效
+file 8C50ECD72CFDE5E72638987174B5B13C1AD9F6113E2CAD279E20814CC2367637 has 34 match.
+split 1 id wavesurfer_trnmkt5tq38 label PF text 核实
+split 1 id wavesurfer_77unipifos label PM text 120，025
+split 2 id wavesurfer_leiarqkd0h8 label PF text 21#2100，69#6900
+split 2 id wavesurfer_eg4sqj6f2qo label PF text 证实
+split 2 id wavesurfer_b0gcnj713ao label PM text 下21#下2100
+split 3 id wavesurfer_n0bhgrc593 label PM text 襟翼1到位
+split 4 id wavesurfer_qb9rcmnd94 label PF text 可以截获
+split 5 id wavesurfer_eqnat68m7jg label PF text 襟翼5
+split 5 id wavesurfer_n0v7a9idn88 label PF text 高度18#高度1800
+split 5 id wavesurfer_fkboqa6sujg label PM text 襟翼5
+split 5 id wavesurfer_anvdvd052d8 label PM text 下高度18#下高度1800
+split 5 id wavesurfer_778rjroseug label PM text 航道截获
+split 5 id wavesurfer_jqk1576cifg label PM text 下滑道截获
+split 6 id wavesurfer_f8t7rbse4ao label PF text 核实
+split 6 id wavesurfer_igi7kuro2ig label PF text 襟翼5速度
+split 6 id wavesurfer_qeh5iuiamr label PM text 把速度调到襟翼5速度#调襟翼5速度
+split 7 id wavesurfer_0rvbebv4mog label PF text 检查#检查开灯
+split 7 id wavesurfer_gmd1tm0ufig label PF text 继续
+split 7 id wavesurfer_m95s0c8566o label PF text 着陆检查单
+split 7 id wavesurfer_6hcm3qlnj0o label PF text 连续
+split 7 id wavesurfer_lh7f460qlag label PF text 减速板预位
+split 7 id wavesurfer_gap6l7p7gpo label PF text 30绿灯
+split 7 id wavesurfer_i3m8msk51r label PF text 核实关
+split 7 id wavesurfer_49etd9ct45o label PF text 核实
+split 7 id wavesurfer_6snpg1mlsio label PM text 1000
+split 7 id wavesurfer_qsi8upm589o label PM text 500稳定
+split 7 id wavesurfer_5rmvbb53l label PM text 着陆检查单
+split 7 id wavesurfer_tvnjhpkigp label PM text 发动机启动电门连续
+split 7 id wavesurfer_vflbbqpfcv8 label PM text 减速板
+split 7 id wavesurfer_b81pujpu8m label PM text 预位
+split 7 id wavesurfer_r01qf894g4o label PM text 襟翼30绿灯
+split 7 id wavesurfer_vl0ifhuuq5o label PM text APU引气按需设置核实
+split 7 id wavesurfer_s1vva6t4rqo label PM text 着陆检查单完成
+split 8 id wavesurfer_melnipfnl1 label PM text 刹车工作反喷开锁#自动刹车工作
+file 8D3426C1C38C3D7820C0BBB9552BA691F6784F100CC8FD8F6BFB7DC4C71F72B7 has 27 match.
+split 1 id wavesurfer_bc2g4ktsp label PF text 15，49#1500，4900
+split 1 id wavesurfer_80d2rcuqdv label PF text 49，15#4900，1500
+split 1 id wavesurfer_ff6g4hknti8 label PF text 1030
+split 1 id wavesurfer_ar46bfrvho8 label PM text 15#下1500
+split 1 id wavesurfer_0cpcjhqmcc label PM text 高度表1030#修正海压1030
+split 1 id wavesurfer_23svq6t4n3o label PM text 航道
+split 2 id wavesurfer_brmsqrh462 label PF text 襟翼5
+split 3 id wavesurfer_8k0crf1dbso label PM text 航道预位
+split 4 id wavesurfer_4mep6vk2ia label PF text 航道截获#证实
+split 4 id wavesurfer_vsbrcujpemo label PF text 襟翼15
+split 4 id wavesurfer_c45qd6j0dm8 label PF text 襟翼15速度
+split 4 id wavesurfer_pdhhlanuhao label PF text 襟翼30
+split 4 id wavesurfer_2i9q6fn9k2o label PF text 襟翼30
+split 4 id wavesurfer_e5u12c8897g label PM text 航道截获
+split 5 id wavesurfer_trtm67m5b2 label PF text 发动机启动电门连续
+split 5 id wavesurfer_1ja1q1ffr9g label PF text 减速板预位
+split 5 id wavesurfer_3u3s4llmf78 label PF text 着陆检查单
+split 5 id wavesurfer_c3cd89g85tg label PM text 连续
+split 5 id wavesurfer_n9dkvb5fc48 label PM text 预位
+split 5 id wavesurfer_j546md5iv8g label PM text 放下
+split 5 id wavesurfer_5v75u8g6uo label PM text 30，绿灯
+split 6 id wavesurfer_lh2lq8m8jc8 label PF text 1000稳定
+split 6 id wavesurfer_cp2vojefld8 label PF text 500稳定
+split 6 id wavesurfer_2ee7dsnkomg label PF text 继续
+split 6 id wavesurfer_926rfe7iino label PF text 反推开锁
+split 6 id wavesurfer_hgjrproe9i label PF text 自动刹车解除
+split 6 id wavesurfer_4oml6mjrc18 label PM text 好#证实
+file 8F00DCCF695C15AC4A34A7C165407A85387B02D8C9A4D1CF01266A4D3DC4D68B has 27 match.
+split 4 id wavesurfer_a2ooj4r8b3o label PF text 3000，98#3000，9800
+split 4 id wavesurfer_25nac2uakvg label PF text 襟翼5
+split 4 id wavesurfer_chl7m84e4j label PF text 进近航向039
+split 4 id wavesurfer_am80qg632f label PM text 高度好
+split 4 id wavesurfer_vmevqrnkg6o label PM text 3000#高度3000
+split 4 id wavesurfer_8vtfjv1r3c8 label PM text 襟翼1到位绿灯
+split 4 id wavesurfer_cr7t0o5n96o label PM text 好，襟翼5
+split 4 id wavesurfer_bd46g460tgo label PM text 航道截获
+split 5 id wavesurfer_u14ahodnmbo label PF text 证实
+split 5 id wavesurfer_fqmmsjlkmn8 label PF text 证实
+split 6 id wavesurfer_l8tob0a07fg label PF text 下滑道截获
+split 6 id wavesurfer_9c90ou3lu4o label PF text 好#证实
+split 6 id wavesurfer_bkj23v7hr7g label PF text 襟翼30
+split 6 id wavesurfer_9t2clpqrhsg label PF text 到位#襟翼30到位
+split 6 id wavesurfer_6dalsgjff3o label PF text 启动电门
+split 6 id wavesurfer_abed9s5gj9o label PF text 减速板
+split 6 id wavesurfer_djfttjrdqdo label PF text 预位
+split 6 id wavesurfer_fcup1kou9u8 label PF text 放好#放下
+split 6 id wavesurfer_qun5jcevl1 label PF text 襟翼
+split 6 id wavesurfer_fv6mst4rdao label PF text 30，绿灯
+split 6 id wavesurfer_jskidpcl7g label PF text APU引气，没用#APU引气，关
+split 6 id wavesurfer_rk9klgq6d3o label PM text 复飞高度118
+split 7 id wavesurfer_v2n8hh8r1kg label PF text 开灯
+split 7 id wavesurfer_ug2v0q3eokg label PM text 1000尺，稳定
+split 8 id wavesurfer_sdl88vi0l1g label PM text 减速板升起
+split 8 id wavesurfer_i9fq7nldbto label PM text 60
+split 8 id wavesurfer_cc7dhlkm06g label PM text 反推正常
+file 91D161AC59D9E89B8BA8E4D813E756B0CD233FA8615D1B7AF481C5F6BC27 has 31 match.
+split 1 id wavesurfer_p55lmu0lfco label PF text 证实
+split 2 id wavesurfer_eu1v0vsh38 label PF text 21#2100，69#6900
+split 2 id wavesurfer_aj6hft85k3 label PM text 下21#2100
+split 2 id wavesurfer_ht8tim1ubr8 label PM text 69#6900，21#2100证实
+split 4 id wavesurfer_mpp1df5apt8 label PF text 襟翼1速度
+split 4 id wavesurfer_kgn67e4j0oo label PF text 襟翼5
+split 4 id wavesurfer_6revu7thd1g label PM text 证实
+split 4 id wavesurfer_nb0hphpd6jg label PM text 襟翼1到位
+split 4 id wavesurfer_08mta4b117o label PM text 襟翼5
+split 5 id wavesurfer_si889u7brc label PF text 证实
+split 5 id wavesurfer_ijm38hffr7o label PM text 下18#1800
+split 5 id wavesurfer_e4armti4rf label PM text 5900，18#1800证实
+split 7 id wavesurfer_3i4nt7euku label PF text 放轮
+split 7 id wavesurfer_fivpmnkguvo label PF text 襟翼15
+split 7 id wavesurfer_rg8nk5cpv1o label PF text 15速度#襟翼15速度
+split 7 id wavesurfer_77ge9frt1ag label PF text 襟翼30
+split 7 id wavesurfer_sh0tv7t8j4 label PM text 襟翼30
+split 8 id wavesurfer_v2vecv36b3 label PF text 着陆检查单
+split 8 id wavesurfer_171v3cc1p5g label PF text 连续
+split 8 id wavesurfer_rt4kl3mca9g label PF text 预位
+split 8 id wavesurfer_bhcljtc727 label PF text 30绿灯
+split 8 id wavesurfer_846h24itfao label PF text 开灯，检查#检查开灯
+split 8 id wavesurfer_piv3c8ciu08 label PF text 继续
+split 8 id wavesurfer_gqo43ha19r label PM text 着陆检查单
+split 8 id wavesurfer_aupjokrr968 label PM text 发动机设置好连续#发动机启动电门连续
+split 8 id wavesurfer_i7k8a8upnho label PM text 减速板预位
+split 8 id wavesurfer_8d1c86u6b6g label PM text 预位
+split 8 id wavesurfer_j5atae0iahg label PM text 1000稳定
+split 8 id wavesurfer_vnj170pelt8 label PM text 500稳定
+split 9 id wavesurfer_gll4933getg label PF text 人工刹车
+split 9 id wavesurfer_a74q49luc9 label PM text 反推正常
+file 91E89C14F8C510EA8092B1DB2500F55B59554D8D620C0CB98425834133BF has 34 match.
+split 1 id wavesurfer_m329het0q6o label PF text 1021
+split 1 id wavesurfer_4ots94vt12 label PF text 进近检查单
+split 1 id wavesurfer_qtmtst97po label PM text 1021
+split 1 id wavesurfer_p8jjvkih90g label PM text 进近检查单
+split 1 id wavesurfer_59ipb37i67g label PM text 高度表1021
+split 1 id wavesurfer_mittqdb9mv8 label PM text 进近检查单完成
+split 2 id wavesurfer_b3eu6s8f8eg label PF text 襟翼5
+split 2 id wavesurfer_7ohuh1ertg label PM text 襟翼1到位
+split 2 id wavesurfer_v56h6fut6lg label PM text 襟翼5
+split 2 id wavesurfer_2uv9n6i42n8 label PM text 襟翼5到位
+split 3 id wavesurfer_pmm234bd0ao label PF text 8500
+split 3 id wavesurfer_h58dpic9g2 label PF text 把轮放下去#放轮
+split 3 id wavesurfer_gsg7jd6d0a label PF text 襟翼15
+split 3 id wavesurfer_4m350khlofg label PF text 核定
+split 3 id wavesurfer_e9vfbo299po label PM text 核实
+split 3 id wavesurfer_g9dd1t3nb1o label PM text 襟翼15
+split 4 id wavesurfer_59ag5jcd7fg label PF text 襟翼30
+split 4 id wavesurfer_a7987hi62fg label PF text 着陆检查单
+split 4 id wavesurfer_isq1ermdnmo label PF text 连续
+split 4 id wavesurfer_celue8eoku8 label PF text 预位
+split 4 id wavesurfer_44eh9bt54g8 label PF text 30绿灯
+split 4 id wavesurfer_qik9rnd3p88 label PM text 襟翼30
+split 4 id wavesurfer_uc59k510qm label PM text 着陆检查单
+split 4 id wavesurfer_qdc47ef7k3g label PM text 发动机启动电门连续
+split 4 id wavesurfer_bpihe940e68 label PM text 连续
+split 4 id wavesurfer_lkhdkh9tig label PM text 减速板预位
+split 4 id wavesurfer_a1br2fdtqo label PM text 预位
+split 4 id wavesurfer_hveg054qu3o label PM text APU引气气压设置，关
+split 4 id wavesurfer_er8jfc12t28 label PM text 着陆检查单完成
+split 5 id wavesurfer_fnc3g7bmk38 label PM text 1000稳定
+split 6 id wavesurfer_uo21r4o4id8 label PM text 刹车生效#自动刹车工作
+split 6 id wavesurfer_armc3kncirg label PM text 反喷开锁#反推正常
+split 6 id wavesurfer_o1udtg98kn label PM text 60
+split 6 id wavesurfer_vfispmnb65g label PM text 刹车解除#自动刹车解除
+file 9869A7FEAE149D6314A5560DD489F81FECE5ECAD4D20A585D97C4D4386B0DC29 has 40 match.
+split 1 id wavesurfer_8gja5rkevi label PF text 进近检查单
+split 1 id wavesurfer_5og7aach4ng label PF text 1个2个3个
+split 1 id wavesurfer_2i9itpp12ro label PF text 168，168
+split 1 id wavesurfer_9tl06q14bp8 label PM text 进近检查单
+split 2 id wavesurfer_b75dopap6t label PF text 核实
+split 2 id wavesurfer_s1qa2einjr8 label PF text 3900，128#12800
+split 2 id wavesurfer_6mk53bg3vg label PM text 差1000
+split 2 id wavesurfer_4e809vre018 label PM text 3900
+split 3 id wavesurfer_dgcnuoqo99o label PF text 襟翼1速度
+split 3 id wavesurfer_kbcr400rh5g label PF text 襟翼5速度
+split 3 id wavesurfer_d70dpe6vguo label PM text 高度13000速度215襟翼1
+split 3 id wavesurfer_ok72kem5kb label PM text 核实
+split 3 id wavesurfer_ba1vqgfjdho label PM text 襟翼5
+split 3 id wavesurfer_mr42d7945eo label PM text 核实
+split 4 id wavesurfer_0qcp0nq26rg label PF text 好的#证实
+split 4 id wavesurfer_iflj1slgd5g label PF text 速度好襟翼15
+split 4 id wavesurfer_fp311qa3e58 label PM text 襟翼15
+split 4 id wavesurfer_14pduhsrff8 label PM text 核实
+split 4 id wavesurfer_2of8g67tl5g label PM text 襟翼15到位
+split 5 id wavesurfer_tuemvr9k4jg label PF text 航道预位
+split 5 id wavesurfer_8f9tj0sv1m label PF text 下滑道截获
+split 5 id wavesurfer_08n4e7pdrf label PF text 复飞高度3600，118#11800
+split 5 id wavesurfer_fmv8q07b75 label PF text 着陆检查单
+split 5 id wavesurfer_5lf9dcaqo58 label PF text 连续
+split 5 id wavesurfer_o8buernj058 label PF text 预位
+split 5 id wavesurfer_cq44rdac1oo label PF text 放下
+split 5 id wavesurfer_7bff73fogb8 label PF text 30绿灯
+split 5 id wavesurfer_j84i9t09eu8 label PM text 核实
+split 5 id wavesurfer_ln883c49s2 label PM text 航道截获
+split 5 id wavesurfer_eh65gadjk0g label PM text 襟翼30
+split 5 id wavesurfer_8mctrdq0jp8 label PM text 襟翼30到位
+split 5 id wavesurfer_t9to1k20p4 label PM text 着陆检查单
+split 5 id wavesurfer_ju44o44q2go label PM text 发动机启动电门连续
+split 6 id wavesurfer_b85g175ppb8 label PF text 继续
+split 6 id wavesurfer_lj5lmqv7gf label PM text 1000尺稳定
+split 6 id wavesurfer_3gvjqs9ppn label PM text 500尺稳定
+split 7 id wavesurfer_klbovprcq6g label PM text 减速板升起
+split 7 id wavesurfer_vonvo77qvfg label PM text 反推开锁
+split 7 id wavesurfer_67u6ll88d58 label PM text 自动刹车工作
+split 7 id wavesurfer_tceq87410j label PM text 速度60
+file 99D1B1683B22436BCA11268410D0361B4AB73D47C9F55E15E3A67DBA806E has 27 match.
+split 2 id wavesurfer_rksjfrm8b5o label PF text 证实
+split 2 id wavesurfer_v8ag7a9pgb8 label PF text 好#证实
+split 2 id wavesurfer_m871jdvqok8 label PM text 高度截获
+split 3 id wavesurfer_sq3h4o8lbog label PF text 好#证实
+split 4 id wavesurfer_v9h0ktgafig label PF text 39#3900，128#12800
+split 4 id wavesurfer_jpr8gekc278 label PM text 3900#下3900
+split 5 id wavesurfer_f5kmbi4qqco label PF text 证实
+split 6 id wavesurfer_7t65k7l7hso label PF text 证实
+split 6 id wavesurfer_h7q3d7ap4sg label PF text 襟翼5
+split 7 id wavesurfer_qjjsp7d8gbo label PF text 证实
+split 8 id wavesurfer_6b5d7rtnhf label PF text 放轮
+split 8 id wavesurfer_ahq57081bv label PF text 襟翼15
+split 8 id wavesurfer_toihsun1ai8 label PF text 襟翼30
+split 8 id wavesurfer_80ntkvlfkk8 label PF text 着陆检查单
+split 8 id wavesurfer_5r6lvdugsr8 label PF text 着陆检查单
+split 8 id wavesurfer_kbl8a9n4kqg label PF text 连续
+split 8 id wavesurfer_9hubpu28r9g label PM text 下滑道截获
+split 8 id wavesurfer_mk58o6au1j8 label PM text 着陆检查单
+split 8 id wavesurfer_3tap22943q8 label PM text 发动机启动电门连续
+split 8 id wavesurfer_ipm70lt6ek8 label PM text 连续
+split 8 id wavesurfer_k648qagsoho label PM text 减速板预位
+split 9 id wavesurfer_rfvll8v5c6 label PF text 预位
+split 9 id wavesurfer_ml1fdpf5msg label PF text 30
+split 9 id wavesurfer_pj026cfhhp label PM text 预位
+split 9 id wavesurfer_8p1099l0g4g label PM text 襟翼30绿灯
+split 9 id wavesurfer_4aebb8pofi8 label PM text 30绿灯
+split 9 id wavesurfer_bgc975sd6pg label PM text APU引气按需设置
+file 9A1CAF20489E956B2A676AEB935CE2DC9A48A270B846193F2B08BC207B115FE3 has 44 match.
+split 1 id wavesurfer_n292qhcs98o label PF text 核实
+split 1 id wavesurfer_9aueju0efl label PF text 进近检查单
+split 1 id wavesurfer_jlldgtl1ht label PF text 1025
+split 1 id wavesurfer_mnhpkbt31f label PF text 证实
+split 1 id wavesurfer_idaeb2lrb4o label PF text 证实
+split 1 id wavesurfer_pqu9mc18sf label PF text 设置襟翼1速度
+split 1 id wavesurfer_1okq2r9qi68 label PM text 过度高度层
+split 1 id wavesurfer_cc9ha8jra4o label PM text 进近检查单
+split 1 id wavesurfer_okkljm8dce8 label PM text 高度表1025
+split 1 id wavesurfer_352ml0gdhp8 label PM text 1025，1、2、3
+split 1 id wavesurfer_9o9dd08crtg label PM text 进近检查单完成
+split 2 id wavesurfer_7ncso8aef label PF text 证实
+split 2 id wavesurfer_ttkkbg36o3g label PF text 差1000
+split 2 id wavesurfer_ifvvndtkrl label PF text 襟翼5
+split 2 id wavesurfer_8420e6rhghg label PF text 襟翼5速度
+split 2 id wavesurfer_6h3htgred2 label PF text 10000尺
+split 2 id wavesurfer_6a1uscdd2ag label PM text 襟翼1到位
+split 2 id wavesurfer_kt6f9qvo538 label PM text 核实
+split 3 id wavesurfer_eqdugfh8m78 label PF text 放轮
+split 3 id wavesurfer_cdl235coodg label PF text 襟翼15
+split 3 id wavesurfer_7s1akkhjong label PM text 下高度8500
+split 4 id wavesurfer_7msdr4dbg3 label PF text 请放襟翼25
+split 4 id wavesurfer_gnbjto8es3 label PF text 襟翼40
+split 4 id wavesurfer_4erhheqvmko label PF text 核实
+split 4 id wavesurfer_299oqeomesg label PF text 着陆检查单
+split 4 id wavesurfer_um498oc7f9 label PF text 连续
+split 4 id wavesurfer_4vernepo22o label PF text 预位
+split 4 id wavesurfer_8ft4dvbbet8 label PF text 40绿灯
+split 4 id wavesurfer_hk8ne190ts label PF text 7100
+split 4 id wavesurfer_q9rh9tighg8 label PM text 襟翼40
+split 4 id wavesurfer_1kn00ucl388 label PM text 着陆检查单
+split 4 id wavesurfer_p1iknbhhiag label PM text 发动机启动电门连续
+split 4 id wavesurfer_8smmdtc19vg label PM text 连续
+split 4 id wavesurfer_nlmag7si0u8 label PM text 减速板预位
+split 4 id wavesurfer_5ql1uq1mgco label PM text 预位
+split 4 id wavesurfer_ouapqglvouo label PM text 着陆检查单完成
+split 5 id wavesurfer_4bgvsg34tao label PF text 复飞高度3600，118#复飞高度3600，11800
+split 5 id wavesurfer_ot5ilp7ha9o label PF text 1000，稳定
+split 5 id wavesurfer_np30u42168o label PF text 开灯
+split 5 id wavesurfer_cha0guh6d3o label PF text 检查
+split 5 id wavesurfer_u4mqfojq1lo label PM text 1000稳定
+split 6 id wavesurfer_v9bre2cqc98 label PM text 反推工作正常
+split 6 id wavesurfer_ckhn126vhr label PM text 自动刹车生效
+split 6 id wavesurfer_p4gmjncndq label PM text 60
+file A1B856077E4BA9C6CB6BA105048D19EAA04CE77E62E5BC41885902957A1FB842 has 26 match.
+split 2 id wavesurfer_7ejn7e3uu4o label PF text 核实
+split 2 id wavesurfer_af7o3b8epk label PF text 核实
+split 2 id wavesurfer_h7c95r4c8f label PM text 高度截获
+split 2 id wavesurfer_t3hi0knva2g label PM text 108#10800，3300
+split 4 id wavesurfer_lne8enpntv8 label PF text 核实
+split 4 id wavesurfer_qt387nut3c8 label PM text 差1000
+split 5 id wavesurfer_80mobn0ud18 label PF text 3000，9800
+split 5 id wavesurfer_3751os3nngo label PF text VLOC预位
+split 6 id wavesurfer_7cvd1571h2g label PF text 进近航向039，APP预位
+split 6 id wavesurfer_u6659riq5b8 label PF text 核实
+split 6 id wavesurfer_36r75nh0bk8 label PF text 下滑道移动
+split 6 id wavesurfer_37bn6n6csb8 label PF text 放轮
+split 7 id wavesurfer_k5c9nl1g74o label PF text 襟翼15
+split 7 id wavesurfer_1i74a48o11o label PF text 15速度
+split 7 id wavesurfer_o9spvufc9r label PF text 下滑道截获
+split 7 id wavesurfer_l2lggpe571g label PF text 襟翼30
+split 7 id wavesurfer_s71693ckpf label PM text 襟翼15
+split 7 id wavesurfer_680u5is0j3 label PM text 襟翼15到位
+split 7 id wavesurfer_jq7uia81e6g label PM text 襟翼30
+split 7 id wavesurfer_p417rvid1s label PM text 着陆检查单
+split 7 id wavesurfer_4loaln7fklg label PM text 襟翼30绿灯
+split 8 id wavesurfer_dmul1fa712o label PF text 检查开灯
+split 8 id wavesurfer_urrhvnu1hh8 label PM text 1000稳定
+split 9 id wavesurfer_uo1i5kpuulo label PM text 减速板升起
+split 9 id wavesurfer_qq6hncvpa4 label PM text 60
+split 9 id wavesurfer_4g61k5v7008 label PM text 反喷#反推正常
+file A33A7F789E07E471B4C4DB3FC69FCB3B038469BB6A3262FCCA9143485DE3F3EF has 31 match.
+split 1 id wavesurfer_6fh3k92gbf8 label PF text 襟翼5
+split 1 id wavesurfer_c2bk5brsi6o label PM text 襟翼5
+split 2 id wavesurfer_hj1cka3ojo label PF text 12，39#1200，3900
+split 2 id wavesurfer_9psqvaa9afo label PM text 39，12证实#3900，1200证实
+split 3 id wavesurfer_bfs5m1cquf label PF text 好#证实
+split 3 id wavesurfer_75n4rd8slto label PM text 差1000
+split 4 id wavesurfer_tc5pjt8ve5o label PF text 150
+split 5 id wavesurfer_hfkmsjhkuu label PF text 放轮
+split 5 id wavesurfer_e4c6vhq91kg label PF text 襟翼15
+split 5 id wavesurfer_s4gr30bv2q label PF text 30#襟翼30
+split 5 id wavesurfer_ibf2m6b0a6g label PF text 着陆检查单
+split 5 id wavesurfer_4io025glkq label PF text 连续
+split 5 id wavesurfer_si16np36v0o label PF text 预位
+split 5 id wavesurfer_a234bmort5g label PM text 襟翼15
+split 5 id wavesurfer_6qnki3ghpdo label PM text 30#襟翼30
+split 5 id wavesurfer_uiqc4lhe858 label PM text 航道截获
+split 5 id wavesurfer_oe1ne9ohp5 label PM text 着陆检查单
+split 5 id wavesurfer_dgsv5dgsn38 label PM text 发动机启动电门连续
+split 5 id wavesurfer_1meh9goo2fg label PM text 连续
+split 5 id wavesurfer_lb7kkdiok4g label PM text 减速板预位
+split 5 id wavesurfer_c2dh8ndc4kg label PM text 预位
+split 6 id wavesurfer_5274sbbtj9 label PF text 核实
+split 6 id wavesurfer_fnhof4r2aoo label PF text 检查
+split 6 id wavesurfer_1k7g55h41hg label PM text APU引气按需设置关
+split 6 id wavesurfer_lo3mm5ocdb8 label PM text 着陆检查单完成
+split 6 id wavesurfer_5d189oj3vco label PM text 1000稳定
+split 6 id wavesurfer_drejvceo8to label PM text 500稳定
+split 6 id wavesurfer_trb3lau957 label PM text 30绿灯
+split 7 id wavesurfer_tco6ovficoo label PM text 自动刹车工作
+split 7 id wavesurfer_rqgn2ndpra8 label PM text 反推正常
+split 7 id wavesurfer_j5583eac6ig label PM text 60
+file A5F14B983EBD09676C80B2E6D9231CFC8CB6A009E7FBC260B6D262FAC74670D7 has 39 match.
+split 1 id wavesurfer_81te7kuec08 label PF text 10000
+split 1 id wavesurfer_68u4pjl4iq label PF text 3300，108#10800
+split 1 id wavesurfer_ht3cvovlvdg label PM text 开灯
+split 2 id wavesurfer_tqofl21b30o label PF text 襟翼1速度
+split 2 id wavesurfer_phc9rieqq5g label PF text 核实
+split 2 id wavesurfer_oo2hn66vm9o label PM text 襟翼1到位
+split 3 id wavesurfer_no95krdl81g label PF text 证实
+split 3 id wavesurfer_77p1b17cob label PF text 襟翼5
+split 3 id wavesurfer_iaaok1jv7u label PF text 襟翼5速度
+split 3 id wavesurfer_ah9oul7plcg label PM text 差1000
+split 3 id wavesurfer_kv4hsg783rg label PM text 襟翼5到位
+split 3 id wavesurfer_4jado8ogkn8 label PM text 核实
+split 4 id wavesurfer_b429rlsuumo label PF text 核实
+split 4 id wavesurfer_umhht2gkt2g label PF text 放轮
+split 4 id wavesurfer_06i56hf04e label PM text 下滑道移动
+split 5 id wavesurfer_oog1v382d1g label PF text 襟翼15
+split 5 id wavesurfer_b6shpvsjen label PF text 15速度
+split 5 id wavesurfer_5ahvtcileeo label PF text 核实
+split 5 id wavesurfer_3b6qv51mofg label PF text 证实
+split 5 id wavesurfer_ec1inbnflbg label PF text 襟翼30
+split 5 id wavesurfer_jo76ubs1jgo label PF text 着陆检查单
+split 5 id wavesurfer_rcu2gldhi5g label PF text 连续
+split 5 id wavesurfer_ulndctbg46 label PF text 预位
+split 5 id wavesurfer_5rs7qim6k4o label PF text 30绿灯
+split 5 id wavesurfer_58go7t7ac5 label PM text 高度截获
+split 5 id wavesurfer_6dkaglaouuo label PM text 下滑道截获
+split 5 id wavesurfer_g212bgc28n8 label PM text 襟翼30
+split 5 id wavesurfer_c3fv1rpq53g label PM text 启动电门连续#发动机启动电门连续
+split 5 id wavesurfer_7d8lpuv763g label PM text 连续
+split 5 id wavesurfer_6vrrfq8f718 label PM text 减速板预位
+split 5 id wavesurfer_vl9dgcb2k8g label PM text 预位
+split 5 id wavesurfer_23fm7tg0ac8 label PM text APU引气按需设置核实
+split 5 id wavesurfer_itfh0fjv4d label PM text 着陆检查单完成
+split 6 id wavesurfer_u5vsanpc3h8 label PF text 开灯检查#检查开灯
+split 6 id wavesurfer_vg93h3eej2 label PM text 1000稳定
+split 7 id wavesurfer_uivjclp0t18 label PM text 500稳定
+split 7 id wavesurfer_959m0lchrkg label PM text 300稳定
+split 7 id wavesurfer_b2921osqpkg label PM text 反推正常
+split 7 id wavesurfer_spcrdoepvco label PM text 60
+file A8F00EABF158BAFEA12C8C7082FD24D2E6B2EE519FF49BB951ACEAD9CB3C9B07 has 40 match.
+split 1 id wavesurfer_nkal9topad label PF text 开灯
+split 1 id wavesurfer_km2r3inad48 label PF text 12#1200，39#3900
+split 1 id wavesurfer_t786ktobd1g label PF text 15#1500
+split 1 id wavesurfer_n52l9hctvc8 label PM text 10000
+split 2 id wavesurfer_g4qs175lt9o label PF text 襟翼5
+split 2 id wavesurfer_jak4t50b9p label PF text 证实
+split 2 id wavesurfer_nv56v4iaq4g label PM text 襟翼1到位
+split 2 id wavesurfer_sj983d2qcf label PM text 襟翼5
+split 2 id wavesurfer_foq1sq7u9a label PM text 襟翼5到位
+split 3 id wavesurfer_uls0c95nseo label PF text 证实
+split 3 id wavesurfer_s63nl4lggj label PF text 证实
+split 3 id wavesurfer_u354j13u168 label PM text 下滑道预位
+split 4 id wavesurfer_s44n0ceu1ig label PF text 放轮
+split 4 id wavesurfer_lii1pjtuho label PF text 襟翼15
+split 4 id wavesurfer_ff5smf8dm3 label PM text 下滑道移动
+split 4 id wavesurfer_15585jh7elo label PM text 襟翼15
+split 5 id wavesurfer_2jinqqgukfg label PF text 好#证实
+split 5 id wavesurfer_hohr8vuj7do label PF text 好#证实
+split 5 id wavesurfer_u58bltfivo label PF text 襟翼30
+split 5 id wavesurfer_b4b179pcji label PF text 着陆检查单
+split 5 id wavesurfer_e941e3se66 label PF text 连续
+split 5 id wavesurfer_gp0jvfrjahg label PF text 预位
+split 5 id wavesurfer_8sdd2o9dj08 label PF text 30绿灯
+split 5 id wavesurfer_g1oififtmf label PM text 下滑道截获
+split 5 id wavesurfer_doprmdeiju8 label PM text 襟翼30
+split 5 id wavesurfer_licmd01825o label PM text 发动机启动电门连续
+split 5 id wavesurfer_4lqnaj9u03o label PM text 连续
+split 5 id wavesurfer_knd9du8r84 label PM text 减速板预位
+split 5 id wavesurfer_hevpeev177 label PM text 预位
+split 5 id wavesurfer_47n3kjr8mi label PM text 着陆检查单完成
+split 6 id wavesurfer_maal81ne58o label PM text 证实
+split 7 id wavesurfer_pohf0tvu03g label PF text 检查开灯
+split 7 id wavesurfer_pf8nu3fdie8 label PF text 人工刹车
+split 7 id wavesurfer_5mdq32j7n28 label PM text 1000稳定
+split 7 id wavesurfer_2voaqsnpra8 label PM text 500稳定
+split 7 id wavesurfer_jefvk9ldafg label PM text 300稳定
+split 7 id wavesurfer_ak7j0c5891g label PM text 差100
+split 7 id wavesurfer_6bqd5bhqut8 label PM text 反推正常
+split 7 id wavesurfer_fv9k5pt9qqg label PM text 自动刹车工作
+split 7 id wavesurfer_quvlphrqeoo label PM text 自动刹车解除
+file AA301508CE141E0B678E2B5B86E991F0FCC34029D1718469EC168E2881AAF9BE has 30 match.
+split 1 id wavesurfer_01kqqnd67v label PF text 进近检查单
+split 1 id wavesurfer_85aj3tadlb label PF text 128，3900证实#12800，3900证实
+split 1 id wavesurfer_urm63rrq6go label PM text 进近检查单
+split 1 id wavesurfer_8m2pm9i3qf label PM text 高度表1023
+split 1 id wavesurfer_ri1ijmvig78 label PM text 三个进近检查单完成
+split 1 id wavesurfer_gnnltvcos6g label PM text 3900，128#3900，12800
+split 5 id wavesurfer_3d5h7d3390o label PF text 襟翼5
+split 5 id wavesurfer_cnb27hoq5m label PM text 襟翼1到位
+split 5 id wavesurfer_6uph9eht268 label PM text 襟翼5到位
+split 7 id wavesurfer_ab1v8ba9508 label PF text 放轮
+split 7 id wavesurfer_k4ordkpkq7o label PF text 襟翼15
+split 8 id wavesurfer_61g3vbd4uq label PF text 着陆检查单
+split 8 id wavesurfer_3tcqo8mg6p label PF text 连续
+split 8 id wavesurfer_hqmqhreee3 label PF text 预位
+split 8 id wavesurfer_9cbupn7m1r8 label PF text 128#12800
+split 8 id wavesurfer_rhm6jimq82g label PF text 30绿灯
+split 8 id wavesurfer_maeqk5rs8t label PM text 襟翼30
+split 8 id wavesurfer_ivu55ie77bo label PM text 着陆检查单
+split 8 id wavesurfer_kfg9nn1hrmg label PM text 发动机启动电门连续
+split 8 id wavesurfer_ss9k1dqka8g label PM text 减速板预位
+split 8 id wavesurfer_jr1sjlh1ado label PM text 襟翼30绿灯
+split 8 id wavesurfer_nlkia9dvc7o label PM text 着陆检查单完成
+split 8 id wavesurfer_5lv0oi6h3f label PM text 连续
+split 8 id wavesurfer_l1oppn70p5 label PM text 预位
+split 10 id wavesurfer_8ls1cj3ekso label PM text 1000稳定
+split 10 id wavesurfer_m412hd0flqo label PM text 500稳定
+split 10 id wavesurfer_vlqlb8fi3qg label PM text 反推正常
+split 10 id wavesurfer_v69fqc6jv7g label PM text 自动刹车工作
+split 10 id wavesurfer_k5j0sgu1in label PM text 差100
+split 11 id wavesurfer_i7vrefgca58 label PM text 60
+file AF019351825FE6F7DEBC17F4AB7EC5C335E41E46227050D8C874E837C12DD5EA has 39 match.
+split 2 id wavesurfer_8og1i950hso label PF text 15，49#1500，4900
+split 2 id wavesurfer_c9jijo7ihqg label PM text 下15#下1500
+split 2 id wavesurfer_cdqdp3j7vjo label PM text 49，15核实#4900，1500核实
+split 3 id wavesurfer_2hggnobfak label PF text 证实
+split 3 id wavesurfer_aamq008sak8 label PF text 襟翼5
+split 3 id wavesurfer_btv354h2e88 label PM text 襟翼1
+split 3 id wavesurfer_neke3cg15mo label PM text 襟翼1速度
+split 3 id wavesurfer_m3b8ofhucc8 label PM text 襟翼1到位
+split 4 id wavesurfer_23ki5c37rj label PF text 襟翼5
+split 4 id wavesurfer_vh5fq8239mg label PF text 航道预位
+split 4 id wavesurfer_if96r4u6ju8 label PF text 航道截获
+split 4 id wavesurfer_qs99c2hjvq label PF text 放轮，襟翼15
+split 4 id wavesurfer_fi14uq68veg label PM text 襟翼5
+split 4 id wavesurfer_kptv4jb602o label PM text 好#证实
+split 4 id wavesurfer_dd5dpfk89bg label PM text 放轮
+split 5 id wavesurfer_g3veru6bbro label PF text 下滑道截获
+split 5 id wavesurfer_gf3ni97394g label PF text 襟翼30
+split 5 id wavesurfer_spccoi95jvg label PF text 着陆检查单
+split 5 id wavesurfer_s6p1opt9mio label PF text 连续
+split 5 id wavesurfer_8rviqgt1hcg label PF text 预位
+split 5 id wavesurfer_8m8k699srjg label PF text 30绿灯
+split 5 id wavesurfer_ar1sc48pbug label PF text 核实
+split 5 id wavesurfer_119hv3ulv1o label PF text 检查继续
+split 5 id wavesurfer_ch6at4v67s label PM text 襟翼30
+split 5 id wavesurfer_s0btqrmamgg label PM text 着陆检查单
+split 5 id wavesurfer_69on4q3so2g label PM text 发动机启动电门连续
+split 5 id wavesurfer_7qc4nmlmj08 label PM text 减速板预位
+split 5 id wavesurfer_3ff0bgtbs78 label PM text APU引气关
+split 5 id wavesurfer_sjhtqcadde label PM text 着陆检查单完毕
+split 5 id wavesurfer_uufvtu355p label PM text 1000稳定
+split 5 id wavesurfer_6c3prtt7hbg label PM text 连续
+split 5 id wavesurfer_9k32od8ctn8 label PM text 预位
+split 6 id wavesurfer_7g5cc5285bo label PF text 人工刹车
+split 6 id wavesurfer_dka3i41h7co label PF text 好#检查
+split 6 id wavesurfer_iffa6li2lm label PM text 500稳定
+split 6 id wavesurfer_si746pclg58 label PM text 300稳定
+split 6 id wavesurfer_3je5eo909h label PM text 自动刹车工作
+split 6 id wavesurfer_st8uaj6me6g label PM text 反推正常
+split 6 id wavesurfer_dt558p47n48 label PM text 60
+file B9E23ED4EF24AB7D6535520D587F26DDA2B89B585E89C38FF1D8B4CD4DACF444 has 41 match.
+split 1 id wavesurfer_o73ov40ogd8 label PF text 进近检查单
+split 1 id wavesurfer_gbbqkcmbnmg label PF text 襟翼1速度
+split 1 id wavesurfer_rk9fkmun0r label PF text 开
+split 1 id wavesurfer_cu0on437ce8 label PF text 襟翼5
+split 1 id wavesurfer_b2dgudft1d8 label PF text 过度高度层
+split 1 id wavesurfer_b0cm3n1uvj8 label PM text 进近检查单
+split 1 id wavesurfer_i9l1o5r9fl label PM text 高度表1029
+split 1 id wavesurfer_to93uku9ue label PM text 进近检查单完成
+split 1 id wavesurfer_sqs9j280opg label PM text 核实
+split 2 id wavesurfer_93ocvaahd0g label PF text 襟翼10
+split 2 id wavesurfer_u08ga1dgu48 label PF text 证实
+split 2 id wavesurfer_vl1003g143 label PF text 放轮
+split 2 id wavesurfer_0e00qoutq0o label PF text 证实
+split 2 id wavesurfer_f2dap6cgt0o label PM text 襟翼10
+split 2 id wavesurfer_199ugt3j4r8 label PM text 襟翼10到位
+split 2 id wavesurfer_oednc3ojnco label PM text 襟翼15
+split 3 id wavesurfer_dmh12ra7juo label PF text 证实
+split 3 id wavesurfer_vm2t7l7h2m8 label PF text 襟翼40
+split 3 id wavesurfer_mtcfo3illg8 label PF text 好的#证实
+split 3 id wavesurfer_shgn8nesjt label PF text 着陆检查单
+split 3 id wavesurfer_7fsqhqqnlfo label PF text 连续
+split 3 id wavesurfer_jge1qs76c4o label PF text 预位
+split 3 id wavesurfer_u9qa253da8g label PF text 40到位绿灯
+split 3 id wavesurfer_kfbgshgf84 label PF text 完成
+split 3 id wavesurfer_feg1predp2g label PM text 25到位
+split 3 id wavesurfer_pmit1eo4mh8 label PM text 襟翼40
+split 3 id wavesurfer_u27qmhrc2lg label PM text 着陆检查单
+split 3 id wavesurfer_nrev2l369 label PM text 发动机启动电门连续
+split 3 id wavesurfer_7t0pqucmlmo label PM text 减速板预位
+split 3 id wavesurfer_j3mbl0cof2o label PM text APU引气核实
+split 3 id wavesurfer_na5nf1pt8l label PM text 着陆检查单完成
+split 3 id wavesurfer_nn3r2m7bff8 label PM text 连续
+split 3 id wavesurfer_u3i25rllr4g label PM text 预位
+split 3 id wavesurfer_bt78dha76n label PM text 40绿灯
+split 5 id wavesurfer_ka69879f0bg label PM text 证实
+split 5 id wavesurfer_tlu2dp3ph68 label PM text 1000英尺稳定
+split 5 id wavesurfer_qrnm0jgv7f8 label PM text 500尺稳定
+split 5 id wavesurfer_kr4at52hvr8 label PM text 300尺稳定
+split 5 id wavesurfer_bj4t5o80voo label PM text 100尺
+split 6 id wavesurfer_n82olbsuqdg label PM text 反推正常
+split 6 id wavesurfer_i6gmgb4uo4 label PM text 刹车工作
+file BF298EA647963C69247DE4C0D5B0868C13B6075BA25A841ED58A401B52F7BEC0 has 17 match.
+split 3 id wavesurfer_dmu5poltu78 label PM text 襟翼1到位
+split 4 id wavesurfer_us9fukdv3dg label PF text 核实
+split 5 id wavesurfer_ad4fo1km5s8 label PF text 证实
+split 6 id wavesurfer_4hfmcs12cbg label PM text 襟翼15到位
+split 6 id wavesurfer_tln1tk5re3o label PM text 到位
+split 6 id wavesurfer_1q8hrm5pcpo label PM text 着陆检查单
+split 6 id wavesurfer_sqkon5h2hk8 label PM text 发动机启动电门连续
+split 6 id wavesurfer_0u6fcrs96cg label PM text 连续
+split 6 id wavesurfer_h6vh5cd4s0g label PM text 减速板预位
+split 6 id wavesurfer_4kol2lg5slg label PM text 预位
+split 6 id wavesurfer_q3n97rpu1io label PM text 放下
+split 6 id wavesurfer_c40kupquolg label PM text 襟翼30
+split 6 id wavesurfer_vkk516cfl7o label PM text 30绿灯
+split 6 id wavesurfer_vk29hgiri8g label PM text 着陆检查单完成
+split 7 id wavesurfer_3aocmd3nu0g label PM text 1000英尺
+split 8 id wavesurfer_6javrurh21g label PM text 自动刹车生效
+split 8 id wavesurfer_nm7bh6r76u8 label PM text 反喷松锁#反推正常
+file BF8F42D67A66F2E601415C4F80B8A496CA8CC6CC2269E0CF96C4FE9A08F05D7E has 29 match.
+split 4 id wavesurfer_55kuarntaj8 label PF text 900，3000
+split 4 id wavesurfer_6d8cj03ik9g label PM text 900，3000
+split 6 id wavesurfer_klmed3d0ij8 label PF text 襟翼1
+split 6 id wavesurfer_rs6faa6q1d label PM text 1到位#襟翼1到位
+split 7 id wavesurfer_i5orp89ch5g label PF text 襟翼5
+split 7 id wavesurfer_jbp92o7ovh8 label PM text 证实
+split 7 id wavesurfer_3veaoa5v108 label PM text 襟翼5
+split 8 id wavesurfer_9l5vrft18n8 label PF text 航道截获
+split 8 id wavesurfer_33unfulbtp8 label PM text 航道截获
+split 9 id wavesurfer_fa16pvgq7i8 label PF text 放轮
+split 10 id wavesurfer_nit21oc349 label PF text 下滑道截获
+split 10 id wavesurfer_navh7fkd2co label PF text 着陆检查单
+split 10 id wavesurfer_sbqi70e14hg label PF text 连续
+split 10 id wavesurfer_iv0aocfv9rg label PF text 预位
+split 10 id wavesurfer_e8hktpqls1 label PF text 3个绿灯
+split 10 id wavesurfer_md1sbck7f9 label PM text 襟翼30
+split 10 id wavesurfer_vsrle2mhulo label PM text 襟翼30绿灯
+split 10 id wavesurfer_giuvhhf372g label PM text 着陆检查单
+split 10 id wavesurfer_r66vudnt588 label PM text APU引气按需
+split 10 id wavesurfer_odv4sl27g2g label PM text 核实
+split 10 id wavesurfer_v7kt8p1osa8 label PM text 着陆检查单完成
+split 11 id wavesurfer_uk2mo9t7odo label PF text 检查继续
+split 11 id wavesurfer_p5bneepjvbo label PF text 继续
+split 11 id wavesurfer_g2p5nocri6g label PM text 500尺稳定
+split 11 id wavesurfer_hrac3tm7j6g label PM text 300稳定
+split 11 id wavesurfer_j5nk17ut7o8 label PM text 刹车解除
+split 11 id wavesurfer_7ar6hun285g label PM text 差100
+split 11 id wavesurfer_09ctborhcv label PM text 减速板升起
+split 11 id wavesurfer_9t5aj7gn678 label PM text 反推开锁#反推正常
+file C3E29C441F3267CFCD5CFCA6F8B5C653E0B8AB559F6F4D74DE1DA8C345D9270E has 34 match.
+split 1 id wavesurfer_o4rir7pqa88 label PF text 4500，148#4500，14800
+split 1 id wavesurfer_3gfkmv264e8 label PF text 证实
+split 1 id wavesurfer_3giuugb323g label PM text 148，4500证实#14800，4500证实
+split 1 id wavesurfer_nocu9hgmi4g label PM text 3000
+split 2 id wavesurfer_10fqjio2448 label PF text 高度截获
+split 2 id wavesurfer_f8ie8uacvl label PF text 证实
+split 2 id wavesurfer_07dei4pfltg label PM text 证实
+split 2 id wavesurfer_8tc5179q55 label PM text 19#1900
+split 2 id wavesurfer_kbgn0ai30j label PM text 证实
+split 2 id wavesurfer_6vsoc1rgteo label PM text 证实
+split 4 id wavesurfer_t7fo12kh70o label PF text 襟翼速度
+split 4 id wavesurfer_7blbetv3m08 label PF text 襟翼1到位
+split 4 id wavesurfer_dmidajgiv1o label PF text 证实
+split 4 id wavesurfer_h3lad2n7rg8 label PM text 连续
+split 4 id wavesurfer_6at8q28sodg label PM text 襟翼1
+split 4 id wavesurfer_4nfde53gt18 label PM text 襟翼5到位
+split 5 id wavesurfer_t7khqosi4lo label PF text 放轮
+split 5 id wavesurfer_90t8ckpvvkg label PF text 航道移动
+split 5 id wavesurfer_valt8mdr5i label PF text 航道截获
+split 5 id wavesurfer_rg6qdu8ib48 label PF text 襟翼30
+split 5 id wavesurfer_3vdutuegfdg label PM text 襟翼15
+split 5 id wavesurfer_9udkomivht label PM text 襟翼30
+split 6 id wavesurfer_vosabfqum5o label PF text 连续
+split 6 id wavesurfer_jdg0nck0mv8 label PF text 预位
+split 6 id wavesurfer_7hualfqfm18 label PF text 3是绿灯
+split 6 id wavesurfer_mru39pqhkeo label PF text 着陆检查单
+split 6 id wavesurfer_eifit0d5ano label PM text 发动机启动电门连续
+split 6 id wavesurfer_pfu8qu1hrog label PM text 减速板预位
+split 6 id wavesurfer_f6v2di9up98 label PM text APU引气核实关
+split 6 id wavesurfer_6hp4e5pb2oo label PM text 着陆检查单完成
+split 6 id wavesurfer_a7rlmmlmic label PM text 预位
+split 6 id wavesurfer_tq06dukmkno label PM text 着陆检查单
+split 7 id wavesurfer_ju7h6itb8no label PM text 500稳定继续
+split 7 id wavesurfer_6ld1jjc3ang label PM text 减速板
+file C871C8EE5FCFE33C361FCE4878CCDAB5CEB81409B61116040EF5259C9B943627 has 37 match.
+split 1 id wavesurfer_i3quspk34o label PF text 证实
+split 1 id wavesurfer_h46o3kncvmg label PF text 核实
+split 2 id wavesurfer_h92t7qgfaq8 label PF text 襟翼1
+split 2 id wavesurfer_0pokt1l23to label PF text 核实
+split 2 id wavesurfer_47qvtpftj78 label PF text 襟翼5
+split 2 id wavesurfer_5jvqubegpj label PF text 襟翼5速度
+split 2 id wavesurfer_21d3dcpu8l label PM text 证实
+split 2 id wavesurfer_alt5a3a1qbo label PM text 襟翼1到位
+split 2 id wavesurfer_j3djavlv5mg label PM text 襟翼5
+split 2 id wavesurfer_4b6a2du4dgo label PM text 襟翼5到位
+split 2 id wavesurfer_a11utf71ptg label PM text 证实
+split 3 id wavesurfer_nu3b8rilseg label PF text 襟翼25
+split 3 id wavesurfer_jknoe9hdnpg label PF text 25速度
+split 3 id wavesurfer_3rglblm30j8 label PF text 襟翼30
+split 3 id wavesurfer_88e2en8ni6o label PF text 核实
+split 3 id wavesurfer_1ru6tkau6a8 label PM text 25到位
+split 3 id wavesurfer_hue82fo3chg label PM text 30
+split 3 id wavesurfer_shb7hhgmmr label PM text 差1000尺
+split 4 id wavesurfer_e6flh1bepq8 label PF text 着陆检查单
+split 4 id wavesurfer_okasigeptc label PF text 连续
+split 4 id wavesurfer_uffbhesrbjg label PF text 预位
+split 4 id wavesurfer_bn9dfres6qo label PF text 放下
+split 4 id wavesurfer_djoc4s8qbto label PF text 30绿灯
+split 4 id wavesurfer_dgteisjr1k label PF text 检查
+split 4 id wavesurfer_gqbu8a6ot7g label PM text 着陆检查单
+split 4 id wavesurfer_sdneka6cb9 label PM text 发动机启动器连续
+split 4 id wavesurfer_dc38h6nre7o label PM text 减速板预位
+split 4 id wavesurfer_16nh069vp7o label PM text 襟翼30绿灯
+split 4 id wavesurfer_21ug9qi5p1g label PM text APU引气关了
+split 4 id wavesurfer_d2atrb6ootg label PM text 着陆检查单完成
+split 6 id wavesurfer_epk96t013e label PF text 继续
+split 6 id wavesurfer_05c1p0hfmg label PF text 检查
+split 6 id wavesurfer_lu2ifppk8do label PF text 刹车
+split 6 id wavesurfer_cds5enfur98 label PM text 1000英尺
+split 6 id wavesurfer_u4gcsr2e5i label PM text 300
+split 6 id wavesurfer_ldck6b2r44 label PM text 反推开锁
+split 6 id wavesurfer_99617ejjiko label PM text 自动刹车3工作
+file CC55D7220FF19D5063B9A2472888BAEDAC14E0F486198451706C04B96633F5BA has 40 match.
+split 1 id wavesurfer_vs3o40bspu8 label PF text 差1000
+split 1 id wavesurfer_4u2mjaspfmo label PM text 证实
+split 3 id wavesurfer_riimgma184o label PF text 270
+split 3 id wavesurfer_dg7gm56bcno label PF text 证实
+split 3 id wavesurfer_bm4pui63hu8 label PM text 270
+split 4 id wavesurfer_5e7sr1kbgeo label PF text 襟翼1速度
+split 4 id wavesurfer_01trnor7ls8 label PF text 310
+split 4 id wavesurfer_r93tiebmth label PM text 证实
+split 6 id wavesurfer_4l66fr8jru label PF text 3300，108#10800
+split 7 id wavesurfer_lij0mi196lg label PF text 下滑道预位
+split 7 id wavesurfer_6ri8botc9d8 label PF text 襟翼5
+split 7 id wavesurfer_dfmc3tvsaf label PM text 证实
+split 7 id wavesurfer_cja3cql8sso label PM text 航道预位
+split 7 id wavesurfer_4rvgls4ffog label PM text 航道截获
+split 7 id wavesurfer_mn026kkvidg label PM text 襟翼5
+split 8 id wavesurfer_k9h8ifegoo8 label PF text 襟翼5速度
+split 8 id wavesurfer_j7gkheerfn8 label PF text 襟翼15
+split 8 id wavesurfer_n1b3gvl01f label PF text 襟翼15速度
+split 8 id wavesurfer_r0o76ep7dto label PF text 着陆检查单
+split 8 id wavesurfer_lore21be1fo label PF text 连续
+split 8 id wavesurfer_fvldm4gq0h8 label PF text 预位
+split 8 id wavesurfer_6mj038h6b18 label PF text 30绿灯
+split 8 id wavesurfer_o4ice2a8j98 label PM text 着陆检查单
+split 8 id wavesurfer_bhhplcn069g label PM text 发动机起动电门连续
+split 8 id wavesurfer_1mt6vvuura8 label PM text 连续
+split 8 id wavesurfer_jc5dftlrvd label PM text 减速板预位
+split 8 id wavesurfer_dvno2kfa0ao label PM text 预位
+split 8 id wavesurfer_ig9dcgt1cq8 label PM text 放下
+split 8 id wavesurfer_na0r1oafr5o label PM text 襟翼30绿灯
+split 8 id wavesurfer_rmundutnbm8 label PM text APU引气按需
+split 8 id wavesurfer_bbij7tm13l8 label PM text 核实
+split 8 id wavesurfer_4ju9mh5lv label PM text 着陆检查单完成
+split 9 id wavesurfer_d0agd1d4l18 label PF text 检查开灯
+split 9 id wavesurfer_4rcobd4v84g label PM text 1000稳定
+split 9 id wavesurfer_uak66u69hpg label PM text 开灯
+split 9 id wavesurfer_f8ujrfh58to label PM text 500稳定
+split 10 id wavesurfer_6nbt5muh0d8 label PF text 人工刹车
+split 10 id wavesurfer_iunb0jf5jrg label PM text 自动刹车工作
+split 10 id wavesurfer_pu8su5h1amo label PM text 反推正常
+split 10 id wavesurfer_dbjci8a1ae label PM text 自动刹车解除
+file CD266B1D082B1D33C3F4D29D8EC10DF5B2CBE4796C8A78DA7E6BFEA47036E0AB has 36 match.
+split 2 id wavesurfer_6sab3cf6lj8 label PF text 差1000
+split 2 id wavesurfer_83pq6gp88do label PF text 3000
+split 2 id wavesurfer_1itc4uln1jg label PF text 3000，9800
+split 2 id wavesurfer_i1qgrv5f4e8 label PM text 核实
+split 3 id wavesurfer_vq240imijho label PF text APP预位
+split 3 id wavesurfer_2liualif14 label PF text 证实
+split 3 id wavesurfer_m3urtl3na28 label PF text 襟翼5
+split 3 id wavesurfer_s1o8mfit57g label PF text 航向道截获
+split 3 id wavesurfer_18almkroro label PM text 好#核实
+split 3 id wavesurfer_iqjc5al11l8 label PM text 襟翼1到位
+split 3 id wavesurfer_sf31apkm27g label PM text 航向道截获
+split 4 id wavesurfer_dfajvuadvvg label PF text 襟翼5速度
+split 4 id wavesurfer_3f9kmc23qc8 label PF text 证实
+split 4 id wavesurfer_4ikubt3jt6 label PF text 证实
+split 4 id wavesurfer_gqe5he6kfr8 label PF text 放轮
+split 4 id wavesurfer_ti1arv5vpg label PM text 下滑道移动
+split 5 id wavesurfer_cp2qu61ich label PF text 襟翼30
+split 5 id wavesurfer_qjjr3sluim label PF text 参考速度135
+split 5 id wavesurfer_i246nfdeg58 label PF text 下滑道截获，复飞高度3600，118#11800
+split 5 id wavesurfer_ih4soih5m78 label PF text 检查#连续
+split 5 id wavesurfer_5injamln36g label PF text 检查
+split 5 id wavesurfer_uuqa091jhno label PF text 预位
+split 5 id wavesurfer_2rc40m3utgo label PF text 好#证实
+split 5 id wavesurfer_vh4s0v1abug label PM text 着陆检查单
+split 5 id wavesurfer_u04qj4g4ff8 label PM text 自动刹车
+split 5 id wavesurfer_8cjb2t7cnf8 label PM text 预位
+split 5 id wavesurfer_42krnel71vo label PM text 减速板预位
+split 5 id wavesurfer_es6nv1h1gb label PM text 襟翼30到位
+split 5 id wavesurfer_8oc6qhgg4ao label PM text 着陆检查单#着陆检查单完成
+split 6 id wavesurfer_pmi6cb0dvmg label PF text 检查开灯
+split 6 id wavesurfer_2h780t4tj4g label PF text 检查
+split 6 id wavesurfer_1n7h4cckn0o label PF text 检查
+split 6 id wavesurfer_5sau8c490eg label PF text 继续
+split 6 id wavesurfer_m6d2vikf4fo label PM text 1000尺开灯
+split 6 id wavesurfer_pu9bg9dutp8 label PM text 500
+split 6 id wavesurfer_hdk980kn0e8 label PM text 300
+file CFE60B6373709777DC35ADE915271F219B052CA0E119EEEF1AAF2F94435F9A1F has 40 match.
+split 1 id wavesurfer_uj51io76ph8 label PF text 10000开灯，调速230
+split 1 id wavesurfer_l0jr9vjjn38 label PF text 200
+split 1 id wavesurfer_me3hrdbrito label PF text 核实
+split 1 id wavesurfer_h60csqansto label PM text 200
+split 1 id wavesurfer_c5ruh0d10n8 label PM text 差1000
+split 3 id wavesurfer_kp6e7k8athg label PF text 核实
+split 3 id wavesurfer_jq3bmuor2u8 label PF text 差1000
+split 3 id wavesurfer_5u25m4fin6g label PF text 襟翼5
+split 3 id wavesurfer_1tcchj5pcco label PF text 襟翼5速度
+split 3 id wavesurfer_6n6ge2m0mj8 label PM text 襟翼1
+split 3 id wavesurfer_04ide2kf06o label PM text 襟翼1到位
+split 3 id wavesurfer_b2lc2k106co label PM text 襟翼5
+split 4 id wavesurfer_ch3nn27m53o label PF text APP预位
+split 4 id wavesurfer_idummldkk98 label PF text 放轮
+split 4 id wavesurfer_agevu51418 label PM text 航道截获
+split 4 id wavesurfer_urqgpk7q0kg label PM text 下滑道移动
+split 5 id wavesurfer_irmq7rkhteg label PF text 证实
+split 5 id wavesurfer_1d60s86jdjg label PF text 襟翼15速度
+split 5 id wavesurfer_5hti4p925vo label PF text 核实
+split 5 id wavesurfer_05vctk8uvd8 label PF text 核实
+split 5 id wavesurfer_86m7nn2krro label PF text 核实
+split 5 id wavesurfer_bi0718i7rd label PM text 襟翼15
+split 5 id wavesurfer_qpiec3e3cm8 label PM text 下滑道截获
+split 5 id wavesurfer_k5dngcn1s38 label PM text 襟翼30
+split 6 id wavesurfer_sadis8rkjgo label PF text 连续
+split 6 id wavesurfer_v5oclffq528 label PF text 预位
+split 6 id wavesurfer_98ijglnnelo label PF text 30绿灯
+split 6 id wavesurfer_tpl937b2s6g label PM text 着陆检查单
+split 6 id wavesurfer_3l5ogdr0g5g label PM text 发动机起动电门连续
+split 6 id wavesurfer_6544779h6io label PM text 连续
+split 6 id wavesurfer_ir2st2hdimg label PM text 减速板预位
+split 6 id wavesurfer_himv5r74hf label PM text 预位
+split 6 id wavesurfer_tau888u0obg label PM text 襟翼30绿灯
+split 6 id wavesurfer_qqf0m10efrg label PM text APU引气按需核实关
+split 6 id wavesurfer_f5eht22mjpo label PM text 着陆检查单完成
+split 7 id wavesurfer_5qnr35rdiuo label PF text 检查开灯
+split 7 id wavesurfer_vrcng3vs96 label PF text 60
+split 7 id wavesurfer_187eab5n80o label PF text 人工刹车
+split 7 id wavesurfer_srt8g05d34o label PM text 1000尺稳定
+split 7 id wavesurfer_eicrrhol0vg label PM text 自动刹车解除
+file D422FF56091EFA7F51889771116D11339694BEE573B6B8E6F9DAA46A4A596666 has 0 match.
+file D6C04393652D8581B7C8942B730DF7B33DB29B614A26AFAF5160DE4DEB116C2C has 37 match.
+split 2 id wavesurfer_o2nl56309e label PF text 调高度7200
+split 2 id wavesurfer_7o46dcvfec8 label PF text 襟翼1速度
+split 2 id wavesurfer_4readf789ao label PF text 襟翼5
+split 2 id wavesurfer_tn8h6fva1d label PF text 核实
+split 2 id wavesurfer_o2albj27kv label PM text 7200核实
+split 2 id wavesurfer_32sd28qpmio label PM text 核实
+split 2 id wavesurfer_c086t3a1ii label PM text 襟翼1到位
+split 2 id wavesurfer_o71oe3gur2g label PM text 襟翼5
+split 2 id wavesurfer_mfjqhafhul label PM text 差1000
+split 3 id wavesurfer_1p0gi8a6bj label PF text 197#19700
+split 3 id wavesurfer_m3iu339td8o label PF text 核实
+split 3 id wavesurfer_0qqg7ucouh8 label PM text 核实
+split 4 id wavesurfer_rlicji56geg label PF text 放轮
+split 4 id wavesurfer_1ovk4atd1to label PF text 襟翼15
+split 4 id wavesurfer_kpei7edbbdg label PF text 襟翼15速度
+split 4 id wavesurfer_eirv2u0blkg label PM text 襟翼15
+split 4 id wavesurfer_32hg754je08 label PM text 核实
+split 4 id wavesurfer_77u998oohf8 label PM text 差1000
+split 5 id wavesurfer_9ho25h2uc7o label PF text 襟翼30
+split 5 id wavesurfer_ksc9kr0bv1g label PF text 着陆检查单
+split 5 id wavesurfer_3bgilm59ku8 label PF text 连续
+split 5 id wavesurfer_p1c7lrmust label PF text 预位
+split 5 id wavesurfer_8uusr5suvs8 label PF text 30绿灯
+split 5 id wavesurfer_c1hshdon40g label PF text APP预位
+split 5 id wavesurfer_lvclpmp5u2o label PM text 襟翼30
+split 5 id wavesurfer_somj2ggiovo label PM text 着陆检查单
+split 5 id wavesurfer_i2cf6b8iah label PM text 发动机起动电门连续
+split 5 id wavesurfer_9r8v72agrq label PM text 连续
+split 5 id wavesurfer_fvlb3oudojg label PM text 减速板预位
+split 5 id wavesurfer_ns6lgv745e label PM text 预位
+split 5 id wavesurfer_jf9eirb8v78 label PM text APU引气按需设置核实
+split 5 id wavesurfer_93ilga5uin label PM text 着陆检查单完成
+split 5 id wavesurfer_4md67tpuusg label PM text 盲降截获
+split 6 id wavesurfer_635rnd5u9c8 label PM text 500稳定
+split 6 id wavesurfer_o6sbsafk88 label PM text 自动刹车工作
+split 6 id wavesurfer_2dmbu15ktk8 label PM text 反推正常
+split 7 id wavesurfer_ip5cs40hh68 label PM text 60
+file D9699FC08C583001A448E087ACAA749199303EC1F4F9FD2ACFF43CB9C57C85CE has 44 match.
+split 1 id wavesurfer_etvk7hm4rb label PF text 近进检查单
+split 1 id wavesurfer_un1o5snrvs label PF text 10223个
+split 1 id wavesurfer_js7b9jpqfao label PF text 042
+split 1 id wavesurfer_r6g9m0d2ujo label PF text 开灯
+split 1 id wavesurfer_520p8eqbf1g label PF text 核实
+split 1 id wavesurfer_0f220kkedk8 label PF text 襟翼1
+split 1 id wavesurfer_3dc91i2a5k8 label PF text 襟翼1速度
+split 1 id wavesurfer_l61np51dj6 label PF text 核实
+split 1 id wavesurfer_ed5fcht5l label PM text 过度高度层
+split 1 id wavesurfer_vf0nhlujoe8 label PM text 高度表1022
+split 1 id wavesurfer_sdl52sqnqs8 label PM text 近进检查单完成
+split 1 id wavesurfer_sp8nr37uq88 label PM text 10000
+split 1 id wavesurfer_pt0famk63d8 label PM text 襟翼1
+split 1 id wavesurfer_gj1m18dmrpo label PM text 证实
+split 1 id wavesurfer_pipcljldt7g label PM text 襟翼1到位
+split 2 id wavesurfer_9dpbjpsfb58 label PF text 证实
+split 2 id wavesurfer_85uevpqtb38 label PF text 襟翼5速度
+split 2 id wavesurfer_jp5a2dec9og label PF text 核实
+split 2 id wavesurfer_hnnsrhsarug label PF text 放轮
+split 2 id wavesurfer_o4kkfn6csl8 label PF text 速度好襟翼15
+split 2 id wavesurfer_edmaeb9opq8 label PF text 15速度
+split 2 id wavesurfer_qtvsl2v03pg label PF text 核实
+split 2 id wavesurfer_uon0mnhiilg label PM text 差1000
+split 2 id wavesurfer_3ngd3g0mhqo label PM text 襟翼5
+split 3 id wavesurfer_vaf05fsv2g8 label PM text 襟翼30
+split 4 id wavesurfer_3itmnad1iq label PF text 差1000
+split 4 id wavesurfer_585mo42kht8 label PF text 着陆检查单
+split 4 id wavesurfer_0f86uf71pbg label PF text 连续
+split 4 id wavesurfer_si2ka3h5jvo label PF text 预位
+split 4 id wavesurfer_mulqh8hl11o label PM text 发动机启动电门连续
+split 4 id wavesurfer_5rr25g4fsq label PM text 减速板预位
+split 4 id wavesurfer_taijcn3u6c label PM text 连续
+split 4 id wavesurfer_9ocbiuhcmqg label PM text 预位
+split 5 id wavesurfer_hnuo2cki4o label PF text 30绿灯
+split 5 id wavesurfer_aja8gphi56 label PF text 开灯检查#检查开灯
+split 5 id wavesurfer_dk94m6r43io label PM text 襟翼30绿灯
+split 5 id wavesurfer_rfacri2dht label PM text 着陆检查单完成
+split 5 id wavesurfer_6e8ahd4nh98 label PM text APU引气按需不用#APU引气按需设置
+split 5 id wavesurfer_g6tamnmmajg label PM text 1000英尺稳定#1000稳定
+split 6 id wavesurfer_fn0gc5lv9i label PF text 人工刹车
+split 6 id wavesurfer_r0i6k5i90h8 label PM text 反喷解锁#反推正常
+split 6 id wavesurfer_5t11cije6bg label PM text 自动刹车生效#自动刹车工作
+split 6 id wavesurfer_07fb8is6b88 label PM text 60
+split 6 id wavesurfer_sh40ac5f2b label PM text 刹车解除#自动刹车接触
+file DB176BC62D772F896B12BFF14CCC9DD31EF5EF99BF29365A4422781F44641D9F has 27 match.
+split 1 id wavesurfer_32rb7j2mb4o label PF text 3900，12800
+split 1 id wavesurfer_6kr0itbmmgo label PM text 12800，3900核实
+split 1 id wavesurfer_jk95dnd52t8 label PM text 3900
+split 3 id wavesurfer_42qimod8hg8 label PM text 高度截获
+split 5 id wavesurfer_ic8t5qs5o5o label PF text 襟翼1速度
+split 5 id wavesurfer_aa3jeo9elj8 label PM text 航道移动
+split 6 id wavesurfer_nfq3vvj69i8 label PF text 放轮
+split 6 id wavesurfer_ldeikt4a5s label PM text 下滑道移动
+split 7 id wavesurfer_7n4dbpsi4q label PF text 着陆检查单
+split 7 id wavesurfer_ppnevmad0ug label PF text 连续
+split 7 id wavesurfer_49kqusl2c3o label PF text 预位
+split 7 id wavesurfer_99d5vvu7v18 label PF text 30绿灯
+split 7 id wavesurfer_3s0ah31phsg label PM text 发动机启动电门连续
+split 7 id wavesurfer_p720i2njpuo label PM text 连续
+split 7 id wavesurfer_t2s359fp1ko label PM text 减速板预位
+split 7 id wavesurfer_k57gdpaq5h8 label PM text 预位
+split 7 id wavesurfer_haq77mbo0kg label PM text 着陆检查单
+split 7 id wavesurfer_afbmrvl74mo label PM text 襟翼30绿灯
+split 7 id wavesurfer_0upc8a8jv6o label PM text APU引气按需
+split 7 id wavesurfer_jh5c4vlblg label PM text 着陆检查单完成
+split 8 id wavesurfer_7bkrspif878 label PF text 开灯#检查开灯
+split 8 id wavesurfer_t0vt480qb6 label PF text 继续#检查
+split 8 id wavesurfer_020l084toh8 label PF text 继续#检查
+split 8 id wavesurfer_jah92grjln label PM text 1000稳定
+split 8 id wavesurfer_veorv1dm80g label PM text 500#500稳定
+split 8 id wavesurfer_cn5o9r4bo5g label PM text 300稳定
+split 8 id wavesurfer_r8olisg69u label PM text 自动刹车生效#自动刹车工作
+file DF6C7949F07C97DFF06922FB46F5DA6B91736ED16C881B7547D22DE97DF22A2E has 38 match.
+split 1 id wavesurfer_ef2fiiddepg label PF text 近进检查单
+split 1 id wavesurfer_mdtc50e35ko label PF text 3个
+split 1 id wavesurfer_1bd2vspork label PF text 1015#高度表1015
+split 1 id wavesurfer_fjqgdqa1sa label PM text 过度高度层
+split 1 id wavesurfer_lle1mh6ror label PM text 高度表1015，3个
+split 1 id wavesurfer_skfc62gchs8 label PM text 完成#近进检查单完成
+split 1 id wavesurfer_uvo9vbsh15g label PM text 进近检查单
+split 2 id wavesurfer_70ak4j4hn3o label PF text 核实
+split 3 id wavesurfer_pstmm18gel8 label PF text 核实
+split 3 id wavesurfer_m6cm2srism8 label PF text 襟翼1速度
+split 3 id wavesurfer_8d8vubl3ae label PF text 核实
+split 3 id wavesurfer_5gjb8km08m8 label PF text 襟翼5速度
+split 3 id wavesurfer_50ec865v62g label PF text 核实
+split 3 id wavesurfer_0fv8jh2i2 label PM text 证实
+split 3 id wavesurfer_rpokfbvtceo label PM text 襟翼1到位
+split 3 id wavesurfer_9mvqtjum0l8 label PM text 襟翼5
+split 3 id wavesurfer_kkrtr0ugoag label PM text 证实
+split 3 id wavesurfer_32goe0n9no8 label PM text 襟翼5到位
+split 5 id wavesurfer_cireddgc8so label PF text 差1000
+split 5 id wavesurfer_t0dts35t25o label PF text 放轮
+split 5 id wavesurfer_l2gi7jm37p label PF text 速度好襟翼15
+split 5 id wavesurfer_ndmdj8atab label PF text 襟翼30
+split 5 id wavesurfer_g09kvvp5oco label PM text 襟翼30
+split 6 id wavesurfer_4eq3sgcc6pg label PF text 连续
+split 6 id wavesurfer_bogcv68mv7g label PF text 预位
+split 6 id wavesurfer_66hb9dm8d3 label PF text 差1000
+split 6 id wavesurfer_tdq4lmsdmn label PF text 开灯
+split 6 id wavesurfer_0h7guqs873o label PF text 30绿灯
+split 6 id wavesurfer_o9e4jafu67g label PM text 发动机启动电门连续
+split 6 id wavesurfer_pv7l884tgt label PM text 连续
+split 6 id wavesurfer_vqp2pem9vug label PM text 减速板预位
+split 6 id wavesurfer_3nqcaa4iu5g label PM text 预位
+split 6 id wavesurfer_ck806t6peag label PM text 着陆检查单完成
+split 6 id wavesurfer_k8k0hdiv84 label PM text 着陆检查单
+split 6 id wavesurfer_lvrb10cb7fg label PM text 自动刹车接解除
+split 7 id wavesurfer_p0s09nbs8sg label PF text 人工刹车
+split 7 id wavesurfer_a1790sjkpq8 label PM text 差100到决断#差100
+split 7 id wavesurfer_hfcvgsbsbe8 label PM text 自动刹车生效#自动刹车工作
+file F458834C5CE4EA21E7E5D273CBD433F6E02EA8C6A374AAEDB3651AE9E9748934 has 19 match.
+split 3 id wavesurfer_csbtokb7g78 label PF text 襟翼5
+split 3 id wavesurfer_881cvi2htsg label PF text 110.1#盲降频率110.1
+split 3 id wavesurfer_6ppigj062f8 label PF text APP预位
+split 3 id wavesurfer_671al2r6tpo label PF text 3000，9800
+split 3 id wavesurfer_cpdeofn50ug label PM text 航道移动
+split 3 id wavesurfer_4idlkitcqko label PM text 截获#航道截获
+split 3 id wavesurfer_b2g54d63h98 label PM text 复飞航道219
+split 4 id wavesurfer_0s15ug9io3o label PF text 核实
+split 4 id wavesurfer_dkljjhn6l7 label PF text 放轮
+split 4 id wavesurfer_f53649mucd8 label PF text 襟翼15
+split 4 id wavesurfer_do58lt6fmpo label PF text 调襟翼15速度
+split 4 id wavesurfer_37df5aet78 label PF text 着陆检查单
+split 4 id wavesurfer_mh4dqqhdjp label PM text 核实
+split 6 id wavesurfer_etf7jee508 label PF text 开灯
+split 6 id wavesurfer_l900hc9ad4g label PM text 反喷#反推正常
+split 6 id wavesurfer_rb8a4s3n5kg label PM text 刹车生效#自动刹车工作
+split 6 id wavesurfer_vvbom7ke6d label PM text 生效#减速板升起
+split 6 id wavesurfer_tfh55kvnoe8 label PM text 60
+split 6 id wavesurfer_188gjuonb6g label PM text 1000，稳定
+file F77EBA60326310F28D94C3B95E8AA0B5D19D29E64C4C108A7AE22032D3519809 has 28 match.
+split 1 id wavesurfer_b59viuluol8 label PF text 开灯
+split 1 id wavesurfer_nuv4d5640og label PM text 差1000
+split 2 id wavesurfer_np9e87i5q38 label PF text 证实
+split 2 id wavesurfer_eiifbsh4gl label PM text 差1000
+split 3 id wavesurfer_mq76ibrh7mg label PF text 下18#下1800
+split 3 id wavesurfer_5e78081sfn8 label PF text 59#5900
+split 3 id wavesurfer_hkfck2k72m label PM text 59，18证实#5900，1800证实
+split 5 id wavesurfer_kvrtrp80iig label PF text 核实
+split 5 id wavesurfer_4vfptgp7pfg label PM text 襟翼1
+split 5 id wavesurfer_eak27kjfhig label PM text 1到位#襟翼1到位
+split 6 id wavesurfer_pva39r681hg label PF text 放轮
+split 7 id wavesurfer_ji9akv9sov label PF text 襟翼30
+split 7 id wavesurfer_geuerokhpkg label PF text 着陆检查单
+split 7 id wavesurfer_gqemg78tapo label PF text 连续
+split 7 id wavesurfer_mpnlkd848s8 label PF text 预位
+split 7 id wavesurfer_8ltkbcbc8uo label PF text 30绿灯
+split 7 id wavesurfer_epe4rl4c1mo label PF text 下滑道截获
+split 7 id wavesurfer_tpj9gi292q label PM text 30#襟翼30
+split 7 id wavesurfer_1enmlj7aad8 label PM text 发动机启动电门连续
+split 7 id wavesurfer_ucp9sl70aqo label PM text 减速板预位绿灯#减速板预位
+split 7 id wavesurfer_ipr7iqhb6do label PM text 襟翼放下30绿灯#襟翼30绿灯
+split 7 id wavesurfer_2gfh3cm29h8 label PM text 着陆检查单完成
+split 7 id wavesurfer_cq347c6tp label PM text 3000
+split 8 id wavesurfer_epd8h23522g label PM text 1000#1000稳定
+split 8 id wavesurfer_nta8cdeeai8 label PM text 继续
+split 8 id wavesurfer_52evlm8q77 label PM text 开灯
+split 9 id wavesurfer_3oj9j7e5v4o label PM text 反喷开锁#反推正常
+split 9 id wavesurfer_d0jak13k778 label PM text 60
+file FB29E6B2C01E31D4BE9793AC54D18834CBD36F2DD2852BDD496B52AC003E1949 has 42 match.
+split 5 id wavesurfer_h56sfhnq86g label PF text 襟翼5
+split 5 id wavesurfer_bef0lcu2g3o label PM text 襟翼1到位
+split 5 id wavesurfer_69qb7gae5vo label PM text 襟翼5
+split 6 id wavesurfer_drm4lcv6n98 label PF text 襟翼5速度
+split 6 id wavesurfer_rbrl8560bsg label PF text 证实
+split 6 id wavesurfer_rmcb0jt45vo label PM text 证实
+split 6 id wavesurfer_je5j06gvq7g label PM text 襟翼5到位
+split 9 id wavesurfer_57b7ours29 label PF text 1200，3900
+split 9 id wavesurfer_irvv2bus0l8 label PM text 下1200
+split 9 id wavesurfer_jv7m8geddk8 label PM text 3900，1200证实
+split 9 id wavesurfer_mcdaiuud7h8 label PM text 差1000
+split 10 id wavesurfer_j4vfcr362jg label PF text 证实
+split 10 id wavesurfer_6budajea65o label PF text 证实
+split 10 id wavesurfer_2qm5h3lm0i8 label PF text 高度截获
+split 10 id wavesurfer_sq4gc6ie13 label PM text 差1000
+split 10 id wavesurfer_gr0tvpmc6mg label PM text 证实
+split 10 id wavesurfer_qka5skeq34 label PM text 证实
+split 11 id wavesurfer_f7s6rih7oro label PF text APP预位
+split 12 id wavesurfer_61t2dejm2p8 label PF text 航道截获
+split 12 id wavesurfer_9cfqc2j6rq8 label PF text 下滑道移动
+split 13 id wavesurfer_cmcptmts7qg label PF text 放轮
+split 13 id wavesurfer_naehg74cp5o label PF text 襟翼15
+split 13 id wavesurfer_jha6siqopgg label PF text 襟翼15速度
+split 13 id wavesurfer_i4tfjul1jr label PF text 襟翼30
+split 13 id wavesurfer_mfjidegt4s8 label PF text 着陆检查单
+split 13 id wavesurfer_cdga6qami1 label PF text 连续
+split 13 id wavesurfer_025ld0t9fko label PM text 襟翼30
+split 13 id wavesurfer_f7v34i7nbn label PM text 发动机启动电门连续
+split 13 id wavesurfer_ph2i4rjuk1g label PM text 连续
+split 13 id wavesurfer_jfqq3m3u47 label PM text 着陆检查单
+split 14 id wavesurfer_bd6vrk0mtdg label PF text 预位
+split 14 id wavesurfer_kegukf9sbv label PF text 30绿灯
+split 14 id wavesurfer_a89vi0c7nqg label PF text 检查开灯
+split 14 id wavesurfer_sag983621q label PM text 减速板预位
+split 14 id wavesurfer_vqr9j3696c8 label PM text 预位
+split 14 id wavesurfer_cpp28ah1s4g label PM text APU引气按需不需要关
+split 14 id wavesurfer_elalnp2tbk label PM text 着陆检查单完成
+split 14 id wavesurfer_unuojftdndo label PM text 1000稳定
+split 15 id wavesurfer_vl6rbkb65vg label PM text 300稳定
+split 15 id wavesurfer_nj4pn1nhfgo label PM text 自动刹车工作
+split 15 id wavesurfer_8u1vpsrdlvg label PM text 反推正常
+split 15 id wavesurfer_hkmjpr6e9h8 label PM text 60
+file FE216F61CF01D3C6A9C08F9354708B1D5451052480A0F76CAE48B63DFF599A6B has 42 match.
+split 1 id wavesurfer_ml3g6hud51o label PF text 高度表1025
+split 1 id wavesurfer_fjil5psok8o label PF text 近进检查单
+split 1 id wavesurfer_s4fa0g22rmg label PF text 1025
+split 1 id wavesurfer_52epuugrn68 label PF text 证实
+split 1 id wavesurfer_rh7es3l5elg label PF text 襟翼1
+split 1 id wavesurfer_nq7m25lase8 label PF text 襟翼1速度
+split 1 id wavesurfer_961ck0b6qjg label PF text 襟翼1到位
+split 1 id wavesurfer_9e9111cm8u8 label PF text 过渡高度
+split 1 id wavesurfer_1g5qqt6sn0o label PM text 近进检查单完成
+split 1 id wavesurfer_mmoge5mil78 label PM text 1025
+split 1 id wavesurfer_o9ievmqnc3g label PM text 襟翼1
+split 1 id wavesurfer_k3pr5bvsoh8 label PM text 襟翼1到位
+split 2 id wavesurfer_3bmjrmj9lt8 label PF text 10000
+split 2 id wavesurfer_3frcvu7idp8 label PF text 襟翼5
+split 2 id wavesurfer_r0fe3cga4oo label PM text 10000尺证实#开灯
+split 2 id wavesurfer_3jfhbfjemhg label PM text 襟翼5
+split 2 id wavesurfer_iiabomgsc7g label PM text 差900#差1000
+split 3 id wavesurfer_mcrvdng94c label PF text 放轮
+split 3 id wavesurfer_ltt8unlsiio label PF text 核实
+split 3 id wavesurfer_r6aj96r5glo label PF text 核实
+split 3 id wavesurfer_naq51btjs7g label PF text 襟翼40
+split 3 id wavesurfer_qcaal31h1a8 label PM text 差1000
+split 3 id wavesurfer_tj1s1h8ud8o label PM text 襟翼40
+split 3 id wavesurfer_dc5h5isi58o label PM text 证实
+split 4 id wavesurfer_ld9hkurecco label PF text 连续
+split 4 id wavesurfer_u39r4dlj8ig label PF text 预位
+split 4 id wavesurfer_q1cudp87fvo label PF text 40绿灯
+split 4 id wavesurfer_sjd3erijuug label PF text 核实
+split 4 id wavesurfer_dep1inmhj0g label PF text 复飞高度以下300尺
+split 4 id wavesurfer_9srebs7lesg label PM text 发动机启动电门连续
+split 4 id wavesurfer_r798ak1q8s8 label PM text 连续
+split 4 id wavesurfer_or0tatbndi8 label PM text 减速板预位
+split 4 id wavesurfer_mdb16a46veo label PM text 预位
+split 4 id wavesurfer_5ht1cii82d8 label PM text APU引气按需设置核实
+split 4 id wavesurfer_fu4v65f8ojg label PM text 着陆检查单完成
+split 4 id wavesurfer_rcm6kqkiq3 label PM text 着陆检查单
+split 5 id wavesurfer_f3nf6cmq248 label PF text 开灯#检查开灯
+split 5 id wavesurfer_f8soat8r0ug label PM text 1000稳定
+split 5 id wavesurfer_gbroli09jv label PM text 500稳定
+split 5 id wavesurfer_o36e62d6q3o label PM text 自动刹车工作
+split 5 id wavesurfer_5t64nokm5ig label PM text 反推正常
+split 6 id wavesurfer_6al6l806pdg label PM text 60

@@ -1,11 +1,13 @@
 import json
 import os
-from compare import reset_count_process
-from compare import compare_and_count_with_strategy
+# from compare import reset_count_process
+# from compare import compare_and_count_with_strategy
 from compare import init_lines
-from compare import output_result
-from compare import underline_compare
-# from compare import lines
+from compare import non_identity_compare
+from compare import match_by_file
+# from compare import output_result
+# from compare import underline_compare
+from compare import lines
 
 
 def parse_json(jsonpath):
@@ -45,7 +47,14 @@ if __name__ == "__main__":
 
     wholeSplitInf = {}
 
-    os.remove('./result/cer.txt')
+    if os.path.exists('./result/cer.txt'):
+        os.remove('./result/cer.txt')
+    if os.path.exists('./result/match.txt'):
+        os.remove('./result/match.txt')
+    if os.path.exists('./result/not_match.txt'):
+        os.remove('./result/not_match.txt')
+    if os.path.exists('./result/statistics.txt'):
+        os.remove('./result/statistics.txt')
     # print(underline_compare('a_ab', 'a11bb'))
 
     print('==================================================')
@@ -78,6 +87,8 @@ if __name__ == "__main__":
     # print(len(lines))
     init_lines()
     # print(len(lines))
+    total_match_count = 0
+    total_not_match_count = 0
 
     for realFileName in wholeRealFileName:
 
@@ -87,7 +98,7 @@ if __name__ == "__main__":
         PFIDList = []
 
         realFileCount += 1
-        reset_count_process(realFileCount)
+        # reset_count_process(realFileCount)
 
         realFileSplitDict = sortedWholeSplitInf[realFileName]
         # print(realFileName)
@@ -112,7 +123,19 @@ if __name__ == "__main__":
 
         # start to compare
         # print(PMIDList)
-        compare_and_count_with_strategy(realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList)
+        # compare_and_count_with_strategy(realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList)
+        match_count, not_match_count = non_identity_compare(realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList)
+        total_match_count += match_count
+        total_not_match_count += not_match_count
 
-    output_result()
+    # output_result()
     # print('_aa'.split('_'))
+    statistic_file = open('./result/statistics.txt', 'a')
+    print('', file=statistic_file)
+    print('total count', file=statistic_file)
+    for stage_iter in range(len(match_by_file)):
+        match_by_stage = match_by_file[stage_iter + 1]
+        for line_iter in range(len(match_by_file[stage_iter + 1])):
+            print('stage {} line {} has {} match, expect {}.'.format(stage_iter + 1, line_iter + 1, match_by_stage[line_iter + 1],
+                                                                    lines[stage_iter + 1][line_iter + 1]), file=statistic_file)
+    print('====================   finished, match {}, not match {}   ===================='.format(total_match_count, total_not_match_count))
