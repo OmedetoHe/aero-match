@@ -656,7 +656,7 @@ def ahead_match(start_stage, start_line_number, identity, actual_string):
     return False, -1, -1, -1
 
 
-def non_identity_compare(real_file_name, split_num_list, pm_records_list, pf_records_list, pm_id_list, pf_id_list):
+def non_identity_compare(real_file_name, split_num_list, pm_records_list, pf_records_list, pm_id_list, pf_id_list, csv_writer):
 
     print('====================   file {} comparison start   ===================='.format(real_file_name))
     # 初始化统计列表
@@ -685,7 +685,7 @@ def non_identity_compare(real_file_name, split_num_list, pm_records_list, pf_rec
             if '@' in certain_record[1]:
                 continue
 
-            match_stage, match_line = match_by_process(certain_record[1], flag_by_file)
+            match_stage, match_line = match_by_process(certain_record[1].replace('，', '/').replace(',', '/'), flag_by_file)
             if match_stage == -1:
                 not_match_list.append((split_num_list[split_iter], pf_id[pf_iter], 'PF', certain_record))
             else:
@@ -701,7 +701,7 @@ def non_identity_compare(real_file_name, split_num_list, pm_records_list, pf_rec
             if '@' in certain_record[1]:
                 continue
 
-            match_stage, match_line = match_by_process(certain_record[1], flag_by_file)
+            match_stage, match_line = match_by_process(certain_record[1].replace('，', '/').replace(',', '/'), flag_by_file)
             if match_stage == -1:
                 not_match_list.append((split_num_list[split_iter], pm_id[pm_iter], 'PM', certain_record))
             else:
@@ -722,6 +722,7 @@ def non_identity_compare(real_file_name, split_num_list, pm_records_list, pf_rec
         output_tuple = not_match_list[not_match_iter]
         print('split {} id {} label {} text {}'.format(output_tuple[0], output_tuple[1], output_tuple[2], output_tuple[3][1]), file=not_match_file)
 
+    csv_line = [real_file_name]
     statistic_file = open('./result/statistics.txt', 'a')
     print('file {}'.format(real_file_name), file=statistic_file)
     for stage_iter in range(len(lines)):
@@ -729,7 +730,8 @@ def non_identity_compare(real_file_name, split_num_list, pm_records_list, pf_rec
         for line_iter in range(len(lines[stage_iter + 1])):
             print('stage {} line {} has {} match, expect {}.'.format(stage_iter + 1, line_iter + 1, flag_by_stage[line_iter + 1],
                                                                     lines[stage_iter + 1][line_iter + 1]), file=statistic_file)
-
+            csv_line.append(flag_by_stage[line_iter + 1])
+    csv_writer.writerow(csv_line)
     return len(match_list), len(not_match_list)
 
 
@@ -762,7 +764,7 @@ def compare_line(expect_string, actual_string):
         calculate_cer = cer([x for x in expect_string], [x for x in translations[1]])
         print('{} {} have cer {}'.format(expect_string, translations[1], calculate_cer), file=cer_file)
         # return expect_string == translations[1]
-        if calculate_cer <= 0.5:
+        if calculate_cer <= 0.75:
             return True
         else:
             return False
@@ -770,7 +772,7 @@ def compare_line(expect_string, actual_string):
         calculate_cer = cer([x for x in expect_string], [x for x in actual_string])
         print('{} {} have cer {}'.format(expect_string, actual_string, calculate_cer), file=cer_file)
         # return expect_string == actual_string
-        if calculate_cer <= 0.5:
+        if calculate_cer <= 0.75:
             return True
         else:
             return False
@@ -810,7 +812,9 @@ def underline_compare(expect_string, actual_string):
                 return False
             else:
                 while current_actual_pos < len(actual_string) \
-                        and '0' <= actual_string[current_actual_pos] <= '9':
+                        and ('0' <= actual_string[current_actual_pos] <= '9'
+                             or actual_string[current_actual_pos] == '.'
+                             or actual_string[current_actual_pos] == '/'):
                     current_actual_pos += 1
                 current_expect_pos += 1
         else:
@@ -826,7 +830,7 @@ def underline_compare(expect_string, actual_string):
                 end_pos += 1
             cer_temp = cer([x for x in expect_string[start_expect_pos:end_expect_pos]], [x for x in actual_string[start_pos:end_pos]])
             # print('split cer == {}'.format(cer_temp))
-            if cer_temp > 0.5:
+            if cer_temp > 0.75:
                 return False
             current_expect_pos = end_expect_pos
             current_actual_pos = end_pos

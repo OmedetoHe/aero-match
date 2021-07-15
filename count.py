@@ -1,5 +1,7 @@
 import json
 import os
+import csv
+import codecs
 # from compare import reset_count_process
 # from compare import compare_and_count_with_strategy
 from compare import init_lines
@@ -55,6 +57,10 @@ if __name__ == "__main__":
         os.remove('./result/not_match.txt')
     if os.path.exists('./result/statistics.txt'):
         os.remove('./result/statistics.txt')
+    if os.path.exists('./result/statistics.csv'):
+        os.remove('./result/statistics.csv')
+    statistic_table = open('./result/statistics.csv', 'w')
+
     # print(underline_compare('a_ab', 'a11bb'))
 
     print('==================================================')
@@ -89,6 +95,19 @@ if __name__ == "__main__":
     # print(len(lines))
     total_match_count = 0
     total_not_match_count = 0
+    total_count = 0
+
+    headers = ['文件名']
+    for stage_iter in range(len(lines)):
+        line_by_stage = lines[stage_iter + 1]
+        for line_iter in range(len(line_by_stage)):
+            if len(line_by_stage[line_iter + 1]) == 2:
+                headers.append(line_by_stage[line_iter + 1][1])
+            else:
+                headers.append(line_by_stage[line_iter + 1][1] + ' 或 ' + line_by_stage[line_iter + 1][2])
+    # statistic_table.write(codecs.BOM_UTF8)  # 解决乱码问题
+    csv_writer = csv.writer(statistic_table, dialect='excel')
+    csv_writer.writerow(headers)
 
     for realFileName in wholeRealFileName:
 
@@ -112,6 +131,8 @@ if __name__ == "__main__":
             splitPFRecords = infItemTuple[1]
             splitPMID = infItemTuple[2]
             splitPFID = infItemTuple[3]
+            total_count += len(splitPFID)
+            total_count += len(splitPMID)
             # print(splitPMID)
 
             # start to store compare item
@@ -124,12 +145,13 @@ if __name__ == "__main__":
         # start to compare
         # print(PMIDList)
         # compare_and_count_with_strategy(realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList)
-        match_count, not_match_count = non_identity_compare(realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList)
+        match_count, not_match_count = non_identity_compare(realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList, csv_writer)
         total_match_count += match_count
         total_not_match_count += not_match_count
 
     # output_result()
     # print('_aa'.split('_'))
+    csv_line = ['total_count']
     statistic_file = open('./result/statistics.txt', 'a')
     print('', file=statistic_file)
     print('total count', file=statistic_file)
@@ -138,4 +160,7 @@ if __name__ == "__main__":
         for line_iter in range(len(match_by_file[stage_iter + 1])):
             print('stage {} line {} has {} match, expect {}.'.format(stage_iter + 1, line_iter + 1, match_by_stage[line_iter + 1],
                                                                     lines[stage_iter + 1][line_iter + 1]), file=statistic_file)
+            csv_line.append(match_by_stage[line_iter + 1])
+    csv_writer.writerow(csv_line)
     print('====================   finished, match {}, not match {}   ===================='.format(total_match_count, total_not_match_count))
+    # print(total_count, ' ', len(wholeRealFileName))
