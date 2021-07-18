@@ -1,0 +1,209 @@
+    % adding nodes
+    \node (start) [startstop] {Start};
+    \node (pro1) [process, below of=start] {下降检查单};
+    \node (pro2) [process, below of=pro1] {着陆高度\_};
+    \node (pro3) [process, below of=pro2] {自动刹车};
+    \node (pro4) [process, below of=pro3] {\_};
+    \node (pro5) [process, below of=pro4] {着陆数据};
+    \node (pro6) [process, below of=pro5] {核实};
+    \node (pro7) [process, below of=pro6] {下降检查单完成};
+    \node (pro8) [process, below of=pro7] {高度表};
+    \node (pro9) [process, below of=pro8] {\_};
+    \node (pro10) [process, below of=pro9] {航道导航频率调定};
+    \node (pro11) [process, below of=pro10] {核实};
+    \node (pro12) [process, below of=pro11] {进近检查单完成};
+    \node (pro13) [process, below of=pro12] {10000};
+    \node (pro14) [process, below of=pro13] {襟翼\_};
+    \node (pro15) [process, below of=pro14] {襟翼\_};
+    \node (pro16) [process, below of=pro15] {襟翼\_到位};
+    \node (pro17) [process, below of=pro16] {证实};
+    \node (pro18) [process, below of=pro17] {APP预位\ 或\ VOR/LOC预位};
+    \node (pro19) [process, below of=pro18] {航道截获};
+    \node (pro20) [process, below of=pro19] {证实};
+    \node (pro21) [process, below of=pro20] {放轮襟翼15};
+    \node (pro22) [process, below of=pro21] {放轮襟翼15};
+    \node (pro23) [process, below of=pro22] {襟翼15速度};
+    \node (pro24) [process, below of=pro23] {襟翼30/40};
+    \node (pro25) [process, below of=pro24] {襟翼30/40};
+    \node (pro26) [process, below of=pro25] {证实};
+    \node (pro27) [process, below of=pro26] {发动机启动电门};
+    \node (pro28) [process, below of=pro27] {连续};
+    \node (pro29) [process, below of=pro28] {减速板};
+    \node (pro30) [process, below of=pro29] {预位};
+    \node (pro31) [process, below of=pro30] {起落架};
+    \node (pro32) [process, below of=pro31] {放下};
+    \node (pro33) [process, below of=pro32] {\_绿灯};
+    \node (pro34) [process, below of=pro33] {APU引气按需设置};
+    \node (pro35) [process, below of=pro34] {核实};
+    \node (pro36) [process, below of=pro35] {1000稳定\ 或\ 1000不稳定};
+    \node (pro37) [process, below of=pro36] {检查开灯\ 或\ 复飞};
+    \node (pro38) [process, below of=pro37] {500稳定\ 或\ 500不稳定};
+    \node (pro39) [process, below of=pro38] {差100};
+    \node (pro40) [process, below of=pro39] {继续};
+    \node (pro41) [process, below of=pro40] {300稳定\ 或\ 300不稳定};
+    \node (pro42) [process, below of=pro41] {继续/落地};
+    \node (pro43) [process, below of=pro42] {减速板升起\ 或\ 无减速板};
+    \node (pro44) [process, below of=pro43] {自动刹车工作\ 或\ 自动刹车解除};
+    \node (pro45) [process, below of=pro44] {反推正常\ 或\ \_发无反推/无反推};
+    \node (stop) [startstop, below of=pro45] {Stop};
+
+    \node (pro46) [process, right of=pro1, xshift=2.5cm] {增压};
+
+    \node (pro47) [process, right of=pro2, xshift=2.5cm] {再现};
+    \node (pro48) [process, below of=pro47] {检查};
+
+    \node (pro49) [process, right of=pro5, xshift=2.5cm] {VREF\_Minimums\_};
+    \node (pro50) [process, below of=pro49] {进近简令};
+    \node (pro51) [process, below of=pro50] {完成};
+    \node (pro52) [process, below of=pro51] {最大着陆重量};
+
+    \node (pro53) [process, left of=pro7, xshift=-2.5cm] {过渡高度层};
+    \node (pro54) [process, below of=pro53] {高度表\_};
+    \node (pro55) [process, below of=pro54] {进近检查单};
+
+    \node (pro56) [process, right of=pro12, xshift=2.5cm] {开灯};
+
+    \node (pro57) [process, right of=pro15, xshift=2.5cm] {襟翼\_速度};
+
+    \node (pro58) [process, right of=pro16, xshift=2.5cm] {自动驾驶\_航道\_ILS识别码\_};
+
+    \node (pro59) [process, right of=pro19, xshift=2.5cm] {进近航向\_APP预位};
+
+    \node (pro60) [process, right of=pro20, xshift=2.5cm] {下滑道移动};
+
+    \node (pro61) [process, right of=pro23, xshift=2.5cm] {下滑道截获};
+
+    \node (pro62) [process, right of=pro25, xshift=2.5cm] {进近速度\_};
+    \node (pro63) [process, below of=pro62] {复飞高度\_};
+
+    \node (pro64) [process, left of=pro26, xshift=-2.5cm] {着陆检查单};
+
+    \node (pro65) [process, right of=pro32, xshift=2.5cm] {襟翼};
+
+    \node (pro66) [process, right of=pro35, xshift=2.5cm] {着陆检查单完成};
+    \node (pro67) [process, below of=pro66] {OM/FAP高度\_};
+    \node (pro68) [process, below of=pro67] {检查};
+
+    \node (pro69) [process, right of=pro38, xshift=2.5cm] {检查};
+    \node (pro70) [process, below of=pro69] {拉平预位};
+
+    \node (pro71) [process, right of=pro41, xshift=2.5cm] {检查\ 或\ 复飞};
+    \node (pro72) [process, below of=pro71] {频闪灯};
+    \node (pro73) [process, below of=pro72] {MINIMUMS\_};
+
+    \node (pro74) [process, right of=pro45, xshift=2.5cm] {60};
+    \node (pro75) [process, below of=pro74] {自动刹车解除};
+
+    % adding arrows
+    \draw [arrow] (start) -- (pro1);
+    \draw [arrow] (pro1) -- (pro2);
+    \draw [arrow] (pro2) -- (pro3);
+    \draw [arrow] (pro3) -- (pro4);
+    \draw [arrow] (pro4) -- (pro5);
+    \draw [arrow] (pro5) -- (pro6);
+    \draw [arrow] (pro6) -- (pro7);
+    \draw [arrow] (pro7) -- (pro8);
+    \draw [arrow] (pro8) -- (pro9);
+    \draw [arrow] (pro9) -- (pro10);
+    \draw [arrow] (pro10) -- (pro11);
+    \draw [arrow] (pro11) -- (pro12);
+    \draw [arrow] (pro12) -- (pro13);
+    \draw [arrow] (pro13) -- (pro14);
+    \draw [arrow] (pro14) -- (pro15);
+    \draw [arrow] (pro15) -- (pro16);
+    \draw [arrow] (pro16) -- (pro17);
+    \draw [arrow] (pro17) -- (pro18);
+    \draw [arrow] (pro18) -- (pro19);
+    \draw [arrow] (pro19) -- (pro20);
+    \draw [arrow] (pro20) -- (pro21);
+    \draw [arrow] (pro21) -- (pro22);
+    \draw [arrow] (pro22) -- (pro23);
+    \draw [arrow] (pro23) -- (pro24);
+    \draw [arrow] (pro24) -- (pro25);
+    \draw [arrow] (pro25) -- (pro26);
+    \draw [arrow] (pro26) -- (pro27);
+    \draw [arrow] (pro27) -- (pro28);
+    \draw [arrow] (pro28) -- (pro29);
+    \draw [arrow] (pro29) -- (pro30);
+    \draw [arrow] (pro30) -- (pro31);
+    \draw [arrow] (pro31) -- (pro32);
+    \draw [arrow] (pro32) -- (pro33);
+    \draw [arrow] (pro33) -- (pro34);
+    \draw [arrow] (pro34) -- (pro35);
+    \draw [arrow] (pro35) -- (pro36);
+    \draw [arrow] (pro36) -- (pro37);
+    \draw [arrow] (pro37) -- (pro38);
+    \draw [arrow] (pro38) -- (pro39);
+    \draw [arrow] (pro39) -- (pro40);
+    \draw [arrow] (pro40) -- (pro41);
+    \draw [arrow] (pro41) -- (pro42);
+    \draw [arrow] (pro42) -- (pro43);
+    \draw [arrow] (pro43) -- (pro44);
+    \draw [arrow] (pro44) -- (pro45);
+    \draw [arrow] (pro45) -- (stop);
+
+    \draw [arrow] (pro1) -- (pro46);
+    \draw [arrow] (pro46) -- (pro2);
+
+    \draw [arrow] (pro2) -- (pro47);
+    \draw [arrow] (pro47) -- (pro48);
+    \draw [arrow] (pro48) -- (pro3);
+
+    \draw [arrow] (pro5) -- (pro49);
+    \draw [arrow] (pro49) -- (pro50);
+    \draw [arrow] (pro50) -- (pro51);
+    \draw [arrow] (pro51) -- (pro52);
+    \draw [arrow] (pro52) -- (pro6);
+
+    \draw [arrow] (pro7) -- (pro53);
+    \draw [arrow] (pro53) -- (pro54);
+    \draw [arrow] (pro54) -- (pro55);
+    \draw [arrow] (pro55) -- (pro8);
+
+    \draw [arrow] (pro12) -- (pro56);
+    \draw [arrow] (pro56) -- (pro13);
+
+    \draw [arrow] (pro15) -- (pro57);
+    \draw [arrow] (pro57) -- (pro16);
+
+    \draw [arrow] (pro16) -- (pro58);
+    \draw [arrow] (pro58) -- (pro17);
+
+    \draw [arrow] (pro19) -- (pro59);
+    \draw [arrow] (pro59) -- (pro20);
+
+    \draw [arrow] (pro20) -- (pro60);
+    \draw [arrow] (pro60) -- (pro21);
+
+    \draw [arrow] (pro23) -- (pro61);
+    \draw [arrow] (pro61) -- (pro24);
+
+    \draw [arrow] (pro25) -- (pro62);
+    \draw [arrow] (pro62) -- (pro63);
+    \draw [arrow] (pro63) -- (pro26);
+
+    \draw [arrow] (pro26) -- (pro64);
+    \draw [arrow] (pro64) -- (pro27);
+
+    \draw [arrow] (pro32) -- (pro65);
+    \draw [arrow] (pro65) -- (pro33);
+
+    \draw [arrow] (pro35) -- (pro66);
+    \draw [arrow] (pro66) -- (pro67);
+    \draw [arrow] (pro67) -- (pro68);
+    \draw [arrow] (pro68) -- (pro36);
+
+    \draw [arrow] (pro38) -- (pro69);
+    \draw [arrow] (pro69) -- (pro70);
+    \draw [arrow] (pro70) -- (pro39);
+
+    \draw [arrow] (pro41) -- (pro71);
+    \draw [arrow] (pro71) -- (pro72);
+    \draw [arrow] (pro72) -- (pro73);
+    \draw [arrow] (pro73) -- (pro42);
+
+    \draw [arrow] (pro45) -- (pro74);
+    \draw [arrow] (pro74) -- (pro75);
+    \draw [arrow] (pro75) -- (stop);
+
+

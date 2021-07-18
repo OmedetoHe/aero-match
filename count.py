@@ -10,6 +10,7 @@ from compare import match_by_file
 # from compare import output_result
 # from compare import underline_compare
 from compare import lines
+from drawFlowChart import draw_flow_chart
 
 
 def parse_json(jsonpath):
@@ -163,4 +164,5 @@ if __name__ == "__main__":
             csv_line.append(match_by_stage[line_iter + 1])
     csv_writer.writerow(csv_line)
     print('====================   finished, match {}, not match {}   ===================='.format(total_match_count, total_not_match_count))
+    draw_flow_chart(match_by_file, lines)
     # print(total_count, ' ', len(wholeRealFileName))
