@@ -10,6 +10,7 @@ from compare import match_by_file
 # from compare import output_result
 # from compare import underline_compare
 from compare import lines
+from compare import reliance
 from drawFlowChart import draw_flow_chart
 
 
@@ -60,6 +61,8 @@ if __name__ == "__main__":
         os.remove('./result/statistics.txt')
     if os.path.exists('./result/statistics.csv'):
         os.remove('./result/statistics.csv')
+    if os.path.exists('./result/corresponding.txt'):
+        os.remove('./result/corresponding.txt')
     statistic_table = open('./result/statistics.csv', 'w')
 
     # print(underline_compare('a_ab', 'a11bb'))
@@ -99,13 +102,17 @@ if __name__ == "__main__":
     total_count = 0
 
     headers = ['文件名']
+    actual_by_file = {}
     for stage_iter in range(len(lines)):
         line_by_stage = lines[stage_iter + 1]
+        actual_by_stage = {}
         for line_iter in range(len(line_by_stage)):
+            actual_by_stage[line_iter + 1] = []
             if len(line_by_stage[line_iter + 1]) == 2:
                 headers.append(line_by_stage[line_iter + 1][1])
             else:
                 headers.append(line_by_stage[line_iter + 1][1] + ' 或 ' + line_by_stage[line_iter + 1][2])
+        actual_by_file[stage_iter + 1] = actual_by_stage
     # statistic_table.write(codecs.BOM_UTF8)  # 解决乱码问题
     csv_writer = csv.writer(statistic_table, dialect='excel')
     csv_writer.writerow(headers)
@@ -146,9 +153,20 @@ if __name__ == "__main__":
         # start to compare
         # print(PMIDList)
         # compare_and_count_with_strategy(realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList)
-        match_count, not_match_count = non_identity_compare(realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList, csv_writer)
+        match_count, not_match_count = non_identity_compare(
+            realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList, csv_writer, actual_by_file)
         total_match_count += match_count
         total_not_match_count += not_match_count
+
+    corresponding = open('./result/corresponding.txt', 'w')
+    for stage_iter in range(len(actual_by_file)):
+        actual_by_stage = actual_by_file[stage_iter + 1]
+        for line_iter in range(len(actual_by_stage)):
+            print('stage {} line {} expect {}'.format(stage_iter + 1, line_iter + 1, lines[stage_iter + 1][line_iter + 1]), file=corresponding)
+            certain_list = actual_by_stage[line_iter + 1]
+            for certain_iter in range(len(certain_list)):
+                print('actual {}'.format(certain_list[certain_iter][1]), file=corresponding)
+            print('', file=corresponding)
 
     # output_result()
     # print('_aa'.split('_'))
@@ -164,5 +182,5 @@ if __name__ == "__main__":
             csv_line.append(match_by_stage[line_iter + 1])
     csv_writer.writerow(csv_line)
     print('====================   finished, match {}, not match {}   ===================='.format(total_match_count, total_not_match_count))
-    draw_flow_chart(match_by_file, lines)
+    draw_flow_chart(match_by_file, lines, reliance)
     # print(total_count, ' ', len(wholeRealFileName))

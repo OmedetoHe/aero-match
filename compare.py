@@ -3,6 +3,7 @@ current_stage = 1
 current_line_number = 1
 # current_line_number 同理代表当前阶段预期获得的喊话序号
 lines = {}
+reliance = {}
 # line 存储全部喊话内容
 expect_next_line = ('PF', '下降检查单')
 # expect_next_line 预期的下一个喊话
@@ -53,6 +54,7 @@ def init_lines():
         lines_statistic[i + 1] = []
         file_short_of[i + 1] = []
         match_by_stage[i + 1] = 0
+        reliance[len(reliance) + 1] = -1
     lines_statistics[1] = lines_statistic
     files_short_of[1] = file_short_of
     match_by_file[1] = match_by_stage
@@ -69,43 +71,45 @@ def init_lines():
     stage_lines[7] = ('PF', 'APP预位', 'VOR/LOC预位')
 
     stage_lines[8] = ('PM', '航道截获')
-    stage_lines[9] = ('PF', '进近航向_APP预位')
-    stage_lines[10] = ('PM', '证实')
+    stage_lines[9] = ('PF', '进近航向_')
+    stage_lines[10] = ('PF', 'APP预位')
+    stage_lines[11] = ('PM', '证实')
 
-    stage_lines[11] = ('PM', '下滑道移动')
-    stage_lines[12] = ('PF', '放轮襟翼15')
-    stage_lines[13] = ('PM', '放轮襟翼15')
-    stage_lines[14] = ('PF', '襟翼15速度')
+    stage_lines[12] = ('PM', '下滑道移动')
+    stage_lines[13] = ('PF', '放轮襟翼15')
+    stage_lines[14] = ('PM', '放轮襟翼15')
+    stage_lines[15] = ('PF', '襟翼15速度')
 
-    stage_lines[15] = ('PM', '下滑道截获')
-    stage_lines[16] = ('PF', '襟翼30/40')
-    stage_lines[17] = ('PM', '襟翼30/40')
-    stage_lines[18] = ('PF', '进近速度_')
+    stage_lines[16] = ('PM', '下滑道截获')
+    stage_lines[17] = ('PF', '襟翼30/40')
+    stage_lines[18] = ('PM', '襟翼30/40')
+    stage_lines[19] = ('PF', '进近速度_')
 
-    stage_lines[19] = ('PF', '复飞高度_')
-    stage_lines[20] = ('PM', '证实')
-    stage_lines[21] = ('PF', '着陆检查单')
-    stage_lines[22] = ('PF', '发动机启动电门')
-    stage_lines[23] = ('PM', '连续')
-    stage_lines[24] = ('PF', '减速板')
-    stage_lines[25] = ('PM', '预位')
-    stage_lines[26] = ('PF', '起落架')
-    stage_lines[27] = ('PM', '放下')
-    stage_lines[28] = ('PF', '襟翼')
-    stage_lines[29] = ('PM', '_绿灯')
-    stage_lines[30] = ('PF', 'APU引气按需设置')
-    stage_lines[31] = ('PM', '核实')
-    stage_lines[32] = ('PM', '着陆检查单完成')
+    stage_lines[20] = ('PF', '复飞高度_')
+    stage_lines[21] = ('PM', '证实')
+    stage_lines[22] = ('PF', '着陆检查单')
+    stage_lines[23] = ('PF', '发动机启动电门')
+    stage_lines[24] = ('PM', '连续')
+    stage_lines[25] = ('PF', '减速板')
+    stage_lines[26] = ('PM', '预位')
+    stage_lines[27] = ('PF', '起落架')
+    stage_lines[28] = ('PM', '放下')
+    stage_lines[29] = ('PF', '襟翼')
+    stage_lines[30] = ('PM', '_绿灯')
+    stage_lines[31] = ('PF', 'APU引气按需设置')
+    stage_lines[32] = ('PM', '核实')
+    stage_lines[33] = ('PM', '着陆检查单完成')
 
     lines[2] = stage_lines
 
     lines_statistic = {}
     file_short_of = {}
     match_by_stage = {}
-    for i in range(32):
+    for i in range(33):
         lines_statistic[i + 1] = []
         file_short_of[i + 1] = []
         match_by_stage[i + 1] = 0
+        reliance[len(reliance) + 1] = -1
     lines_statistics[2] = lines_statistic
     files_short_of[2] = file_short_of
     match_by_file[2] = match_by_stage
@@ -142,6 +146,7 @@ def init_lines():
         lines_statistic[i + 1] = []
         file_short_of[i + 1] = []
         match_by_stage[i + 1] = 0
+        reliance[len(reliance) + 1] = -1
     lines_statistics[3] = lines_statistic
     files_short_of[3] = file_short_of
     match_by_file[3] = match_by_stage
@@ -167,6 +172,7 @@ def init_lines():
         lines_statistic[i + 1] = []
         file_short_of[i + 1] = []
         match_by_stage[i + 1] = 0
+        reliance[len(reliance) + 1] = -1
     lines_statistics[4] = lines_statistic
     files_short_of[4] = file_short_of
     match_by_file[4] = match_by_stage
@@ -656,7 +662,7 @@ def ahead_match(start_stage, start_line_number, identity, actual_string):
     return False, -1, -1, -1
 
 
-def non_identity_compare(real_file_name, split_num_list, pm_records_list, pf_records_list, pm_id_list, pf_id_list, csv_writer):
+def non_identity_compare(real_file_name, split_num_list, pm_records_list, pf_records_list, pm_id_list, pf_id_list, csv_writer, actual_by_file):
 
     print('====================   file {} comparison start   ===================='.format(real_file_name))
     # 初始化统计列表
@@ -692,6 +698,7 @@ def non_identity_compare(real_file_name, split_num_list, pm_records_list, pf_rec
                 match_list.append((split_num_list[split_iter], pf_id[pf_iter], 'PF', certain_record))
                 flag_by_file[match_stage][match_line] += 1
                 match_by_file[match_stage][match_line] += 1
+                actual_by_file[match_stage][match_line].append(certain_record)
 
         # pm 部分的比较
         for pm_iter in range(len(pm_id)):
@@ -708,6 +715,7 @@ def non_identity_compare(real_file_name, split_num_list, pm_records_list, pf_rec
                 match_list.append((split_num_list[split_iter], pm_id[pm_iter], 'PM', certain_record))
                 flag_by_file[match_stage][match_line] += 1
                 match_by_file[match_stage][match_line] += 1
+                actual_by_file[match_stage][match_line].append(certain_record)
 
     # 输出结果
     match_file = open('./result/match.txt', 'a')
@@ -757,8 +765,14 @@ def match_by_process(actual_string, flag):
 
 def compare_line(expect_string, actual_string):
     cer_file = open('./result/cer.txt', 'a')
-    if '_' in expect_string:
-        return underline_compare(expect_string, actual_string)
+    if '检查单' in expect_string or '检查单' in actual_string:
+        calculate_cer = cer([x for x in expect_string], [x for x in actual_string])
+        print('{} {} have cer {}'.format(expect_string, actual_string, calculate_cer), file=cer_file)
+        # return expect_string == actual_string
+        if calculate_cer <= 0:
+            return True
+        else:
+            return False
     elif '#' in actual_string:
         translations = actual_string.split('#')
         calculate_cer = cer([x for x in expect_string], [x for x in translations[1]])
@@ -768,6 +782,8 @@ def compare_line(expect_string, actual_string):
             return True
         else:
             return False
+    elif '_' in expect_string:
+        return underline_compare(expect_string, actual_string)
     else:
         calculate_cer = cer([x for x in expect_string], [x for x in actual_string])
         print('{} {} have cer {}'.format(expect_string, actual_string, calculate_cer), file=cer_file)
