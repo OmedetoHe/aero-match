@@ -1,3 +1,5 @@
+from order import Text2order
+
 current_stage = 1
 # current_stage 代表当前到达的阶段，1代表下降，2代表进近，3代表着陆，4代表着陆滑跑
 current_line_number = 1
@@ -13,7 +15,7 @@ files_short_of = {}
 lines_statistics = {}
 match_by_file = {}
 
-def init_lines():
+def init_lines(reco):
     print('====================   lines initialization   ====================')
 
     # stage 1
@@ -57,7 +59,7 @@ def init_lines():
         reliance[len(reliance) + 1] = -1
     lines_statistics[1] = lines_statistic
     files_short_of[1] = file_short_of
-    match_by_file[1] = match_by_stage
+    # match_by_file[1] = match_by_stage
 
     # stage 2
     stage_lines = {}
@@ -112,7 +114,7 @@ def init_lines():
         reliance[len(reliance) + 1] = -1
     lines_statistics[2] = lines_statistic
     files_short_of[2] = file_short_of
-    match_by_file[2] = match_by_stage
+    # match_by_file[2] = match_by_stage
 
     # stage 3
     stage_lines = {}
@@ -149,7 +151,7 @@ def init_lines():
         reliance[len(reliance) + 1] = -1
     lines_statistics[3] = lines_statistic
     files_short_of[3] = file_short_of
-    match_by_file[3] = match_by_stage
+    # match_by_file[3] = match_by_stage
 
     # stage 4
     stage_lines = {}
@@ -175,9 +177,15 @@ def init_lines():
         reliance[len(reliance) + 1] = -1
     lines_statistics[4] = lines_statistic
     files_short_of[4] = file_short_of
-    match_by_file[4] = match_by_stage
+    # match_by_file[4] = match_by_stage
     files_short_of[-1] = {}
     files_short_of[-1][-1] = []
+    for stage_iter in reco.order_dict.keys():
+        line_by_stage = reco.order_dict[stage_iter]
+        match_by_stage = {}
+        for line_iter in line_by_stage.keys():
+            match_by_stage[line_iter] = 0
+        match_by_file[stage_iter] = match_by_stage
 
 
 def reset_count_process(real_file_count):
@@ -918,3 +926,97 @@ def output_result():
         print('file {} split {} id {} label {} text {}'.format(output_tuple[0], output_tuple[1], output_tuple[2], output_tuple[3], output_tuple[4][1]), file=not_match_file)
 
     print('====================   finished, match {}, not match {}   ===================='.format(total_match, total_not_match))
+
+
+def text2order_compare(real_file_name, split_num_list, pm_records_list, pf_records_list, pm_id_list, pf_id_list, csv_writer, reco, actual_by_file):
+
+    print('====================   file {} comparison start   ===================='.format(real_file_name))
+    # 初始化统计列表
+    flag_by_file = {}
+    for stage_iter in reco.order_dict.keys():
+        flag_by_stage = {}
+        for line_iter in reco.order_dict[stage_iter].keys():
+            flag_by_stage[line_iter] = 0
+        flag_by_file[stage_iter] = flag_by_stage
+    match_list = []
+    not_match_list = []
+
+    # 开始循环比较
+    for split_iter in range(len(split_num_list)):
+        print('====================   split {} comparison start   ===================='.format(split_num_list[split_iter]))
+        pm_records = pm_records_list[split_iter]
+        pf_records = pf_records_list[split_iter]
+        pm_id = pm_id_list[split_iter]
+        pf_id = pf_id_list[split_iter]
+
+        # pf 部分的比较
+        for pf_iter in range(len(pf_id)):
+            certain_record = pf_records[pf_id[pf_iter]]
+
+            #注意去除@
+            if '@' in certain_record[1]:
+                continue
+
+            compare_result, match_pos_list = reco.text2order(certain_record[1])
+            if not compare_result:
+                not_match_list.append((split_num_list[split_iter], pf_id[pf_iter], 'PF', certain_record))
+            else:
+                match_list.append((split_num_list[split_iter], pf_id[pf_iter], 'PF', certain_record))
+                for item in match_pos_list:
+                    match_stage = item[0]
+                    match_line = item[1]
+
+                    flag_by_file[match_stage][match_line] += 1
+                    match_by_file[match_stage][match_line] += 1
+                    actual_by_file[match_stage][match_line].append(certain_record)
+
+
+        # pm 部分的比较
+        for pm_iter in range(len(pm_id)):
+            certain_record = pm_records[pm_id[pm_iter]]
+
+            # 注意去除@
+            if '@' in certain_record[1]:
+                continue
+
+            compare_result, match_pos_list = reco.text2order(certain_record[1])
+            if not compare_result:
+                not_match_list.append((split_num_list[split_iter], pm_id[pm_iter], 'PM', certain_record))
+            else:
+                match_list.append((split_num_list[split_iter], pm_id[pm_iter], 'PM', certain_record))
+                for item in match_pos_list:
+                    match_stage = item[0]
+                    match_line = item[1]
+
+                    flag_by_file[match_stage][match_line] += 1
+                    match_by_file[match_stage][match_line] += 1
+                    actual_by_file[match_stage][match_line].append(certain_record)
+
+    # 输出结果
+    match_file = open('./result/match.txt', 'a')
+    print('file {} has {} match.'.format(real_file_name, len(match_list)), file=match_file)
+    for match_iter in range(len(match_list)):
+        output_tuple = match_list[match_iter]
+        print('split {} id {} label {} text {}'.format(output_tuple[0], output_tuple[1], output_tuple[2],
+                                                       output_tuple[3][1]), file=match_file)
+
+    not_match_file = open('./result/not_match.txt', 'a')
+    print('file {} has {} not match.'.format(real_file_name, len(not_match_list)), file=not_match_file)
+    for not_match_iter in range(len(not_match_list)):
+        output_tuple = not_match_list[not_match_iter]
+        print('split {} id {} label {} text {}'.format(output_tuple[0], output_tuple[1], output_tuple[2],
+                                                       output_tuple[3][1]), file=not_match_file)
+
+    csv_line = [real_file_name]
+    statistic_file = open('./result/statistics.txt', 'a')
+    print('file {}'.format(real_file_name), file=statistic_file)
+    for stage_iter in reco.order_dict.keys():
+        flag_by_stage = flag_by_file[stage_iter]
+        for line_iter in reco.order_dict[stage_iter].keys():
+            print('stage {} line {} has {} match, expect {}.'.format(stage_iter, line_iter,
+                                                                     flag_by_stage[line_iter],
+                                                                     line_iter),
+                  file=statistic_file)
+            csv_line.append(flag_by_stage[line_iter])
+    csv_writer.writerow(csv_line)
+    return len(match_list), len(not_match_list)

@@ -4,7 +4,7 @@ import csv
 import codecs
 # from compare import reset_count_process
 # from compare import compare_and_count_with_strategy
-from compare import init_lines
+from compare import init_lines, text2order_compare
 from compare import non_identity_compare
 from compare import match_by_file
 # from compare import output_result
@@ -12,6 +12,7 @@ from compare import match_by_file
 from compare import lines
 from compare import reliance
 from drawFlowChart import draw_flow_chart
+from order import Text2order
 
 
 def parse_json(jsonpath):
@@ -65,6 +66,8 @@ if __name__ == "__main__":
         os.remove('./result/corresponding.txt')
     statistic_table = open('./result/statistics.csv', 'w')
 
+    reco = Text2order('./order_for_match.json')
+
     # print(underline_compare('a_ab', 'a11bb'))
 
     print('==================================================')
@@ -95,7 +98,7 @@ if __name__ == "__main__":
     wholeRealFileName.sort()
 
     # print(len(lines))
-    init_lines()
+    init_lines(reco)
     # print(len(lines))
     total_match_count = 0
     total_not_match_count = 0
@@ -103,6 +106,7 @@ if __name__ == "__main__":
 
     headers = ['文件名']
     actual_by_file = {}
+    '''
     for stage_iter in range(len(lines)):
         line_by_stage = lines[stage_iter + 1]
         actual_by_stage = {}
@@ -114,6 +118,14 @@ if __name__ == "__main__":
                 headers.append(line_by_stage[line_iter + 1][1] + ' 或 ' + line_by_stage[line_iter + 1][2])
         actual_by_file[stage_iter + 1] = actual_by_stage
     # statistic_table.write(codecs.BOM_UTF8)  # 解决乱码问题
+    '''
+    for stage_iter in reco.order_dict.keys():
+        line_by_stage = reco.order_dict[stage_iter]
+        actual_by_stage = {}
+        for line_iter in line_by_stage.keys():
+            actual_by_stage[line_iter] = []
+            headers.append(line_iter)
+        actual_by_file[stage_iter] = actual_by_stage
     csv_writer = csv.writer(statistic_table, dialect='excel')
     csv_writer.writerow(headers)
 
@@ -153,21 +165,24 @@ if __name__ == "__main__":
         # start to compare
         # print(PMIDList)
         # compare_and_count_with_strategy(realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList)
-        match_count, not_match_count = non_identity_compare(
-            realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList, csv_writer, actual_by_file)
+        # match_count, not_match_count = non_identity_compare(
+        #     realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList, csv_writer, actual_by_file)
+        match_count, not_match_count = text2order_compare(
+            realFileName, sortedSplitNumList, PMRecordsList, PFRecordsList, PMIDList, PFIDList, csv_writer, reco, actual_by_file)
         total_match_count += match_count
         total_not_match_count += not_match_count
 
+    '''
     corresponding = open('./result/corresponding.txt', 'w')
     for stage_iter in range(len(actual_by_file)):
         actual_by_stage = actual_by_file[stage_iter + 1]
         for line_iter in range(len(actual_by_stage)):
-            print('stage {} line {} expect {}'.format(stage_iter + 1, line_iter + 1, lines[stage_iter + 1][line_iter + 1]), file=corresponding)
+            print('stage {} line {} expect {}'.format(stage_iter + 1, line_iter + 1,
+                                                      lines[stage_iter + 1][line_iter + 1]), file=corresponding)
             certain_list = actual_by_stage[line_iter + 1]
             for certain_iter in range(len(certain_list)):
                 print('actual {}'.format(certain_list[certain_iter][1]), file=corresponding)
             print('', file=corresponding)
-
     # output_result()
     # print('_aa'.split('_'))
     csv_line = ['total_count']
@@ -180,6 +195,32 @@ if __name__ == "__main__":
             print('stage {} line {} has {} match, expect {}.'.format(stage_iter + 1, line_iter + 1, match_by_stage[line_iter + 1],
                                                                     lines[stage_iter + 1][line_iter + 1]), file=statistic_file)
             csv_line.append(match_by_stage[line_iter + 1])
+    csv_writer.writerow(csv_line)
+    '''
+    corresponding = open('./result/corresponding.txt', 'w')
+    for stage_iter in actual_by_file.keys():
+        actual_by_stage = actual_by_file[stage_iter]
+        for line_iter in actual_by_stage.keys():
+            print('stage {} line {} expect {}'.format(stage_iter, line_iter,
+                                                      line_iter), file=corresponding)
+            certain_list = actual_by_stage[line_iter]
+            for certain_iter in range(len(certain_list)):
+                print('actual {}'.format(certain_list[certain_iter][1]), file=corresponding)
+            print('', file=corresponding)
+    # output_result()
+    # print('_aa'.split('_'))
+    csv_line = ['total_count']
+    statistic_file = open('./result/statistics.txt', 'a')
+    print('', file=statistic_file)
+    print('total count', file=statistic_file)
+    for stage_iter in match_by_file.keys():
+        match_by_stage = match_by_file[stage_iter]
+        for line_iter in match_by_stage.keys():
+            print('stage {} line {} has {} match, expect {}.'.format(stage_iter, line_iter,
+                                                                     match_by_stage[line_iter],
+                                                                     line_iter),
+                  file=statistic_file)
+            csv_line.append(match_by_stage[line_iter])
     csv_writer.writerow(csv_line)
     print('====================   finished, match {}, not match {}   ===================='.format(total_match_count, total_not_match_count))
     draw_flow_chart(match_by_file, lines, reliance)

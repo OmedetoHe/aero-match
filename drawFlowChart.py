@@ -1,4 +1,8 @@
+import json
+
+
 def draw_flow_chart(match_by_file, lines, reliance):
+    """
     # 确保一一对应的指令位置正确
     reliance[3] = 2     # stage 1
     reliance[5] = 4
@@ -25,6 +29,7 @@ def draw_flow_chart(match_by_file, lines, reliance):
 
     reliance[61] = 60       # stage 3
     reliance[68] = 67
+    """
 
     flow_chart_output = open("./result/flow_chart_output.txt", 'w')
     node_output = '    % adding nodes\n'
@@ -36,6 +41,7 @@ def draw_flow_chart(match_by_file, lines, reliance):
     last_count = 60
     total_count = 0
     last_type = {0: 1}
+    '''
     for stage_iter in range(len(match_by_file)):
         match_by_stage = match_by_file[stage_iter + 1]
         for line_iter in range(len(match_by_stage)):
@@ -65,7 +71,39 @@ def draw_flow_chart(match_by_file, lines, reliance):
                     last_type[total_count] = -1
 
             last_count = line_count
+    '''
+    json_path = "./order_for_match.json"
+    fp = open(json_path, 'r', encoding='utf-8')
+    order_dict = json.load(fp)
+    for stage_iter in match_by_file.keys():
+        match_by_stage = match_by_file[stage_iter]
+        for line_iter in match_by_stage.keys():
+            total_count += 1
+            line_count = match_by_stage[line_iter]
+            certain_line = (order_dict[stage_iter][line_iter], line_iter)
+            if '检查单' in certain_line[1]:
+                higher_appearance_list.append((certain_line, line_count))
+                last_type[total_count] = 1
+            elif reliance[total_count] != -1 and last_type[reliance[total_count]] == -1:
+                lower_appearance_list[len(lower_appearance_list) - 1].append((certain_line, line_count))
+                last_type[total_count] = -1
+            elif reliance[total_count] != -1 and last_type[reliance[total_count]] == 1:
+                higher_appearance_list.append((certain_line, line_count))
+                last_type[total_count] = 1
+            else:
+                if line_count > -1:
+                    higher_appearance_list.append((certain_line, line_count))
+                    last_type[total_count] = 1
+                else:
+                    if last_type[total_count - 1] == 1:
+                        lower_appearance = [(certain_line, line_count)]
+                        lower_appearance_list.append(lower_appearance)
+                        lower_start_list.append(len(higher_appearance_list))
+                    else:
+                        lower_appearance_list[len(lower_appearance_list) - 1].append((certain_line, line_count))
+                    last_type[total_count] = -1
 
+            last_count = line_count
     # 生成 node\arrow 部分
     node_output += '    \\node (start) [startstop] {Start};\n'
     last_node = 'start'
@@ -124,10 +162,10 @@ def draw_flow_chart(match_by_file, lines, reliance):
             if list_iter == 0:
                 if final_shift < 0:
                     node_output += '    \\node (pro{}) [processOptional{}, left of={}, xshift={}cm] {{{}}};\n'.format(
-                        process_count, lower_appearance[list_iter][0][0], last_node, final_shift * 4, actual_line.replace('_', '\_') + '：' + str(lower_appearance[list_iter][1]) + '次')
+                        process_count, lower_appearance[list_iter][0][0], last_node, final_shift * 8, actual_line.replace('_', '\_') + '：' + str(lower_appearance[list_iter][1]) + '次')
                 else:
                     node_output += '    \\node (pro{}) [processOptional{}, right of={}, xshift={}cm] {{{}}};\n'.format(
-                        process_count, lower_appearance[list_iter][0][0], last_node, final_shift * 4, actual_line.replace('_', '\_') + '：' + str(lower_appearance[list_iter][1]) + '次')
+                        process_count, lower_appearance[list_iter][0][0], last_node, final_shift * 8, actual_line.replace('_', '\_') + '：' + str(lower_appearance[list_iter][1]) + '次')
                 arrow_output += '    \\draw [arrow,dashed] ({}) -- (pro{});\n'.format(last_node, process_count)
             else:
                 node_output += '    \\node (pro{}) [processOptional{}, below of={}] {{{}}};\n'.format(

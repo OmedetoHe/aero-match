@@ -1,97 +1,73 @@
     % adding nodes
     \node (start) [startstop] {Start};
     \node (pro1) [processPF, below of=start] {下降检查单：1次};
-    \node (pro2) [processPF, below of=pro1] {自动刹车：53次};
-    \node (pro3) [processPM, below of=pro2] {\_：67次};
-    \node (pro4) [processPM, below of=pro3] {下降检查单完成：0次};
-    \node (pro5) [processPF, below of=pro4] {进近检查单：15次};
-    \node (pro6) [processPF, below of=pro5] {高度表：33次};
-    \node (pro7) [processPM, below of=pro6] {\_：67次};
-    \node (pro8) [processPF, below of=pro7] {航道导航频率调定：43次};
-    \node (pro9) [processPM, below of=pro8] {核实：59次};
-    \node (pro10) [processPM, below of=pro9] {进近检查单完成：9次};
-    \node (pro11) [processPF, below of=pro10] {襟翼\_：67次};
-    \node (pro12) [processPM, below of=pro11] {襟翼\_：64次};
-    \node (pro13) [processPF, below of=pro12] {襟翼\_速度：31次};
-    \node (pro14) [processPM, below of=pro13] {襟翼\_到位：46次};
-    \node (pro15) [processPF, below of=pro14] {APP预位：65次};
-    \node (pro16) [processPM, below of=pro15] {航道截获：42次};
-    \node (pro17) [processPF, below of=pro16] {APP预位：56次};
-    \node (pro18) [processPM, below of=pro17] {证实：45次};
-    \node (pro19) [processPF, below of=pro18] {放轮襟翼15：64次};
-    \node (pro20) [processPM, below of=pro19] {放轮襟翼15：61次};
-    \node (pro21) [processPF, below of=pro20] {襟翼15速度：58次};
-    \node (pro22) [processPF, below of=pro21] {襟翼30/40：63次};
-    \node (pro23) [processPM, below of=pro22] {襟翼30/40：62次};
-    \node (pro24) [processPF, below of=pro23] {着陆检查单：61次};
-    \node (pro25) [processPF, below of=pro24] {发动机启动电门：56次};
-    \node (pro26) [processPM, below of=pro25] {连续：63次};
-    \node (pro27) [processPF, below of=pro26] {减速板：59次};
-    \node (pro28) [processPM, below of=pro27] {预位：36次};
-    \node (pro29) [processPF, below of=pro28] {起落架：59次};
-    \node (pro30) [processPM, below of=pro29] {放下：56次};
-    \node (pro31) [processPF, below of=pro30] {APU引气按需设置：46次};
-    \node (pro32) [processPM, below of=pro31] {核实：34次};
-    \node (pro33) [processPM, below of=pro32] {着陆检查单完成：42次};
-    \node (pro34) [processPM, below of=pro33] {1000稳定：65次};
-    \node (pro35) [processPF, below of=pro34] {检查开灯：51次};
-    \node (pro36) [processPM, below of=pro35] {500稳定：55次};
-    \node (pro37) [processPM, below of=pro36] {差100：61次};
-    \node (pro38) [processPF, below of=pro37] {继续：53次};
-    \node (pro39) [processPM, below of=pro38] {300稳定：44次};
-    \node (pro40) [processPF, below of=pro39] {检查：0次};
-    \node (pro41) [processPF, below of=pro40] {继续/落地：45次};
-    \node (pro42) [processPM, below of=pro41] {自动刹车工作：35次};
-    \node (pro43) [processPM, below of=pro42] {反推正常：53次};
-    \node (stop) [startstop, below of=pro43] {Stop};
-
-    \node (pro44) [processOptionalPF, left of=pro1, xshift=-4cm] {增压：0次};
-    \node (pro45) [processOptionalPM, below of=pro44] {着陆高度\_：31次};
-    \node (pro46) [processOptionalPF, below of=pro45] {再现：0次};
-    \node (pro47) [processOptionalPM, below of=pro46] {检查：14次};
-
-    \node (pro48) [processOptionalPF, right of=pro3, xshift=4cm] {着陆数据：0次};
-    \node (pro49) [processOptionalPM, below of=pro48] {VREF\_Minimums\_：0次};
-    \node (pro50) [processOptionalPF, below of=pro49] {进近简令：3次};
-    \node (pro51) [processOptionalPM, below of=pro50] {完成：3次};
-    \node (pro52) [processOptionalPF, below of=pro51] {最大着陆重量：1次};
-    \node (pro53) [processOptionalPM, below of=pro52] {核实：64次};
-
-    \node (pro54) [processOptionalPM, left of=pro4, xshift=-8cm] {过渡高度层：15次};
-    \node (pro55) [processOptionalPF, below of=pro54] {高度表\_：11次};
-
-    \node (pro56) [processOptionalPF, left of=pro10, xshift=-4cm] {开灯：26次};
-    \node (pro57) [processOptionalPM, below of=pro56] {10000：65次};
-
-    \node (pro58) [processOptionalPF, left of=pro14, xshift=-4cm] {自动驾驶\_航道\_ILS识别码\_：3次};
-    \node (pro59) [processOptionalPM, below of=pro58] {证实：50次};
-
-    \node (pro60) [processOptionalPF, right of=pro16, xshift=4cm] {进近航向\_：26次};
-
-    \node (pro61) [processOptionalPM, left of=pro18, xshift=-4cm] {下滑道移动：29次};
-
-    \node (pro62) [processOptionalPM, left of=pro21, xshift=-4cm] {下滑道截获：26次};
-
-    \node (pro63) [processOptionalPF, left of=pro23, xshift=-4cm] {进近速度\_：9次};
-    \node (pro64) [processOptionalPF, below of=pro63] {复飞高度\_：3次};
-    \node (pro65) [processOptionalPM, below of=pro64] {证实：37次};
-
-    \node (pro66) [processOptionalPF, left of=pro30, xshift=-4cm] {襟翼：0次};
-    \node (pro67) [processOptionalPM, below of=pro66] {\_绿灯：39次};
-
-    \node (pro68) [processOptionalPM, left of=pro33, xshift=-4cm] {OM/FAP高度\_：7次};
-    \node (pro69) [processOptionalPF, below of=pro68] {检查：5次};
-
-    \node (pro70) [processOptionalPF, left of=pro36, xshift=-4cm] {检查：1次};
-    \node (pro71) [processOptionalPM, below of=pro70] {拉平预位：20次};
-
-    \node (pro72) [processOptionalPM, left of=pro40, xshift=-4cm] {频闪灯：1次};
-    \node (pro73) [processOptionalPM, below of=pro72] {MINIMUMS\_：1次};
-
-    \node (pro74) [processOptionalPM, right of=pro41, xshift=4cm] {减速板升起\ 或\ 无减速板：16次};
-
-    \node (pro75) [processOptionalPM, left of=pro43, xshift=-4cm] {60：30次};
-    \node (pro76) [processOptionalPM, below of=pro75] {自动刹车解除：18次};
+    \node (pro2) [processPF, below of=pro1] {增压：1次};
+    \node (pro3) [processPM, below of=pro2] {着陆高度\_：1次};
+    \node (pro4) [processPF, below of=pro3] {再现：1次};
+    \node (pro5) [processPM, below of=pro4] {检查：0次};
+    \node (pro6) [processPF, below of=pro5] {自动刹车：10次};
+    \node (pro7) [processPM, below of=pro6] {\_下降：0次};
+    \node (pro8) [processPF, below of=pro7] {着陆数据：1次};
+    \node (pro9) [processPM, below of=pro8] {VREF\_Minimums\_：0次};
+    \node (pro10) [processPF, below of=pro9] {进近简令：1次};
+    \node (pro11) [processPM, below of=pro10] {完成：5次};
+    \node (pro12) [processPF, below of=pro11] {最大着陆重量：1次};
+    \node (pro13) [processPM, below of=pro12] {核实：21次};
+    \node (pro14) [processPM, below of=pro13] {下降检查单完成：0次};
+    \node (pro15) [processPM, below of=pro14] {过渡高度层：15次};
+    \node (pro16) [processPF, below of=pro15] {高度表\_：16次};
+    \node (pro17) [processPF, below of=pro16] {进近检查单：26次};
+    \node (pro18) [processPF, below of=pro17] {高度表：1次};
+    \node (pro19) [processPF, below of=pro18] {航道导航频率调定：3次};
+    \node (pro20) [processPM, below of=pro19] {进近检查单完成：12次};
+    \node (pro21) [processPF, below of=pro20] {开灯：33次};
+    \node (pro22) [processPM, below of=pro21] {10000：7次};
+    \node (pro23) [processPM, below of=pro22] {襟翼\_：195次};
+    \node (pro24) [processPF, below of=pro23] {襟翼\_速度：161次};
+    \node (pro25) [processPM, below of=pro24] {襟翼\_到位：196次};
+    \node (pro26) [processPF, below of=pro25] {自动驾驶\_航道\_ILS识别码\_：34次};
+    \node (pro27) [processPM, below of=pro26] {证实：317次};
+    \node (pro28) [processPF, below of=pro27] {APP预位/VOR/LOC预位：25次};
+    \node (pro29) [processPM, below of=pro28] {航道截获：39次};
+    \node (pro30) [processPF, below of=pro29] {进近航向\_APP预位：2次};
+    \node (pro31) [processPM, below of=pro30] {下滑道移动：15次};
+    \node (pro32) [processPM, below of=pro31] {放轮襟翼15：93次};
+    \node (pro33) [processPF, below of=pro32] {襟翼15速度：45次};
+    \node (pro34) [processPM, below of=pro33] {下滑道截获：32次};
+    \node (pro35) [processPM, below of=pro34] {襟翼30/40：182次};
+    \node (pro36) [processPF, below of=pro35] {进近速度\_：2次};
+    \node (pro37) [processPF, below of=pro36] {复飞高度\_：29次};
+    \node (pro38) [processPF, below of=pro37] {着陆检查单：106次};
+    \node (pro39) [processPF, below of=pro38] {发动机启动电门：54次};
+    \node (pro40) [processPM, below of=pro39] {连续：159次};
+    \node (pro41) [processPF, below of=pro40] {减速板：64次};
+    \node (pro42) [processPM, below of=pro41] {预位：174次};
+    \node (pro43) [processPF, below of=pro42] {起落架：60次};
+    \node (pro44) [processPM, below of=pro43] {放下：88次};
+    \node (pro45) [processPF, below of=pro44] {襟翼：188次};
+    \node (pro46) [processPM, below of=pro45] {\_绿灯：166次};
+    \node (pro47) [processPF, below of=pro46] {APU引气按需设置：51次};
+    \node (pro48) [processPM, below of=pro47] {核实：251次};
+    \node (pro49) [processPM, below of=pro48] {着陆检查单完成：46次};
+    \node (pro50) [processPM, below of=pro49] {OM/FAP高度\_：14次};
+    \node (pro51) [processPF, below of=pro50] {检查：17次};
+    \node (pro52) [processPM, below of=pro51] {1000稳定：54次};
+    \node (pro53) [processPF, below of=pro52] {检查开灯/复飞：47次};
+    \node (pro54) [processPM, below of=pro53] {500稳定：46次};
+    \node (pro55) [processPM, below of=pro54] {拉平预位：0次};
+    \node (pro56) [processPM, below of=pro55] {差100：122次};
+    \node (pro57) [processPF, below of=pro56] {继续：134次};
+    \node (pro58) [processPM, below of=pro57] {300稳定：28次};
+    \node (pro59) [processPF, below of=pro58] {检查/复飞：61次};
+    \node (pro60) [processPM, below of=pro59] {频闪灯：0次};
+    \node (pro61) [processPM, below of=pro60] {MINIMUMS\_：14次};
+    \node (pro62) [processPF, below of=pro61] {继续/落地：189次};
+    \node (pro63) [processPM, below of=pro62] {减速板升起/无减速板：58次};
+    \node (pro64) [processPM, below of=pro63] {自动刹车工作：39次};
+    \node (pro65) [processPM, below of=pro64] {反推正常/\_发无反推/无反推：46次};
+    \node (pro66) [processPM, below of=pro65] {60：37次};
+    \node (pro67) [processPM, below of=pro66] {自动刹车解除：19次};
+    \node (stop) [startstop, below of=pro67] {Stop};
 
     % adding arrows
     \draw [arrow] (start) -- (pro1);
@@ -137,69 +113,30 @@
     \draw [arrow] (pro40) -- (pro41);
     \draw [arrow] (pro41) -- (pro42);
     \draw [arrow] (pro42) -- (pro43);
-    \draw [arrow] (pro43) -- (stop);
-
-    \draw [arrow,dashed] (pro1) -- (pro44);
-    \draw [arrow,dashed] (pro44) -- (pro45);
-    \draw [arrow,dashed] (pro45) -- (pro46);
-    \draw [arrow,dashed] (pro46) -- (pro47);
-    \draw [arrow,dashed] (pro47) -- (pro2);
-
-    \draw [arrow,dashed] (pro3) -- (pro48);
-    \draw [arrow,dashed] (pro48) -- (pro49);
-    \draw [arrow,dashed] (pro49) -- (pro50);
-    \draw [arrow,dashed] (pro50) -- (pro51);
-    \draw [arrow,dashed] (pro51) -- (pro52);
-    \draw [arrow,dashed] (pro52) -- (pro53);
-    \draw [arrow,dashed] (pro53) -- (pro4);
-
-    \draw [arrow,dashed] (pro4) -- (pro54);
-    \draw [arrow,dashed] (pro54) -- (pro55);
-    \draw [arrow,dashed] (pro55) -- (pro5);
-
-    \draw [arrow,dashed] (pro10) -- (pro56);
-    \draw [arrow,dashed] (pro56) -- (pro57);
-    \draw [arrow,dashed] (pro57) -- (pro11);
-
-    \draw [arrow,dashed] (pro14) -- (pro58);
-    \draw [arrow,dashed] (pro58) -- (pro59);
-    \draw [arrow,dashed] (pro59) -- (pro15);
-
-    \draw [arrow,dashed] (pro16) -- (pro60);
-    \draw [arrow,dashed] (pro60) -- (pro17);
-
-    \draw [arrow,dashed] (pro18) -- (pro61);
-    \draw [arrow,dashed] (pro61) -- (pro19);
-
-    \draw [arrow,dashed] (pro21) -- (pro62);
-    \draw [arrow,dashed] (pro62) -- (pro22);
-
-    \draw [arrow,dashed] (pro23) -- (pro63);
-    \draw [arrow,dashed] (pro63) -- (pro64);
-    \draw [arrow,dashed] (pro64) -- (pro65);
-    \draw [arrow,dashed] (pro65) -- (pro24);
-
-    \draw [arrow,dashed] (pro30) -- (pro66);
-    \draw [arrow,dashed] (pro66) -- (pro67);
-    \draw [arrow,dashed] (pro67) -- (pro31);
-
-    \draw [arrow,dashed] (pro33) -- (pro68);
-    \draw [arrow,dashed] (pro68) -- (pro69);
-    \draw [arrow,dashed] (pro69) -- (pro34);
-
-    \draw [arrow,dashed] (pro36) -- (pro70);
-    \draw [arrow,dashed] (pro70) -- (pro71);
-    \draw [arrow,dashed] (pro71) -- (pro37);
-
-    \draw [arrow,dashed] (pro40) -- (pro72);
-    \draw [arrow,dashed] (pro72) -- (pro73);
-    \draw [arrow,dashed] (pro73) -- (pro41);
-
-    \draw [arrow,dashed] (pro41) -- (pro74);
-    \draw [arrow,dashed] (pro74) -- (pro42);
-
-    \draw [arrow,dashed] (pro43) -- (pro75);
-    \draw [arrow,dashed] (pro75) -- (pro76);
-    \draw [arrow,dashed] (pro76) -- (stop);
+    \draw [arrow] (pro43) -- (pro44);
+    \draw [arrow] (pro44) -- (pro45);
+    \draw [arrow] (pro45) -- (pro46);
+    \draw [arrow] (pro46) -- (pro47);
+    \draw [arrow] (pro47) -- (pro48);
+    \draw [arrow] (pro48) -- (pro49);
+    \draw [arrow] (pro49) -- (pro50);
+    \draw [arrow] (pro50) -- (pro51);
+    \draw [arrow] (pro51) -- (pro52);
+    \draw [arrow] (pro52) -- (pro53);
+    \draw [arrow] (pro53) -- (pro54);
+    \draw [arrow] (pro54) -- (pro55);
+    \draw [arrow] (pro55) -- (pro56);
+    \draw [arrow] (pro56) -- (pro57);
+    \draw [arrow] (pro57) -- (pro58);
+    \draw [arrow] (pro58) -- (pro59);
+    \draw [arrow] (pro59) -- (pro60);
+    \draw [arrow] (pro60) -- (pro61);
+    \draw [arrow] (pro61) -- (pro62);
+    \draw [arrow] (pro62) -- (pro63);
+    \draw [arrow] (pro63) -- (pro64);
+    \draw [arrow] (pro64) -- (pro65);
+    \draw [arrow] (pro65) -- (pro66);
+    \draw [arrow] (pro66) -- (pro67);
+    \draw [arrow] (pro67) -- (stop);
 
 
