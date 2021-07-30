@@ -12,6 +12,7 @@ from compare import match_by_file
 from compare import lines
 from compare import reliance
 from drawFlowChart import draw_flow_chart
+from drawHistogram import draw_histogram
 from order import Text2order
 
 
@@ -224,4 +225,5 @@ if __name__ == "__main__":
     csv_writer.writerow(csv_line)
     print('====================   finished, match {}, not match {}   ===================='.format(total_match_count, total_not_match_count))
     draw_flow_chart(match_by_file, lines, reliance)
+    draw_histogram(match_by_file)
     # print(total_count, ' ', len(wholeRealFileName))
